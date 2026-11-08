@@ -1,0 +1,817 @@
+﻿image,transcription,transcription_nfc,script
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_0_0.png,ꦮꦶꦱꦗꦏ꧀ꦩꦏꦶꦭ꧀ꦭꦶꦲꦺꦮꦺꦴꦤ꧀ꦤꦶꦁꦲꦸꦏꦫꦱꦶꦁꦲꦺꦴꦫꦱꦒꦸꦃꦢꦶꦠꦺꦴꦏ꧀ꦏ꧀ꦏꦏꦺ꧉,ꦮꦶꦱꦗꦏ꧀ꦩꦏꦶꦭ꧀ꦭꦶꦲꦺꦮꦺꦴꦤ꧀ꦤꦶꦁꦲꦸꦏꦫꦱꦶꦁꦲꦺꦴꦫꦱꦒꦸꦃꦢꦶꦠꦺꦴꦏ꧀ꦏ꧀ꦏꦏꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_0_1.png,ꦥꦶꦱ꧀ꦩꦤꦶꦱ꧀ꦏꦸꦮꦶꦩꦸꦁꦢꦶꦲꦁꦒꦺꦴꦩꦶꦁꦏꦼꦩ꧀ꦫꦥꦼꦠ꧀‌꧈ꦤꦔꦶꦁꦲꦺꦱꦼꦩ꧀ꦩꦺꦱꦶꦁꦔꦸꦗꦶꦮꦠ꧀ꦏꦸ,ꦥꦶꦱ꧀ꦩꦤꦶꦱ꧀ꦏꦸꦮꦶꦩꦸꦁꦢꦶꦲꦁꦒꦺꦴꦩꦶꦁꦏꦼꦩ꧀ꦫꦥꦼꦠ꧀‌꧈ꦤꦔꦶꦁꦲꦺꦱꦼꦩ꧀ꦩꦺꦱꦶꦁꦔꦸꦗꦶꦮꦠ꧀ꦏꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_0_2.png,ꦤ꧀ꦛꦶꦭꦤ꧀ꦛꦶꦥ꧀꧈ꦱꦏꦭꦩ꧀ꦧꦺꦤꦺꦲꦺꦴꦫꦲꦤꦲꦸꦏꦫꦏꦁꦏꦮꦼꦠꦸ꧉ꦭꦩ꧀ꦧꦺꦱꦶꦁꦠꦶ,ꦤ꧀ꦛꦶꦭꦤ꧀ꦛꦶꦥ꧀꧈ꦱꦏꦭꦩ꧀ꦧꦺꦤꦺꦲꦺꦴꦫꦲꦤꦲꦸꦏꦫꦏꦁꦏꦮꦼꦠꦸ꧉ꦭꦩ꧀ꦧꦺꦱꦶꦁꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_0_3.png,꧋ꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦁꦒꦧ꧀ꦭꦺꦴꦒ꧀ꦥꦸꦤ꧀ꦝꦏ꧀ꦏꦸ꧉ꦩꦿꦶꦥꦠ꧀ꦠꦺꦏꦁꦱꦸꦩꦸꦤꦂꦏꦸꦮꦶꦩꦤ꧀ꦢꦼꦁꦏ,꧋ꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦁꦒꦧ꧀ꦭꦺꦴꦒ꧀ꦥꦸꦤ꧀ꦝꦏ꧀ꦏꦸ꧉ꦩꦿꦶꦥꦠ꧀ꦠꦺꦏꦁꦱꦸꦩꦸꦤꦂꦏꦸꦮꦶꦩꦤ꧀ꦢꦼꦁꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_0.png,ꦱꦸꦫꦥꦠꦿ꧈ꦏꦺꦴꦮꦺꦩꦶꦭꦸꦮꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈,ꦱꦸꦫꦥꦠꦿ꧈ꦏꦺꦴꦮꦺꦩꦶꦭꦸꦮꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_1.png,ꦤꦺꦱꦸꦮꦺꦱꦸꦮꦺꦩꦤꦺꦃ꧈ꦮꦼꦭꦶꦁꦏꦸꦩꦫꦁꦏꦺꦴꦮꦺ꧈,ꦤꦺꦱꦸꦮꦺꦱꦸꦮꦺꦩꦤꦺꦃ꧈ꦮꦼꦭꦶꦁꦏꦸꦩꦫꦁꦏꦺꦴꦮꦺ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_2.png,ꦏꦸꦧꦏꦭ꧀ꦲꦺꦴꦫꦧꦶꦱꦩꦁꦒꦺꦴꦤ꧀ꦲꦤꦏꦺ,ꦏꦸꦧꦏꦭ꧀ꦲꦺꦴꦫꦧꦶꦱꦩꦁꦒꦺꦴꦤ꧀ꦲꦤꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_3.png,ꦭꦗꦼꦁꦔꦶꦁꦒꦶꦤꦼꦩ꧀꧇ꦱꦸꦫꦥꦠꦿ꧈ꦩ꧀ꦧꦺꦴꦏ꧀ꦩꦤꦮꦲ,ꦭꦗꦼꦁꦔꦶꦁꦒꦶꦤꦼꦩ꧀꧇ꦱꦸꦫꦥꦠꦿ꧈ꦩ꧀ꦧꦺꦴꦏ꧀ꦩꦤꦮꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_4.png,ꦤ꧀ꦥꦸꦤꦥꦱꦕꦫꦶꦪꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ꦢꦺꦮꦶꦠꦶꦤ꧀ꦤꦮꦠꦶ꧈,ꦤ꧀ꦥꦸꦤꦥꦱꦕꦫꦶꦪꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ꦢꦺꦮꦶꦠꦶꦤ꧀ꦤꦮꦠꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_5.png,ꦤ꧀ꦲꦶꦁꦏꦁꦤꦩꦱꦸꦫꦥꦠꦿ꧈ꦲꦚꦫꦶꦪꦺꦴꦱ꧀ꦱꦏꦼ,ꦤ꧀ꦲꦶꦁꦏꦁꦤꦩꦱꦸꦫꦥꦠꦿ꧈ꦲꦚꦫꦶꦪꦺꦴꦱ꧀ꦱꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_6.png,꧋ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦭꦗꦼꦁꦕꦫꦶꦪꦺꦴꦱ꧀ꦝꦠꦼꦁꦩꦶꦠꦿꦤꦶꦥꦸ,꧋ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦭꦗꦼꦁꦕꦫꦶꦪꦺꦴꦱ꧀ꦝꦠꦼꦁꦩꦶꦠꦿꦤꦶꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_7.png,ꦫꦪꦶ꧈ꦢꦺꦤꦺꦱꦸꦏꦥꦶꦠꦼꦢꦃꦩꦏꦠꦼꦤ꧀꧈,ꦫꦪꦶ꧈ꦢꦺꦤꦺꦱꦸꦏꦥꦶꦠꦼꦢꦃꦩꦏꦠꦼꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_8.png,ꦱꦸꦂꦠꦶꦲꦔ꧀ꦭꦲꦶꦂꦫꦏꦼꦤ꧀ꦧꦶꦔꦃꦲꦶꦁꦩꦤꦃꦣꦠꦼꦁꦲꦶꦁꦏꦁ,ꦱꦸꦂꦠꦶꦲꦔ꧀ꦭꦲꦶꦂꦫꦏꦼꦤ꧀ꦧꦶꦔꦃꦲꦶꦁꦩꦤꦃꦣꦠꦼꦁꦲꦶꦁꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_9.png,ꦒꦼꦢ꧀ꦲꦚ꧀ꦗꦭꦂꦫꦶꦱꦸꦩꦸꦒꦶꦲꦶꦁꦠꦶꦮꦱ꧀꧈ꦏꦾꦲꦶ,ꦒꦼꦢ꧀ꦲꦚ꧀ꦗꦭꦂꦫꦶꦱꦸꦩꦸꦒꦶꦲꦶꦁꦠꦶꦮꦱ꧀꧈ꦏꦾꦲꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_10.png,ꦱꦩ꧀ꦥꦸꦤ꧀ꦥꦶꦱꦤ꧀ꦥꦶꦱꦤ꧀ꦥꦸꦫꦸꦤ꧀ꦤꦼꦣ꧈ꦲꦮꦶꦠ꧀ꦱ,ꦱꦩ꧀ꦥꦸꦤ꧀ꦥꦶꦱꦤ꧀ꦥꦶꦱꦤ꧀ꦥꦸꦫꦸꦤ꧀ꦤꦼꦣ꧈ꦲꦮꦶꦠ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_11.png,ꦧꦣꦺꦔꦶꦤ꧀ꦠꦸꦤ꧀ꦤꦶꦠꦼꦠꦼꦤ꧀ ꦮꦺꦭꦶꦁꦤꦶꦥꦸꦤ꧀꧇,ꦧꦣꦺꦔꦶꦤ꧀ꦠꦸꦤ꧀ꦤꦶꦠꦼꦠꦼꦤ꧀ ꦮꦺꦭꦶꦁꦤꦶꦥꦸꦤ꧀꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_12.png,ꦩꦼꦉꦥ꧀ꦧꦶꦭꦶꦃꦧꦺꦚ꧀ꦗꦶꦁꦲꦺꦚ꧀ꦗꦶꦁꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ,ꦩꦼꦉꦥ꧀ꦧꦶꦭꦶꦃꦧꦺꦚ꧀ꦗꦶꦁꦲꦺꦚ꧀ꦗꦶꦁꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_13.png,ꦣꦠꦼꦁꦔꦤ꧀ꦢꦺꦮꦶꦠꦶꦱ꧀ꦤꦮꦠꦶ꧈ꦥꦼꦂꦭꦸꦱꦸꦏꦱꦸ,ꦣꦠꦼꦁꦔꦤ꧀ꦢꦺꦮꦶꦠꦶꦱ꧀ꦤꦮꦠꦶ꧈ꦥꦼꦂꦭꦸꦱꦸꦏꦱꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_14.png,꧋ꦤꦸꦁꦒꦶꦭ꧀ꦲꦶꦁꦱꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦮꦲꦸ꧈ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦏ,꧋ꦤꦸꦁꦒꦶꦭ꧀ꦲꦶꦁꦱꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦮꦲꦸ꧈ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_15.png,ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦏꦼꦥꦉꦁꦲꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶꦥꦶꦱꦸꦁꦱꦸꦁꦮꦲꦸ꧉,ꦏꦾꦲꦶꦱꦸꦂꦠꦶꦏꦼꦥꦉꦁꦲꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶꦥꦶꦱꦸꦁꦱꦸꦁꦮꦲꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_16.png,ꦏꦕꦲꦺꦴꦱꦏꦼꦤ꧀ꦲꦶꦁꦏꦾꦲꦶꦱꦸꦂꦠꦶ꧉,ꦏꦕꦲꦺꦴꦱꦏꦼꦤ꧀ꦲꦶꦁꦏꦾꦲꦶꦱꦸꦂꦠꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_17.png,ꦫꦁꦧꦺꦴꦭꦺꦴꦁ꧈ꦲꦔꦠꦸꦂꦫꦏꦼꦤ꧀ꦝꦲꦂꦫꦤ꧀‌ꦩꦸꦒꦶ,ꦫꦁꦧꦺꦴꦭꦺꦴꦁ꧈ꦲꦔꦠꦸꦂꦫꦏꦼꦤ꧀ꦝꦲꦂꦫꦤ꧀‌ꦩꦸꦒꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_18.png,ꦤ꧀ꦢꦺꦤꦶꦁꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈ ꦲꦺꦚ꧀ꦗꦶꦁꦔꦶꦥꦸꦤ꧀ꦭꦗꦼꦁ,ꦤ꧀ꦢꦺꦤꦶꦁꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈ ꦲꦺꦚ꧀ꦗꦶꦁꦔꦶꦥꦸꦤ꧀ꦭꦗꦼꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_19.png,ꦥꦸꦤ꧀ꦏꦺꦁꦏꦺꦤ꧀ꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈ꦏꦼꦥꦭꦲꦶꦁꦏ,ꦥꦸꦤ꧀ꦏꦺꦁꦏꦺꦤ꧀ꦏꦶꦤꦧ꧀ꦱꦶꦪꦃ꧈ꦏꦼꦥꦭꦲꦶꦁꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_20.png,ꦱꦩ꧀ꦥꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦩꦠꦼꦁꦭꦗꦼꦁꦢꦶꦥꦸꦤ꧀ꦢꦺꦏꦺꦏꦶꦫꦕꦸ,ꦱꦩ꧀ꦥꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦩꦠꦼꦁꦭꦗꦼꦁꦢꦶꦥꦸꦤ꧀ꦢꦺꦏꦺꦏꦶꦫꦕꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_21.png,ꦤ꧀ ꦠꦼꦩ꧀ꦧꦸꦔꦶꦥꦸꦤ꧀ꦏꦺꦏꦼꦤ꧀ꦤ꧀ꦤꦤ꧀꧇ꦱꦺꦴꦮꦤ꧀ꦏꦸꦭꦢꦶ,ꦤ꧀ ꦠꦼꦩ꧀ꦧꦸꦔꦶꦥꦸꦤ꧀ꦏꦺꦏꦼꦤ꧀ꦤ꧀ꦤꦤ꧀꧇ꦱꦺꦴꦮꦤ꧀ꦏꦸꦭꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_22.png,ꦤꦭꦶꦏꦔꦿꦶꦏꦸꦭꦗꦼꦁꦲꦺꦴꦭꦃꦲꦺꦴꦭꦃ꧈ꦱ,ꦤꦭꦶꦏꦔꦿꦶꦏꦸꦭꦗꦼꦁꦲꦺꦴꦭꦃꦲꦺꦴꦭꦃ꧈ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_23.png,ꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦏꦶꦤꦧ꧀ꦱꦶꦪꦃꦲꦩ꧀ꦧꦼꦏ꧀ꦠꦥꦏꦶꦤ꧀ꦠꦸꦤ꧀ꦤꦤ꧀ꦝꦲꦫ,ꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦏꦶꦤꦧ꧀ꦱꦶꦪꦃꦲꦩ꧀ꦧꦼꦏ꧀ꦠꦥꦏꦶꦤ꧀ꦠꦸꦤ꧀ꦤꦤ꧀ꦝꦲꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_24.png,ꦧꦺꦴꦠꦼꦤ꧀ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦏꦁꦥꦸꦫꦸꦤ꧀ꦩꦧꦺꦤꦶ꧉ꦱ,ꦧꦺꦴꦠꦼꦤ꧀ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦏꦁꦥꦸꦫꦸꦤ꧀ꦩꦧꦺꦤꦶ꧉ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_25.png,꧋ꦧꦺꦴꦗꦺꦴꦤꦶꦥꦸꦤ꧀ꦠꦼꦠꦶꦒꦱꦩꦶꦲꦗꦿꦶꦃꦱꦢꦪ꧈,꧋ꦧꦺꦴꦗꦺꦴꦤꦶꦥꦸꦤ꧀ꦠꦼꦠꦶꦒꦱꦩꦶꦲꦗꦿꦶꦃꦱꦢꦪ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_26.png,ꦤꦏ꧀ꦏꦸ꧈ꦲꦮꦶꦠ꧀ꦪꦩꦸꦁꦏꦺꦴꦮꦺꦏꦁꦱꦸꦩꦸꦫꦸꦥ꧀꧈,ꦤꦏ꧀ꦏꦸ꧈ꦲꦮꦶꦠ꧀ꦪꦩꦸꦁꦏꦺꦴꦮꦺꦏꦁꦱꦸꦩꦸꦫꦸꦥ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_27.png,꧋ꦢꦼꦢꦺꦴꦔꦺꦁꦔꦤ꧀ꦎꦁꦏ꧇꧑꧕꧉,꧋ꦢꦼꦢꦺꦴꦔꦺꦁꦔꦤ꧀ꦎꦁꦏ꧇꧑꧕꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_28.png,ꦱꦸꦥꦪꦏꦺꦴꦮꦺꦧꦶꦱꦩꦺꦴꦩꦺꦴꦁꦲꦤꦏ꧀ꦲ,ꦱꦸꦥꦪꦏꦺꦴꦮꦺꦧꦶꦱꦩꦺꦴꦩꦺꦴꦁꦲꦤꦏ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_1_29.png,ꦲꦺꦚ꧀ꦗꦶꦁꦔꦶꦥꦸꦤ꧀ ꦱꦲꦺꦱ꧀ꦠꦸꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦏꦺꦁꦏꦺꦤ꧀ꦤ,ꦲꦺꦚ꧀ꦗꦶꦁꦔꦶꦥꦸꦤ꧀ ꦱꦲꦺꦱ꧀ꦠꦸꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦏꦺꦁꦏꦺꦤ꧀ꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_2_0.png,ꦲꦺꦴꦫꦏꦸꦤꦶꦁ꧈ꦲꦶꦉꦁꦲꦺꦴꦫꦲꦶꦉꦁ꧉,ꦲꦺꦴꦫꦏꦸꦤꦶꦁ꧈ꦲꦶꦉꦁꦲꦺꦴꦫꦲꦶꦉꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_2_1.png,ꦱꦼꦒ꧀ ꦩꦿꦶꦥꦠ꧀ꦠꦺꦭꦸꦩꦿꦃꦮꦲꦺ꧉ꦥꦏꦸꦭꦶꦠ꧀ꦠꦤ꧀ꦤꦺꦏꦸꦤꦶꦁ,ꦱꦼꦒ꧀ ꦩꦿꦶꦥꦠ꧀ꦠꦺꦭꦸꦩꦿꦃꦮꦲꦺ꧉ꦥꦏꦸꦭꦶꦠ꧀ꦠꦤ꧀ꦤꦺꦏꦸꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_2_2.png,ꦫꦶꦩꦂꦢꦶꦪꦏꦺꦢꦤ꧀ꦤꦤ꧀ ꦫꦸꦥꦲꦺꦴꦫꦭꦪꦸ꧈ꦲꦶꦫꦸꦁꦫꦢꦧ꧀ꦭꦼ,ꦫꦶꦩꦂꦢꦶꦪꦏꦺꦢꦤ꧀ꦤꦤ꧀ ꦫꦸꦥꦲꦺꦴꦫꦭꦪꦸ꧈ꦲꦶꦫꦸꦁꦫꦢꦧ꧀ꦭꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_2_3.png,꧋ꦗꦿꦺꦴꦤꦶꦁꦧꦠꦶꦤ꧀ꦏꦸꦮꦸꦃꦥꦶꦠꦏꦺꦴꦤ꧀ ꦲꦥꦱꦶꦁꦲꦚ꧀ꦗꦭꦂ,꧋ꦗꦿꦺꦴꦤꦶꦁꦧꦠꦶꦤ꧀ꦏꦸꦮꦸꦃꦥꦶꦠꦏꦺꦴꦤ꧀ ꦲꦥꦱꦶꦁꦲꦚ꧀ꦗꦭꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_3_0.png,ꦏꦺꦡꦱ꧀ꦩꦶꦠꦼꦫꦸꦱ꧀ꦢꦶꦮꦕ꧉,ꦏꦺꦡꦱ꧀ꦩꦶꦠꦼꦫꦸꦱ꧀ꦢꦶꦮꦕ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_3_1.png,ꦱꦼꦏꦺꦴꦭꦲꦤ꧀ꦤꦺꦲꦤꦏ꧀ꦏꦺꦏꦁꦢꦶꦮꦺꦤꦺꦲ,ꦱꦼꦏꦺꦴꦭꦲꦤ꧀ꦤꦺꦲꦤꦏ꧀ꦏꦺꦏꦁꦢꦶꦮꦺꦤꦺꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_3_2.png,ꦏꦪꦸꦤꦺꦴꦁꦏꦱꦶꦁꦮꦶꦱ꧀ ꦏ꧀ꦭꦮꦸꦱ꧀‌꧈ꦱꦸꦫꦠ꧀ꦱꦼꦏ,ꦏꦪꦸꦤꦺꦴꦁꦏꦱꦶꦁꦮꦶꦱ꧀ ꦏ꧀ꦭꦮꦸꦱ꧀‌꧈ꦱꦸꦫꦠ꧀ꦱꦼꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_3_3.png,꧋ꦭꦯꦶꦪꦲꦺꦴꦫꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ ꦩꦸꦁꦭꦸꦁꦒꦸꦃꦲꦶꦁꦏꦸꦂꦱꦶ,꧋ꦭꦯꦶꦪꦲꦺꦴꦫꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ ꦩꦸꦁꦭꦸꦁꦒꦸꦃꦲꦶꦁꦏꦸꦂꦱꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_4_0.png,ꦱꦼꦢꦶꦤꦫꦺꦴꦁꦢꦶꦤꦏꦪꦲꦺꦴꦫꦲꦤꦲꦥꦲꦥ꧉,ꦱꦼꦢꦶꦤꦫꦺꦴꦁꦢꦶꦤꦏꦪꦲꦺꦴꦫꦲꦤꦲꦥꦲꦥ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_4_1.png,ꦩꦿꦶꦥꦠ꧀ꦠꦼꦭꦺꦴꦥ꧀ꦏꦼꦭꦺꦴꦥ꧀ ꦧꦠꦶꦤ꧀ꦤꦺꦲꦁꦒ꧀ꦭꦼ ꦒꦼꦱ꧀‌꧈,ꦩꦿꦶꦥꦠ꧀ꦠꦼꦭꦺꦴꦥ꧀ꦏꦼꦭꦺꦴꦥ꧀ ꦧꦠꦶꦤ꧀ꦤꦺꦲꦁꦒ꧀ꦭꦼ ꦒꦼꦱ꧀‌꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_4_2.png,ꦠꦸꦏꦸꦧꦤ꧀‌ꦝꦶꦪꦱ꧀ꦭꦸꦩꦃꦭꦸꦩꦃꦔꦿꦁꦏꦸꦭ꧀ꦧꦤ꧀ꦠꦭ꧀‌꧈,ꦠꦸꦏꦸꦧꦤ꧀‌ꦝꦶꦪꦱ꧀ꦭꦸꦩꦃꦭꦸꦩꦃꦔꦿꦁꦏꦸꦭ꧀ꦧꦤ꧀ꦠꦭ꧀‌꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_4_3.png,꧋ꦤꦭꦶꦏꦑꦂꦪꦤ꧀ꦠꦠꦼꦏ꧈ꦎꦩ꧀ꦮꦶ ꦮꦶꦱ꧀ ꦔ꧀ꦭꦤꦺꦤ꧀ꦤꦶꦮꦺꦴꦁ,꧋ꦤꦭꦶꦏꦑꦂꦪꦤ꧀ꦠꦠꦼꦏ꧈ꦎꦩ꧀ꦮꦶ ꦮꦶꦱ꧀ ꦔ꧀ꦭꦤꦺꦤ꧀ꦤꦶꦮꦺꦴꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_5_0.png,ꦱꦶꦏ꧀ ꦱꦼ ꦏꦺꦴꦭꦃꦲꦺꦪꦏ꧀ꦭꦼꦧꦸꦥꦶꦤ꧀ꦠꦼꦂ꧉,ꦱꦶꦏ꧀ ꦱꦼ ꦏꦺꦴꦭꦃꦲꦺꦪꦏ꧀ꦭꦼꦧꦸꦥꦶꦤ꧀ꦠꦼꦂ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_5_1.png,ꦭꦤ꧀ꦢꦶꦂꦟ꧉ꦦꦂꦠꦶꦔꦼꦂꦠꦶꦧꦔꦼꦠ꧀ꦱꦥꦢꦂꦟ꧉ꦲꦠꦶꦤꦺꦧꦼ,ꦭꦤ꧀ꦢꦶꦂꦟ꧉ꦦꦂꦠꦶꦔꦼꦂꦠꦶꦧꦔꦼꦠ꧀ꦱꦥꦢꦂꦟ꧉ꦲꦠꦶꦤꦺꦧꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_5_2.png,ꦲꦺꦲꦺꦴꦫꦗꦩꦏ꧀ ꦱꦶꦢꦏꦼꦭꦏꦺꦴꦤ꧀ꦲꦉꦥ꧀ꦢꦶꦗꦏ꧀ꦢꦺꦴ,ꦲꦺꦲꦺꦴꦫꦗꦩꦏ꧀ ꦱꦶꦢꦏꦼꦭꦏꦺꦴꦤ꧀ꦲꦉꦥ꧀ꦢꦶꦗꦏ꧀ꦢꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_5_3.png,꧋ꦲꦼꦤ꧀ꦠꦸꦏ꧀ꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ꦔꦺꦴꦤꦺꦴꦩꦲꦸꦲꦠꦶꦤꦺꦦꦂꦠꦶꦧꦸꦔꦃ,꧋ꦲꦼꦤ꧀ꦠꦸꦏ꧀ꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ꦔꦺꦴꦤꦺꦴꦩꦲꦸꦲꦠꦶꦤꦺꦦꦂꦠꦶꦧꦸꦔꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_0.png,ꦤ꧀ꦤꦶꦥꦸꦤ꧀ ........ ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ,ꦤ꧀ꦤꦶꦥꦸꦤ꧀ ........ ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_1.png,ꦤ꧀ꦤꦼꦫꦁꦔꦏꦼꦤ꧀ꦭꦭꦤ꧀ꦝꦼꦥ꧀ꦱꦲꦢꦪꦏꦠꦶꦪꦱ,ꦤ꧀ꦤꦼꦫꦁꦔꦏꦼꦤ꧀ꦭꦭꦤ꧀ꦝꦼꦥ꧀ꦱꦲꦢꦪꦏꦠꦶꦪꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_2.png,ꦱꦿ꧈ꦤꦶꦠꦶꦏ꧀ꦱꦏꦶꦁꦲꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦏꦭꦮꦲꦸꦱꦩ꧀ꦥꦸ,ꦱꦿ꧈ꦤꦶꦠꦶꦏ꧀ꦱꦏꦶꦁꦲꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦏꦭꦮꦲꦸꦱꦩ꧀ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_3.png,ꦤ꧀ꦱꦼꦁꦏꦼꦭꦤ꧀ ꦗꦼꦤꦼꦁꦲꦸꦠꦮꦶꦲꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦤꦒꦱ,ꦤ꧀ꦱꦼꦁꦏꦼꦭꦤ꧀ ꦗꦼꦤꦼꦁꦲꦸꦠꦮꦶꦲꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦤꦒꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_4.png,ꦥꦸꦂꦗꦼꦤꦼꦁꦭꦤ꧀ꦲꦫꦤ꧀ ꦕꦺꦴꦤ꧀ꦠꦺꦴꦤꦶꦥꦸꦤ꧀ꦝꦥꦸꦂꦫꦶꦥꦸ,ꦥꦸꦂꦗꦼꦤꦼꦁꦭꦤ꧀ꦲꦫꦤ꧀ ꦕꦺꦴꦤ꧀ꦠꦺꦴꦤꦶꦥꦸꦤ꧀ꦝꦥꦸꦂꦫꦶꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_5.png,ꦤ꧀ꦲꦶꦁꦏꦁꦏꦱꦼꦧꦠ꧀ꦲꦶꦁꦔꦶꦁꦒꦶꦭ꧀  ꦭꦤ꧀ꦝꦼꦥꦶꦁꦝ,ꦤ꧀ꦲꦶꦁꦏꦁꦏꦱꦼꦧꦠ꧀ꦲꦶꦁꦔꦶꦁꦒꦶꦭ꧀  ꦭꦤ꧀ꦝꦼꦥꦶꦁꦝ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_6.png,ꦥꦤ꧀ꦝꦤ꧀ꦭꦤ꧀ꦭ ꦩ꧀ꦧꦺꦒꦗꦃꦠꦤ꧀ꦥꦿꦧꦺꦢꦏꦭꦶꦪ,ꦥꦤ꧀ꦝꦤ꧀ꦭꦤ꧀ꦭ ꦩ꧀ꦧꦺꦒꦗꦃꦠꦤ꧀ꦥꦿꦧꦺꦢꦏꦭꦶꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_7.png,ꦩꦠꦩ꧀ꦠꦸꦱꦒꦼꦢ꧀ꦩꦶꦠꦸꦤꦤꦶ꧈ꦱꦩꦤ꧀ꦠꦼꦤ꧀ꦲꦸꦒꦶꦒꦽꦤꦼꦁꦫꦶ,ꦩꦠꦩ꧀ꦠꦸꦱꦒꦼꦢ꧀ꦩꦶꦠꦸꦤꦤꦶ꧈ꦱꦩꦤ꧀ꦠꦼꦤ꧀ꦲꦸꦒꦶꦒꦽꦤꦼꦁꦫꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_8.png,ꦏꦤꦤ꧀ꦏꦺꦫꦶꦁꦩꦶꦮꦃꦒꦸꦁꦱꦺꦤ꧀ꦔꦗꦼꦁꦭꦤ꧀ꦮꦶꦁꦏꦶꦁꦩꦤꦮꦶꦠꦸꦩ,ꦏꦤꦤ꧀ꦏꦺꦫꦶꦁꦩꦶꦮꦃꦒꦸꦁꦱꦺꦤ꧀ꦔꦗꦼꦁꦭꦤ꧀ꦮꦶꦁꦏꦶꦁꦩꦤꦮꦶꦠꦸꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_9.png,ꦠꦮꦶꦭꦚ꧀ꦕꦶꦥ꧀ꦱꦩ꧀ꦥꦸꦤ꧀ꦕꦼꦛ꧈ꦭꦤ꧀ꦝꦼꦥ꧀ꦥꦶꦁꦥꦩꦺꦴꦂ,ꦠꦮꦶꦭꦚ꧀ꦕꦶꦥ꧀ꦱꦩ꧀ꦥꦸꦤ꧀ꦕꦼꦛ꧈ꦭꦤ꧀ꦝꦼꦥ꧀ꦥꦶꦁꦥꦩꦺꦴꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_10.png,ꦝꦥꦸꦂꦗꦼꦤꦼꦁꦠꦸꦮꦶꦤ꧀ꦲꦫꦤ꧀ ꦭꦤ꧀ꦣꦼꦥ꧀ꦥꦶꦁ ꦱꦸꦭꦲꦸ,ꦝꦥꦸꦂꦗꦼꦤꦼꦁꦠꦸꦮꦶꦤ꧀ꦲꦫꦤ꧀ ꦭꦤ꧀ꦣꦼꦥ꧀ꦥꦶꦁ ꦱꦸꦭꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_11.png,ꦲꦶꦁꦒꦽꦤꦼꦁꦫꦶꦥꦤ꧀ꦝꦤ꧀ꦭꦤ꧀ꦭꦩ꧀ꦧꦺꦒꦗꦃ꧈ꦭꦤ꧀ꦭꦤ꧀ꦝꦼꦥꦶꦁ,ꦲꦶꦁꦒꦽꦤꦼꦁꦫꦶꦥꦤ꧀ꦝꦤ꧀ꦭꦤ꧀ꦭꦩ꧀ꦧꦺꦒꦗꦃ꧈ꦭꦤ꧀ꦭꦤ꧀ꦝꦼꦥꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_12.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ ........ ꦲꦶꦁꦒꦸꦁꦱꦺꦤ꧀ꦔꦗꦼꦁꦭꦤ꧀ꦮꦶꦁꦏꦶꦁ,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ ........ ꦲꦶꦁꦒꦸꦁꦱꦺꦤ꧀ꦔꦗꦼꦁꦭꦤ꧀ꦮꦶꦁꦏꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_13.png,ꦠꦼꦩ꧀ꦧꦸꦁ꧉ (꧑꧔),ꦠꦼꦩ꧀ꦧꦸꦁ꧉ (꧑꧔),jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_14.png,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶ ꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶ ꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_6_15.png,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_7_0.png,꧋ꦲꦺꦴꦭꦺꦲꦺꦔꦺꦴꦧꦿꦺꦴꦭ꧀ꦢꦶꦠꦼꦫꦸꦱ꧀ꦱꦏꦺꦔꦤ꧀ꦠꦶꦲꦺꦴꦫꦏꦿꦱ,꧋ꦲꦺꦴꦭꦺꦲꦺꦔꦺꦴꦧꦿꦺꦴꦭ꧀ꦢꦶꦠꦼꦫꦸꦱ꧀ꦱꦏꦺꦔꦤ꧀ꦠꦶꦲꦺꦴꦫꦏꦿꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_7_1.png,ꦥꦝꦏꦼꦠꦸꦫꦺꦴꦤ꧀‌꧈ꦲꦺꦱꦸꦏ꧀ꦏꦺꦠꦔꦶꦤꦺꦄꦤ꧀ꦛ꧈ꦡꦺꦴꦠꦺꦴꦏ꧀ꦭꦤ꧀ꦯꦸ,ꦥꦝꦏꦼꦠꦸꦫꦺꦴꦤ꧀‌꧈ꦲꦺꦱꦸꦏ꧀ꦏꦺꦠꦔꦶꦤꦺꦄꦤ꧀ꦛ꧈ꦡꦺꦴꦠꦺꦴꦏ꧀ꦭꦤ꧀ꦯꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_7_2.png,ꦲꦤ꧀ꦝꦫꦝꦏꦿꦶꦤꦤ꧀‌꧈ꦄꦁꦒꦸꦤ꧀ꦭꦤ꧀ꦲꦺꦟ꧀ꦢꦿ ꦮꦶꦱ꧀ꦠꦔꦶꦭꦸꦮꦶꦃꦝꦶꦱꦶꦏ꧀꧈ ,ꦲꦤ꧀ꦝꦫꦝꦏꦿꦶꦤꦤ꧀‌꧈ꦄꦁꦒꦸꦤ꧀ꦭꦤ꧀ꦲꦺꦟ꧀ꦢꦿ ꦮꦶꦱ꧀ꦠꦔꦶꦭꦸꦮꦶꦃꦝꦶꦱꦶꦏ꧀꧈ ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_0.png,ꦏꦼꦤ꧀ꦠꦶꦠꦶꦪꦁꦗꦮꦶꦏ꧀ꦭꦸꦛꦸꦏ꧀ꦮꦲꦸ꧉,ꦏꦼꦤ꧀ꦠꦶꦠꦶꦪꦁꦗꦮꦶꦏ꧀ꦭꦸꦛꦸꦏ꧀ꦮꦲꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_1.png,ꦕꦲꦶꦥꦸꦤ꧀ ꦱꦂꦠꦠꦶꦠꦶꦪꦁꦲꦶꦟ꧀ꦝꦸꦭꦗꦼꦁꦱꦒꦼꦣ꧀ꦔꦼꦫꦺꦃꦲ,ꦕꦲꦶꦥꦸꦤ꧀ ꦱꦂꦠꦠꦶꦠꦶꦪꦁꦲꦶꦟ꧀ꦝꦸꦭꦗꦼꦁꦱꦒꦼꦣ꧀ꦔꦼꦫꦺꦃꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_2.png,ꦪꦁꦗꦮꦶ꧉ꦲꦶꦁꦏꦭꦱꦩꦤ꧀ꦠꦼꦤ꧀ꦠꦼꦏ꧀ꦱꦶꦃꦱꦏꦼꦣꦶꦏ꧀ꦱꦔꦼꦠ꧀ꦧ,ꦪꦁꦗꦮꦶ꧉ꦲꦶꦁꦏꦭꦱꦩꦤ꧀ꦠꦼꦤ꧀ꦠꦼꦏ꧀ꦱꦶꦃꦱꦏꦼꦣꦶꦏ꧀ꦱꦔꦼꦠ꧀ꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_3.png,ꦭꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦂꦠꦠꦠꦕꦫꦤꦶꦥꦸꦤ꧀ꦝꦠꦼꦁꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦠꦶ,ꦭꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦂꦠꦠꦠꦕꦫꦤꦶꦥꦸꦤ꧀ꦝꦠꦼꦁꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_4.png,ꦥꦸꦤꦥꦩꦭꦶꦃꦭꦗꦼꦁꦩꦸꦭꦔꦏꦼꦤ꧀ꦲꦒꦩꦶꦠꦸꦮꦶꦤ꧀ꦢꦢꦩꦼ,ꦥꦸꦤꦥꦩꦭꦶꦃꦭꦗꦼꦁꦩꦸꦭꦔꦏꦼꦤ꧀ꦲꦒꦩꦶꦠꦸꦮꦶꦤ꧀ꦢꦢꦩꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_5.png,ꦩꦶꦔꦭꦶꦃꦥꦁꦒꦺꦤꦤ꧀ꦢꦸꦩꦸꦤꦸꦁꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦥꦸꦭꦺꦴꦗꦮꦶ꧉,ꦩꦶꦔꦭꦶꦃꦥꦁꦒꦺꦤꦤ꧀ꦢꦸꦩꦸꦤꦸꦁꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦥꦸꦭꦺꦴꦗꦮꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_6.png,ꦢꦸꦭ꧀ꦮꦺꦠꦤ꧀ ꦱꦂꦠꦧꦺꦴꦠꦼꦤ꧀ꦭꦩꦶꦭꦗꦼꦁꦏꦛꦃꦲꦶꦁꦏꦁꦱ,ꦢꦸꦭ꧀ꦮꦺꦠꦤ꧀ ꦱꦂꦠꦧꦺꦴꦠꦼꦤ꧀ꦭꦩꦶꦭꦗꦼꦁꦏꦛꦃꦲꦶꦁꦏꦁꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_7.png,ꦤ꧀ꦲꦔꦺꦤ꧀ꦲꦔꦶꦤ꧀ꦠꦼꦠꦼꦥ꧀ꦲꦶꦁꦏꦁꦒꦶꦭꦶꦂꦒꦸꦩꦤ꧀ꦠꦺꦴꦱ꧀ꦱꦏꦶꦁꦏꦶ,ꦤ꧀ꦲꦔꦺꦤ꧀ꦲꦔꦶꦤ꧀ꦠꦼꦠꦼꦥ꧀ꦲꦶꦁꦏꦁꦒꦶꦭꦶꦂꦒꦸꦩꦤ꧀ꦠꦺꦴꦱ꧀ꦱꦏꦶꦁꦏꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_8.png,ꦤ꧀ꦲꦔꦶꦤ꧀ꦠꦼꦠꦼꦥ꧀ꦱꦏꦶꦁꦭꦺꦂꦏꦶꦭꦺꦤ꧀ꦱꦂꦠꦮꦁꦱꦸꦭ꧀ꦭꦶꦥꦸ,ꦤ꧀ꦲꦔꦶꦤ꧀ꦠꦼꦠꦼꦥ꧀ꦱꦏꦶꦁꦭꦺꦂꦏꦶꦭꦺꦤ꧀ꦱꦂꦠꦮꦁꦱꦸꦭ꧀ꦭꦶꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_9.png,ꦝꦠꦼꦁꦔꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦟ꧀ꦣꦸ ꦲꦶꦁꦠꦤꦃꦗꦮꦶꦱꦫꦤꦲꦔꦺ,ꦝꦠꦼꦁꦔꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦟ꧀ꦣꦸ ꦲꦶꦁꦠꦤꦃꦗꦮꦶꦱꦫꦤꦲꦔꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_10.png,ꦔꦤ꧀ꦲꦶꦁꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦲꦶꦟ꧀ꦢꦶꦪ꧈ꦲꦤꦼꦫꦁꦔꦏꦼꦤ꧀ꦧꦶꦭꦶꦃ,ꦔꦤ꧀ꦲꦶꦁꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦲꦶꦟ꧀ꦢꦶꦪ꧈ꦲꦤꦼꦫꦁꦔꦏꦼꦤ꧀ꦧꦶꦭꦶꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_11.png,ꦮꦶꦚꦼꦧꦸꦠ꧀ꦠꦏꦼꦤ꧀ꦱꦏꦛꦃꦲꦶꦁꦤꦩꦤꦩꦤꦶꦥꦸꦤ꧀ꦥꦢꦸꦤꦸꦁ,ꦮꦶꦚꦼꦧꦸꦠ꧀ꦠꦏꦼꦤ꧀ꦱꦏꦛꦃꦲꦶꦁꦤꦩꦤꦩꦤꦶꦥꦸꦤ꧀ꦥꦢꦸꦤꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_12.png,꧋ꦱꦼꦫꦠ꧀ꦥꦺꦥꦺꦔꦼꦠ꧀ꦠ ꦤ꧀ꦧꦧꦢ꧀ꦤ ꦒꦫꦶꦕꦶꦟꦮꦲꦸ꧈ꦲꦶꦁꦏꦁꦩ,꧋ꦱꦼꦫꦠ꧀ꦥꦺꦥꦺꦔꦼꦠ꧀ꦠ ꦤ꧀ꦧꦧꦢ꧀ꦤ ꦒꦫꦶꦕꦶꦟꦮꦲꦸ꧈ꦲꦶꦁꦏꦁꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_13.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_14.png,ꦏꦫꦁꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦏꦫꦁꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_15.png,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_16.png,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧙꧇,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧙꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_17.png,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_18.png,ꦱꦺꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,ꦱꦺꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_19.png,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶ꧈ꦏꦫꦔꦤ꧀꧇,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶ꧈ꦏꦫꦔꦤ꧀꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_8_20.png,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_9_0.png,ꦤꦺꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃꦲꦏꦸꦧꦸꦝꦭ꧀ꦩꦼꦚꦁꦲꦺꦴꦩꦃꦲꦺꦭꦶꦏ꧀ꦓꦶꦪꦼꦩ꧀꧈,ꦤꦺꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃꦲꦏꦸꦧꦸꦝꦭ꧀ꦩꦼꦚꦁꦲꦺꦴꦩꦃꦲꦺꦭꦶꦏ꧀ꦓꦶꦪꦼꦩ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_9_1.png,ꦱꦺꦤ꧀ꦠꦼꦂꦱꦏ꧀ꦕꦤ꧀ꦝꦏ꧀ꦧꦚ꧀ꦗꦸꦂꦢꦏ꧀ꦕꦼꦏꦼꦭ꧀ꦏꦼꦚ꧀ꦕꦼꦁ꧉ꦱꦮꦶꦱ꧀ꦱꦺ ꦥꦩꦶꦠ꧀ꦩꦫꦁꦲꦶꦧꦸ,ꦱꦺꦤ꧀ꦠꦼꦂꦱꦏ꧀ꦕꦤ꧀ꦝꦏ꧀ꦧꦚ꧀ꦗꦸꦂꦢꦏ꧀ꦕꦼꦏꦼꦭ꧀ꦏꦼꦚ꧀ꦕꦼꦁ꧉ꦱꦮꦶꦱ꧀ꦱꦺ ꦥꦩꦶꦠ꧀ꦩꦫꦁꦲꦶꦧꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_9_2.png,꧋ꦱꦫꦸꦁꦏꦸꦢꦏ꧀ꦕꦺꦴꦥꦺꦴꦠ꧀ꦧꦚ꧀ꦗꦸꦂꦒꦤ꧀ꦠꦶꦕ꧀ꦭꦤꦭꦤ꧀ꦲꦺꦩ꧀ꦱꦥ꦳ꦫꦶꦏꦿꦺꦩ꧀꧈,꧋ꦱꦫꦸꦁꦏꦸꦢꦏ꧀ꦕꦺꦴꦥꦺꦴꦠ꧀ꦧꦚ꧀ꦗꦸꦂꦒꦤ꧀ꦠꦶꦕ꧀ꦭꦤꦭꦤ꧀ꦲꦺꦩ꧀ꦱꦥ꦳ꦫꦶꦏꦿꦺꦩ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_10_0.png,ꦢꦸꦫꦸꦁꦥꦼꦂꦕꦪꦄꦁꦒꦸꦤ꧀ꦢꦸꦮꦺꦠꦽꦏꦃꦏꦪꦔꦺꦴꦤꦺꦴ꧉,ꦢꦸꦫꦸꦁꦥꦼꦂꦕꦪꦄꦁꦒꦸꦤ꧀ꦢꦸꦮꦺꦠꦽꦏꦃꦏꦪꦔꦺꦴꦤꦺꦴ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_10_1.png,ꦱ꧀ꦱꦺ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦔꦶꦱ꧀ ꦔ꧀ꦒꦸꦒꦸꦏ꧀‌꧈ꦱꦼꦤꦗꦤ꧀ꦧꦠꦶꦤ꧀ꦤꦺ,ꦱ꧀ꦱꦺ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦔꦶꦱ꧀ ꦔ꧀ꦒꦸꦒꦸꦏ꧀‌꧈ꦱꦼꦤꦗꦤ꧀ꦧꦠꦶꦤ꧀ꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_10_2.png,ꦏꦸꦱꦤꦭꦶꦏꦲꦮꦏ꧀ꦏꦺꦊꦩꦼꦱ꧀‌ꦲꦺꦴꦫꦧꦶꦱꦔꦩ꧀ꦥꦼꦠ꧀ꦠꦔꦶ ,ꦏꦸꦱꦤꦭꦶꦏꦲꦮꦏ꧀ꦏꦺꦊꦩꦼꦱ꧀‌ꦲꦺꦴꦫꦧꦶꦱꦔꦩ꧀ꦥꦼꦠ꧀ꦠꦔꦶ ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_10_3.png,꧋ꦝꦺꦴꦏ꧀ꦠꦼꦂꦮꦤꦶꦠꦏꦁꦫꦸꦩꦺꦴꦁꦱꦏꦺꦴꦚ꧀ꦕꦠ꧀ꦠꦤ꧀ꦏꦠꦿꦶꦱ꧀ꦤꦤ꧀ꦲꦶ,꧋ꦝꦺꦴꦏ꧀ꦠꦼꦂꦮꦤꦶꦠꦏꦁꦫꦸꦩꦺꦴꦁꦱꦏꦺꦴꦚ꧀ꦕꦠ꧀ꦠꦤ꧀ꦏꦠꦿꦶꦱ꧀ꦤꦤ꧀ꦲꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_11_0.png,ꦫꦮꦫꦁꦒꦤꦏꦁꦔꦚꦸꦠ꧀ꦲꦚꦸꦠ꧀ꦲꦤ꧀ꦢꦸꦢꦸꦠ꧀ꦲꦠꦶ꧉,ꦫꦮꦫꦁꦒꦤꦏꦁꦔꦚꦸꦠ꧀ꦲꦚꦸꦠ꧀ꦲꦤ꧀ꦢꦸꦢꦸꦠ꧀ꦲꦠꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_11_1.png,ꦲꦤ꧉ꦏꦪꦥꦝꦲꦺꦴꦫꦢꦸꦮꦺꦢꦪ꧈ꦏꦼꦤꦥꦿꦧꦮꦤ꧀ꦤꦺꦱ꧀ꦮ,ꦲꦤ꧉ꦏꦪꦥꦝꦲꦺꦴꦫꦢꦸꦮꦺꦢꦪ꧈ꦏꦼꦤꦥꦿꦧꦮꦤ꧀ꦤꦺꦱ꧀ꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_11_2.png,ꦱ꧀ꦮꦱꦤꦤꦺꦧꦺꦢ꧉ꦏ꧀ꦭꦼꦱꦏ꧀ ꦏ꧀ꦭꦼꦼꦱꦶꦏ꧀ ꦒꦽꦤꦁꦒꦽꦤꦺꦁ꧈ꦲꦺꦴꦫ,ꦱ꧀ꦮꦱꦤꦤꦺꦧꦺꦢ꧉ꦏ꧀ꦭꦼꦱꦏ꧀ ꦏ꧀ꦭꦼꦼꦱꦶꦏ꧀ ꦒꦽꦤꦁꦒꦽꦤꦺꦁ꧈ꦲꦺꦴꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_11_3.png,꧋ꦠꦶꦧꦒꦶꦭꦶꦂꦫꦤ꧀ꦤꦺꦧꦶꦤ꧀ꦠꦁꦠꦩꦸꦮꦫꦁꦒꦤꦱꦏꦄꦩꦺꦫꦶꦏ꧉,꧋ꦠꦶꦧꦒꦶꦭꦶꦂꦫꦤ꧀ꦤꦺꦧꦶꦤ꧀ꦠꦁꦠꦩꦸꦮꦫꦁꦒꦤꦱꦏꦄꦩꦺꦫꦶꦏ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_12_0.png,ꦒꦶꦩꦶꦏꦶꦂꦩꦶꦏꦶꦂꦲꦺꦴꦩꦺꦴꦁꦔꦤ꧀ꦤꦺꦏꦚ꧀ꦕꦤꦺꦲꦶꦏꦶ꧉,ꦒꦶꦩꦶꦏꦶꦂꦩꦶꦏꦶꦂꦲꦺꦴꦩꦺꦴꦁꦔꦤ꧀ꦤꦺꦏꦚ꧀ꦕꦤꦺꦲꦶꦏꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_12_1.png,ꦱ꧀ꦲꦺꦴꦫꦩ꧀ꦭꦼꦫꦸꦏ꧀ꦭꦤ꧀ꦗꦼꦒꦢꦸꦭ꧀ꦩꦤꦺꦃ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺꦭ,ꦱ꧀ꦲꦺꦴꦫꦩ꧀ꦭꦼꦫꦸꦏ꧀ꦭꦤ꧀ꦗꦼꦒꦢꦸꦭ꧀ꦩꦤꦺꦃ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺꦭ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_12_2.png,ꦠ꧀ꦮꦺꦢꦁꦔꦺ꧈ꦧꦚ꧀ꦗꦸꦂꦚꦸꦩꦼꦢ꧀ꦫꦺꦴꦏꦺꦴꦏ꧀‌ꦩꦂꦯꦤ꧀ꦠꦶꦮꦶ,ꦠ꧀ꦮꦺꦢꦁꦔꦺ꧈ꦧꦚ꧀ꦗꦸꦂꦚꦸꦩꦼꦢ꧀ꦫꦺꦴꦏꦺꦴꦏ꧀‌ꦩꦂꦯꦤ꧀ꦠꦶꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_12_3.png,ꦩꦂꦡꦭꦺꦫꦺꦤ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦒꦸꦤꦺꦩ꧀ꦩꦤ꧀꧈ ꦚꦿꦸ ꦥꦸ,ꦩꦂꦡꦭꦺꦫꦺꦤ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦒꦸꦤꦺꦩ꧀ꦩꦤ꧀꧈ ꦚꦿꦸ ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_13_0.png,ꦲꦥꦺꦏꦸꦩꦸꦤꦶ꧉ꦲꦤꦠꦺꦭ꧀ꦥꦸꦤ꧀ꦱꦏꦧꦸꦯꦸꦱꦤ꧀꧈,ꦲꦥꦺꦏꦸꦩꦸꦤꦶ꧉ꦲꦤꦠꦺꦭ꧀ꦥꦸꦤ꧀ꦱꦏꦧꦸꦯꦸꦱꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_13_1.png,ꦮꦶꦠ꧀ꦥꦼꦊꦩ꧀ꦱꦶꦁꦲꦶꦪꦸꦧ꧀꧈ꦤꦼꦩ꧀ꦧꦺꦚꦺꦴꦥꦺꦴꦠ꧀ꦗꦏꦺꦠ꧀,ꦮꦶꦠ꧀ꦥꦼꦊꦩ꧀ꦱꦶꦁꦲꦶꦪꦸꦧ꧀꧈ꦤꦼꦩ꧀ꦧꦺꦚꦺꦴꦥꦺꦴꦠ꧀ꦗꦏꦺꦠ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_13_2.png,ꦫꦺꦴꦤ꧀ꦱꦶꦃ꧉ꦱꦼꦥꦺꦝꦃꦩꦺꦴꦠꦺꦴꦂꦠꦏ꧀ꦥꦂꦏꦶꦂꦲꦶꦁꦔꦶꦱꦺꦴꦂ,ꦫꦺꦴꦤ꧀ꦱꦶꦃ꧉ꦱꦼꦥꦺꦝꦃꦩꦺꦴꦠꦺꦴꦂꦠꦏ꧀ꦥꦂꦏꦶꦂꦲꦶꦁꦔꦶꦱꦺꦴꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_13_3.png,꧋ꦯꦼꦠꦸꦗꦩ꧀ꦱꦼꦠꦼꦔꦃꦱꦔꦲꦏꦸꦮꦶꦱ꧀ꦠꦼꦏꦤ꧀ꦥꦁꦒꦺꦴꦤ꧀ꦤꦤ꧀ꦔ,꧋ꦯꦼꦠꦸꦗꦩ꧀ꦱꦼꦠꦼꦔꦃꦱꦔꦲꦏꦸꦮꦶꦱ꧀ꦠꦼꦏꦤ꧀ꦥꦁꦒꦺꦴꦤ꧀ꦤꦤ꧀ꦔ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_0.png,ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ꧉,ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_1.png,ꦒꦼꦂꦫꦤ꧀ꦲꦶꦁꦏꦁꦭꦸꦩꦩ꧀ꦥꦃ .........,ꦒꦼꦂꦫꦤ꧀ꦲꦶꦁꦏꦁꦭꦸꦩꦩ꧀ꦥꦃ .........,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_2.png,ꦮꦶꦪꦠ꧀ꦠꦤ꧀ꦥꦮꦶꦪꦠ꧀ꦠꦤ꧀ꦏꦤ꧀ꦛꦶꦥꦸꦒꦸꦃꦏꦸꦏꦸꦃꦔꦸꦒꦼꦩ꧀ꦩꦶꦲꦸ,ꦮꦶꦪꦠ꧀ꦠꦤ꧀ꦥꦮꦶꦪꦠ꧀ꦠꦤ꧀ꦏꦤ꧀ꦛꦶꦥꦸꦒꦸꦃꦏꦸꦏꦸꦃꦔꦸꦒꦼꦩ꧀ꦩꦶꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_3.png,ꦲꦶꦠꦁꦒꦼꦭ꧀ꦗꦮꦧ꧀ꦲꦩꦿꦤ꧀ꦠꦱ꧀ꦱꦶꦥꦏꦂꦪꦤ꧀ꦭꦸꦩꦤ꧀ꦠꦂꦥ,ꦲꦶꦠꦁꦒꦼꦭ꧀ꦗꦮꦧ꧀ꦲꦩꦿꦤ꧀ꦠꦱ꧀ꦱꦶꦥꦏꦂꦪꦤ꧀ꦭꦸꦩꦤ꧀ꦠꦂꦥ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_4.png,ꦭꦶꦩꦿꦃꦲꦶꦥꦸꦤ꧀ꦥꦫꦥꦔꦂꦱꦲꦶꦁꦏꦁꦲꦁꦒꦝꦃ,ꦭꦶꦩꦿꦃꦲꦶꦥꦸꦤ꧀ꦥꦫꦥꦔꦂꦱꦲꦶꦁꦏꦁꦲꦁꦒꦝꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_5.png,ꦤ꧀ꦧꦺꦴꦠꦼꦤ꧀ꦢꦶꦥꦸꦤ꧀ꦏꦼꦤꦭ꧀ꦭꦶꦩꦭꦶꦃꦲꦶꦁꦠꦤꦃꦗꦮꦶ꧉,ꦤ꧀ꦧꦺꦴꦠꦼꦤ꧀ꦢꦶꦥꦸꦤ꧀ꦏꦼꦤꦭ꧀ꦭꦶꦩꦭꦶꦃꦲꦶꦁꦠꦤꦃꦗꦮꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_6.png,ꦤ꧀ꦗꦮꦶꦥꦸꦤꦶꦏꦧꦺꦴꦠꦼꦤ꧀ꦩꦸꦱ꧀ꦤꦲꦮꦶꦠ꧀ꦱꦩ꧀ꦥꦸ,ꦤ꧀ꦗꦮꦶꦥꦸꦤꦶꦏꦧꦺꦴꦠꦼꦤ꧀ꦩꦸꦱ꧀ꦤꦲꦮꦶꦠ꧀ꦱꦩ꧀ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_7.png,ꦩꦸꦫꦶꦃꦱꦒꦼꦢ꧀ꦢꦶꦁꦏꦒꦸꦤꦤ꧀ꦗꦮꦶꦲꦶꦁꦏꦁꦲꦫꦸꦥꦶꦕꦫꦏ,ꦩꦸꦫꦶꦃꦱꦒꦼꦢ꧀ꦢꦶꦁꦏꦒꦸꦤꦤ꧀ꦗꦮꦶꦲꦶꦁꦏꦁꦲꦫꦸꦥꦶꦕꦫꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_8.png,ꦤ꧀ꦧꦺꦴꦠꦼꦤ꧀ꦱꦒꦼꦢ꧀ꦧꦸꦢꦶꦢꦪꦏꦢꦺꦴꦱ꧀ꦥꦸꦤ꧀ꦢꦶ,ꦤ꧀ꦧꦺꦴꦠꦼꦤ꧀ꦱꦒꦼꦢ꧀ꦧꦸꦢꦶꦢꦪꦏꦢꦺꦴꦱ꧀ꦥꦸꦤ꧀ꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_9.png,ꦫꦏꦤ꧀ꦗꦮꦶ꧈ꦫꦸꦩꦲꦺꦴꦱ꧀ꦒꦼꦩꦁꦲꦸꦠꦮꦶꦥꦚ꧀ꦕꦺ,ꦫꦏꦤ꧀ꦗꦮꦶ꧈ꦫꦸꦩꦲꦺꦴꦱ꧀ꦒꦼꦩꦁꦲꦸꦠꦮꦶꦥꦚ꧀ꦕꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_10.png,ꦔꦸꦥꦏꦫꦥꦿꦏꦮꦶꦱ꧀ꦲꦏ꧀ꦱꦫꦲꦸꦠꦮꦶꦕ,ꦔꦸꦥꦏꦫꦥꦿꦏꦮꦶꦱ꧀ꦲꦏ꧀ꦱꦫꦲꦸꦠꦮꦶꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_11.png,ꦥꦿꦗꦥꦔꦼꦩ꧀ꦧꦠ꧀ꦠꦶꦁꦤꦒꦫꦶꦲꦶꦁꦏꦁꦏꦮꦺꦴꦒꦤ꧀ꦲ,ꦥꦿꦗꦥꦔꦼꦩ꧀ꦧꦠ꧀ꦠꦶꦁꦤꦒꦫꦶꦲꦶꦁꦏꦁꦏꦮꦺꦴꦒꦤ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_12.png,ꦪꦁꦗꦮꦶ꧈ꦏꦠꦶꦔꦭ꧀ꦭꦶꦥꦸꦤ꧀ꦥꦫꦥꦔꦂꦱꦤꦶꦁ,ꦪꦁꦗꦮꦶ꧈ꦏꦠꦶꦔꦭ꧀ꦭꦶꦥꦸꦤ꧀ꦥꦫꦥꦔꦂꦱꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_13.png,... ꦲꦸꦒꦶꦢꦶꦥꦸꦤ꧀ꦩꦔꦽꦠꦺꦴꦱ꧀ꦱꦶꦠꦶ,... ꦲꦸꦒꦶꦢꦶꦥꦸꦤ꧀ꦩꦔꦽꦠꦺꦴꦱ꧀ꦱꦶꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_14.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_15.png,꧋ꦮꦺꦴꦁꦗꦮꦮꦶꦱ꧀ꦥꦝꦏꦺꦭꦔꦤ꧀ꦠꦸꦭꦶꦱ꧀꧉(꧖),꧋ꦮꦺꦴꦁꦗꦮꦮꦶꦱ꧀ꦥꦝꦏꦺꦭꦔꦤ꧀ꦠꦸꦭꦶꦱ꧀꧉(꧖),jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_14_16.png,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_15_0.png,꧋ꦲꦶꦏꦸꦏꦮꦶꦠ꧀ꦠꦤ꧀ꦤꦺꦩꦂꦱꦤ꧀ꦠꦶꦔꦿꦱꦏꦏꦺꦲꦸ,꧋ꦲꦶꦏꦸꦏꦮꦶꦠ꧀ꦠꦤ꧀ꦤꦺꦩꦂꦱꦤ꧀ꦠꦶꦔꦿꦱꦏꦏꦺꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_15_1.png,ꦫꦶꦥ꧀ꦩꦸꦧꦿꦩꦸꦧꦿꦸꦱꦮꦶꦱ꧀ꦱꦺꦱꦗꦼꦒ꧀ꦗꦸꦩ꧀ꦭꦼꦒ꧀ꦢꦢꦶꦧꦺꦴ,ꦫꦶꦥ꧀ꦩꦸꦧꦿꦩꦸꦧꦿꦸꦱꦮꦶꦱ꧀ꦱꦺꦱꦗꦼꦒ꧀ꦗꦸꦩ꧀ꦭꦼꦒ꧀ꦢꦢꦶꦧꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_15_2.png,ꦕꦃꦱꦂꦮꦏꦼꦕꦶꦁꦏꦿꦁꦔꦤ꧀‌ꦏꦛꦶꦏ꧀ꦒꦮꦺꦪꦤ꧀ꦤꦼꦏꦼ,ꦕꦃꦱꦂꦮꦏꦼꦕꦶꦁꦏꦿꦁꦔꦤ꧀‌ꦏꦛꦶꦏ꧀ꦒꦮꦺꦪꦤ꧀ꦤꦼꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_15_3.png,ꦥꦺꦤꦏ꧀ꦧꦔꦼꦠ꧀‌ꦩꦸꦁꦔꦚ꧀ꦕꦤ꧀ꦤꦶꦥꦏ꧀ꦗꦺꦴꦭꦁ꧉,ꦥꦺꦤꦏ꧀ꦧꦔꦼꦠ꧀‌ꦩꦸꦁꦔꦚ꧀ꦕꦤ꧀ꦤꦶꦥꦏ꧀ꦗꦺꦴꦭꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_16_0.png,ꦓꦸꦤ꧀ꦝꦸꦭ꧀ꦩꦺꦤꦺꦏ꧀ꦠꦽꦩ꧀ꦧꦼꦱꦶ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺ,ꦓꦸꦤ꧀ꦝꦸꦭ꧀ꦩꦺꦤꦺꦏ꧀ꦠꦽꦩ꧀ꦧꦼꦱꦶ꧉ꦝꦺꦮꦺꦏ꧀ꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_16_1.png,ꦱꦼꦱꦶꦔꦶꦢ꧀ꦢꦤ꧀ꦲꦩ꧀ꦥꦶꦁꦲꦩ꧀ꦥꦶꦁꦥꦁꦱꦶꦤꦩ꧀ꦧꦶꦩꦶ,ꦱꦼꦱꦶꦔꦶꦢ꧀ꦢꦤ꧀ꦲꦩ꧀ꦥꦶꦁꦲꦩ꧀ꦥꦶꦁꦥꦁꦱꦶꦤꦩ꧀ꦧꦶꦩꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_16_2.png,ꦒꦠꦺꦏ꧀ꦲꦏꦺꦏꦲꦤꦤ꧀ꦤꦤ꧀‌꧈ꦑꦮꦏ꧀ꦮꦶꦱ꧀ꦱꦶ,ꦒꦠꦺꦏ꧀ꦲꦏꦺꦏꦲꦤꦤ꧀ꦤꦤ꧀‌꧈ꦑꦮꦏ꧀ꦮꦶꦱ꧀ꦱꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_16_3.png,ꦪꦒ꧉ꦠꦔꦤ꧀ꦤꦺꦚꦼꦏꦼꦭ꧀ꦭꦶꦠꦩ꧀ꦥꦂꦣꦝꦸꦁ꧉,ꦪꦒ꧉ꦠꦔꦤ꧀ꦤꦺꦚꦼꦏꦼꦭ꧀ꦭꦶꦠꦩ꧀ꦥꦂꦣꦝꦸꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_17_0.png,ꦒꦺꦴꦱꦼꦥꦺꦝꦏꦸꦩ꧀ꦧꦁꦔꦺꦲꦁꦒꦼꦧ꧀ꦭꦱ꧀ꦚꦁꦦꦿꦩ꧀ꦧꦤꦤ꧀꧈,ꦒꦺꦴꦱꦼꦥꦺꦝꦏꦸꦩ꧀ꦧꦁꦔꦺꦲꦁꦒꦼꦧ꧀ꦭꦱ꧀ꦚꦁꦦꦿꦩ꧀ꦧꦤꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_17_1.png,ꦝꦺꦴꦏ꧀ꦠꦼꦂ꧉ꦲꦺꦴꦫꦱꦿꦺꦴꦤ꧀ꦠ꧈ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦸꦭꦶꦔꦼꦧꦸꦠ꧀ꦔꦁ,ꦝꦺꦴꦏ꧀ꦠꦼꦂ꧉ꦲꦺꦴꦫꦱꦿꦺꦴꦤ꧀ꦠ꧈ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦸꦭꦶꦔꦼꦧꦸꦠ꧀ꦔꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_17_2.png,ꦏꦶꦁꦱꦼꦤꦼꦔꦺ꧉ꦱꦶꦁꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦺꦭꦶꦁꦔꦤ꧀ꦪꦺꦤ꧀ꦚꦤ꧀ꦝꦁꦒꦼꦭꦂ,ꦏꦶꦁꦱꦼꦤꦼꦔꦺ꧉ꦱꦶꦁꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦺꦭꦶꦁꦔꦤ꧀ꦪꦺꦤ꧀ꦚꦤ꧀ꦝꦁꦒꦼꦭꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_17_3.png,꧋ꦧꦸꦧꦂꦩꦕꦭꦪꦁ꧈ꦩꦺꦃꦮꦲꦺꦄꦁꦒꦸꦤ꧀ꦲꦩ꧀ꦧꦼꦧꦺꦴꦏ꧀ꦱ,꧋ꦧꦸꦧꦂꦩꦕꦭꦪꦁ꧈ꦩꦺꦃꦮꦲꦺꦄꦁꦒꦸꦤ꧀ꦲꦩ꧀ꦧꦼꦧꦺꦴꦏ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_18_0.png,ꦩꦸꦁꦩꦤ꧀ꦛꦸꦏ꧀ꦱꦶꦛꦶꦏ꧀‌ꦤꦔꦶꦁꦲꦶꦏꦸꦮꦶꦱ꧀ꦕꦸꦏꦸꦥ꧀꧈,ꦩꦸꦁꦩꦤ꧀ꦛꦸꦏ꧀ꦱꦶꦛꦶꦏ꧀‌ꦤꦔꦶꦁꦲꦶꦏꦸꦮꦶꦱ꧀ꦕꦸꦏꦸꦥ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_18_1.png,ꦩꦺꦱꦼꦩ꧀ꦲꦶꦏꦸꦲꦺꦴꦫꦏꦸꦩꦼꦕꦥ꧀ꦲꦥꦲꦥ꧈,ꦩꦺꦱꦼꦩ꧀ꦲꦶꦏꦸꦲꦺꦴꦫꦏꦸꦩꦼꦕꦥ꧀ꦲꦥꦲꦥ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_18_2.png,ꦒꦲꦠꦶꦤꦺꦥꦿꦶꦪꦱꦶꦁꦮꦶꦱ꧀ꦝꦸꦣꦲꦶꦏꦸ꧉ꦭꦩ꧀ꦧꦺꦏꦁ,ꦒꦲꦠꦶꦤꦺꦥꦿꦶꦪꦱꦶꦁꦮꦶꦱ꧀ꦝꦸꦣꦲꦶꦏꦸ꧉ꦭꦩ꧀ꦧꦺꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_18_3.png,꧋ꦩꦂꦯꦤ꧀ꦠꦶꦚꦮꦁꦗꦺꦴꦭꦁꦏꦫꦺꦴꦩꦺꦱꦼꦩ꧀ꦒꦮꦺꦊ,꧋ꦩꦂꦯꦤ꧀ꦠꦶꦚꦮꦁꦗꦺꦴꦭꦁꦏꦫꦺꦴꦩꦺꦱꦼꦩ꧀ꦒꦮꦺꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_19_0.png,ꦤ꧀‌ꦩ꧀ꦭꦼꦧꦸ꧉ꦮꦶꦫꦩꦩꦸꦱꦶꦏ꧀ꦏꦺꦱꦶꦒꦿꦏ꧀ꦕꦼꦣꦏ꧀ꦕꦼꦣꦏ꧀‌꧈,ꦤ꧀‌ꦩ꧀ꦭꦼꦧꦸ꧉ꦮꦶꦫꦩꦩꦸꦱꦶꦏ꧀ꦏꦺꦱꦶꦒꦿꦏ꧀ꦕꦼꦣꦏ꧀ꦕꦼꦣꦏ꧀‌꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_19_1.png,ꦱꦤꦤꦺꦉꦩꦁꦉꦩꦁꦔꦼꦥꦱ꧀ꦱꦶꦲꦏꦸꦱꦏ꧀ꦭꦺꦴꦫꦺꦴ,ꦱꦤꦤꦺꦉꦩꦁꦉꦩꦁꦔꦼꦥꦱ꧀ꦱꦶꦲꦏꦸꦱꦏ꧀ꦭꦺꦴꦫꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_19_2.png,ꦔꦤ꧀ꦏꦸ꧉ꦣꦶꦱ꧀ꦏꦺꦴꦠꦶꦏ꧀ꦏꦺꦗꦼꦩ꧀ꦧꦂ꧈ꦠꦩꦸꦤꦺꦏꦼꦧꦏ꧀ ꦱ꧀ꦮ,ꦔꦤ꧀ꦏꦸ꧉ꦣꦶꦱ꧀ꦏꦺꦴꦠꦶꦏ꧀ꦏꦺꦗꦼꦩ꧀ꦧꦂ꧈ꦠꦩꦸꦤꦺꦏꦼꦧꦏ꧀ ꦱ꧀ꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_19_3.png,꧋ꦠꦤ꧀ꦥꦔꦼꦤ꧀ꦠꦺꦤꦶ ꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ ꦩꦱ꧀ꦲꦂꦢꦶꦲꦁꦒꦶꦠ꧀ꦒꦤ꧀ꦝꦼꦁꦠ,꧋ꦠꦤ꧀ꦥꦔꦼꦤ꧀ꦠꦺꦤꦶ ꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ ꦩꦱ꧀ꦲꦂꦢꦶꦲꦁꦒꦶꦠ꧀ꦒꦤ꧀ꦝꦼꦁꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_20_0.png,ꦤ꧀ꦤꦺꦢꦶꦒꦼꦒꦼꦩ꧀ꦏꦼꦚ꧀ꦕꦼꦁꦏꦫꦺꦴꦢꦶꦲꦗꦏ꧀ꦲꦺꦴꦩꦺꦴꦁ꧉,ꦤ꧀ꦤꦺꦢꦶꦒꦼꦒꦼꦩ꧀ꦏꦼꦚ꧀ꦕꦼꦁꦏꦫꦺꦴꦢꦶꦲꦗꦏ꧀ꦲꦺꦴꦩꦺꦴꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_20_1.png,ꦒꦸꦃꦲꦶꦁꦭꦩ꧀ꦧꦺ ꦝꦶꦥꦤ꧀ꦚ ꦏꦼꦠ꧀ꦠꦶꦗꦂꦑꦱꦶ꧉ꦠꦔꦤꦼ ....,ꦒꦸꦃꦲꦶꦁꦭꦩ꧀ꦧꦺ ꦝꦶꦥꦤ꧀ꦚ ꦏꦼꦠ꧀ꦠꦶꦗꦂꦑꦱꦶ꧉ꦠꦔꦤꦼ ....,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_20_2.png,꧋ꦱ꧀ꦔꦼꦠꦺꦴꦏ꧀ꦲꦏꦺꦥꦶꦫꦤ꧀ꦠꦶꦱꦸꦤꦠ꧀ ꦥꦏ꧀ꦯꦱ꧀ꦠꦿꦥꦼꦤꦭꦸꦁ,꧋ꦱ꧀ꦔꦼꦠꦺꦴꦏ꧀ꦲꦏꦺꦥꦶꦫꦤ꧀ꦠꦶꦱꦸꦤꦠ꧀ ꦥꦏ꧀ꦯꦱ꧀ꦠꦿꦥꦼꦤꦭꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_20_3.png,꧋ꦗꦂꦑꦱꦶꦭꦸꦩꦃꦭꦸꦩꦃꦲꦶꦁꦝꦶꦥꦤ꧀‌ꦱꦮꦼꦠꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦠꦑ,꧋ꦗꦂꦑꦱꦶꦭꦸꦩꦃꦭꦸꦩꦃꦲꦶꦁꦝꦶꦥꦤ꧀‌ꦱꦮꦼꦠꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦠꦑ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_21_0.png,ꦏꦂꦮꦔꦶꦭꦤ꧀ꦯꦂꦩꦶ꧉ꦯꦼꦏꦂꦮꦔꦶꦮꦶꦱ꧀ꦒꦮꦺꦕꦛꦼꦠ꧀ꦠꦤ꧀꧈,ꦏꦂꦮꦔꦶꦭꦤ꧀ꦯꦂꦩꦶ꧉ꦯꦼꦏꦂꦮꦔꦶꦮꦶꦱ꧀ꦒꦮꦺꦕꦛꦼꦠ꧀ꦠꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_21_1.png,ꦧꦶꦭ꧀ꦭꦺꦩꦤꦺꦃꦚꦁꦥꦱꦂꦧꦸꦮꦃꦔꦼꦠꦼꦂꦫꦏꦺꦯꦼ,ꦧꦶꦭ꧀ꦭꦺꦩꦤꦺꦃꦚꦁꦥꦱꦂꦧꦸꦮꦃꦔꦼꦠꦼꦂꦫꦏꦺꦯꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_21_2.png,ꦱꦸꦝꦃ꧉ꦱꦲꦸꦤ꧀ꦠꦫꦑꦂꦪꦤꦔ꧀ꦭꦏꦺꦴꦏ꧀ꦲꦏꦺꦩꦺꦴ,ꦱꦸꦝꦃ꧉ꦱꦲꦸꦤ꧀ꦠꦫꦑꦂꦪꦤꦔ꧀ꦭꦏꦺꦴꦏ꧀ꦲꦏꦺꦩꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_21_3.png,꧋ꦦꦿꦠꦩꦤꦸꦭꦶꦩ꧀ꦭꦼꦧꦸꦏꦩ꧀ꦥꦸꦱ꧀ ꦠꦸꦩꦸꦗꦸꦫꦸꦮꦁꦮꦶ,꧋ꦦꦿꦠꦩꦤꦸꦭꦶꦩ꧀ꦭꦼꦧꦸꦏꦩ꧀ꦥꦸꦱ꧀ ꦠꦸꦩꦸꦗꦸꦫꦸꦮꦁꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_22_0.png,ꦤꦺꦱꦶꦁꦩꦸꦁꦏꦸꦭꦶꦧꦔꦸꦤ꧀ꦤꦤ꧀ꦒꦼꦤꦃꦲꦺꦴꦫꦢꦸꦮꦺꦧꦪꦂꦠꦸꦫꦃ꧉,ꦤꦺꦱꦶꦁꦩꦸꦁꦏꦸꦭꦶꦧꦔꦸꦤ꧀ꦤꦤ꧀ꦒꦼꦤꦃꦲꦺꦴꦫꦢꦸꦮꦺꦧꦪꦂꦠꦸꦫꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_22_1.png,ꦲꦸꦫꦶꦥ꧀ꦥꦺꦩꦸꦁꦥꦱ꧀ꦥꦱ꧀ꦱꦤ꧀‌꧈ꦯꦺꦴꦢꦶꦂ꧈ꦧꦺꦴꦗꦺꦴ,ꦲꦸꦫꦶꦥ꧀ꦥꦺꦩꦸꦁꦥꦱ꧀ꦥꦱ꧀ꦱꦤ꧀‌꧈ꦯꦺꦴꦢꦶꦂ꧈ꦧꦺꦴꦗꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_22_2.png,ꦢꦶꦫꦱꦤꦸꦚ꧀ꦗꦼꦱ꧀ꦲꦠꦶꦤꦺ꧉ꦦꦤꦶꦏꦼꦩ꧀ꦲꦺꦴꦫꦱꦺꦭꦏ꧀,ꦢꦶꦫꦱꦤꦸꦚ꧀ꦗꦼꦱ꧀ꦲꦠꦶꦤꦺ꧉ꦦꦤꦶꦏꦼꦩ꧀ꦲꦺꦴꦫꦱꦺꦭꦏ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_22_3.png,꧋ꦦꦤꦶꦏꦼꦩ꧀ꦲꦁꦒꦼꦒꦼꦠ꧀ꦭꦩ꧀ꦧꦺ꧉ꦒꦸꦤꦼꦩ꧀ꦩꦺꦲꦤꦏ꧀ꦠꦸꦁꦒꦭ꧀ꦭꦺ,꧋ꦦꦤꦶꦏꦼꦩ꧀ꦲꦁꦒꦼꦒꦼꦠ꧀ꦭꦩ꧀ꦧꦺ꧉ꦒꦸꦤꦼꦩ꧀ꦩꦺꦲꦤꦏ꧀ꦠꦸꦁꦒꦭ꧀ꦭꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_23_0.png,ꦤ꧀ꦤꦺꦮꦶꦱ꧀ꦢꦶꦮꦫꦶꦱ꧀ꦱꦏꦺꦩꦫꦁꦮꦂꦯꦶꦏꦶ꧉,ꦤ꧀ꦤꦺꦮꦶꦱ꧀ꦢꦶꦮꦫꦶꦱ꧀ꦱꦏꦺꦩꦫꦁꦮꦂꦯꦶꦏꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_23_1.png,꧋ꦫꦸꦩ꧀ꦭꦤ꧀ꦮꦂꦯꦶꦏꦶ꧉ꦢꦊꦩ꧀ꦩꦺꦱꦶꦩ꧀ꦧꦃꦲꦺꦄꦫꦸꦩ꧀ꦩꦲꦸꦗꦤ꧀ꦗ,꧋ꦫꦸꦩ꧀ꦭꦤ꧀ꦮꦂꦯꦶꦏꦶ꧉ꦢꦊꦩ꧀ꦩꦺꦱꦶꦩ꧀ꦧꦃꦲꦺꦄꦫꦸꦩ꧀ꦩꦲꦸꦗꦤ꧀ꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_23_2.png,ꦥꦸꦠꦿꦤꦺꦩꦸꦁꦭꦺꦴꦫꦺꦴ꧇ꦮꦃꦪꦸꦢꦶ꧈ꦧꦥꦏ꧀ꦏꦺꦄ,ꦥꦸꦠꦿꦤꦺꦩꦸꦁꦭꦺꦴꦫꦺꦴ꧇ꦮꦃꦪꦸꦢꦶ꧈ꦧꦥꦏ꧀ꦏꦺꦄ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_23_3.png,꧋ꦱ꧀ꦮꦂꦒꦶꦱꦶꦩ꧀ꦧꦲꦺꦄꦫꦸꦩ꧀ꦏꦸꦮꦶꦧꦶꦪꦺꦤ꧀ꦱꦸꦢꦒꦂꦱꦸꦒꦶꦃ꧉,꧋ꦱ꧀ꦮꦂꦒꦶꦱꦶꦩ꧀ꦧꦲꦺꦄꦫꦸꦩ꧀ꦏꦸꦮꦶꦧꦶꦪꦺꦤ꧀ꦱꦸꦢꦒꦂꦱꦸꦒꦶꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_24_0.png,ꦭꦩ꧀ ꦤꦔꦶꦁꦱꦼꦥꦶꦠꦤ꧀ꦥꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀꧈,ꦭꦩ꧀ ꦤꦔꦶꦁꦱꦼꦥꦶꦠꦤ꧀ꦥꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_24_1.png,ꦢꦏ꧀ꦛꦺꦴꦛꦺꦴꦒ꧀ꦭꦮꦁꦔꦺꦲꦩ꧀ꦧꦭ꧀ꦲꦩ꧀ꦧꦭ꧀ꦭꦤ꧀ꦏꦤ꧀ꦛꦶ ꦲꦸꦭꦸꦏ꧀ꦱ,ꦢꦏ꧀ꦛꦺꦴꦛꦺꦴꦒ꧀ꦭꦮꦁꦔꦺꦲꦩ꧀ꦧꦭ꧀ꦲꦩ꧀ꦧꦭ꧀ꦭꦤ꧀ꦏꦤ꧀ꦛꦶ ꦲꦸꦭꦸꦏ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_24_2.png,ꦏꦼꦩ꧀ꦧꦁꦩꦮꦂꦥꦝꦩꦼꦒꦂ꧈ꦥꦼꦂꦱꦶꦱ꧀ꦏꦪꦱꦼꦠꦲꦸꦤ꧀ꦱꦢꦸꦫꦸꦁꦔꦺ꧉,ꦏꦼꦩ꧀ꦧꦁꦩꦮꦂꦥꦝꦩꦼꦒꦂ꧈ꦥꦼꦂꦱꦶꦱ꧀ꦏꦪꦱꦼꦠꦲꦸꦤ꧀ꦱꦢꦸꦫꦸꦁꦔꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_24_3.png,꧋ꦠꦼꦏꦤ꧀ꦔꦉꦥ꧀ꦲꦺꦴꦩꦃꦥꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀ꦏꦤ꧀ꦤꦺ꧈ꦲꦶꦏꦸꦮꦼꦫꦸꦃ,꧋ꦠꦼꦏꦤ꧀ꦔꦉꦥ꧀ꦲꦺꦴꦩꦃꦥꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀ꦏꦤ꧀ꦤꦺ꧈ꦲꦶꦏꦸꦮꦼꦫꦸꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_25_0.png,ꦤ꧀ꦤꦶꦁꦤꦺꦠꦿꦤꦺ꧈ꦒꦮꦺꦏꦒꦺꦠ꧀ꦠꦺꦢꦩꦂꦗꦡꦶ꧉,ꦤ꧀ꦤꦶꦁꦤꦺꦠꦿꦤꦺ꧈ꦒꦮꦺꦏꦒꦺꦠ꧀ꦠꦺꦢꦩꦂꦗꦡꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_25_1.png,ꦠꦺꦱ꧀ꦠꦺꦠꦺꦱ꧀ꦧꦚꦸꦧꦼꦤꦶꦁꦩꦽꦤ꧀ꦠꦸꦭ꧀ꦱꦏꦥꦢꦺꦴ,ꦠꦺꦱ꧀ꦠꦺꦠꦺꦱ꧀ꦧꦚꦸꦧꦼꦤꦶꦁꦩꦽꦤ꧀ꦠꦸꦭ꧀ꦱꦏꦥꦢꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_25_2.png,ꦧꦚ꧀ꦗꦸꦂꦠꦸꦩꦸꦁꦏꦸꦭ꧀‌꧈ꦢꦸꦩꦢꦏ꧀ꦏꦤ꧀ꦲꦤꦠꦺ,ꦧꦚ꧀ꦗꦸꦂꦠꦸꦩꦸꦁꦏꦸꦭ꧀‌꧈ꦢꦸꦩꦢꦏ꧀ꦏꦤ꧀ꦲꦤꦠꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_25_3.png,꧋ꦯꦼꦏꦂꦮꦔꦶꦲꦺꦴꦫꦲꦺꦁ ꦒꦭ꧀ꦮꦁꦱꦸꦭ꧀ꦭꦶ꧉ꦩꦭꦃ,꧋ꦯꦼꦏꦂꦮꦔꦶꦲꦺꦴꦫꦲꦺꦁ ꦒꦭ꧀ꦮꦁꦱꦸꦭ꧀ꦭꦶ꧉ꦩꦭꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_26_0.png,ꦭꦺꦴꦤ꧀ꦤꦺꦮꦶꦫꦪꦮꦶꦱ꧀ꦲꦺꦴ ꦫꦥꦥ꧉,ꦭꦺꦴꦤ꧀ꦤꦺꦮꦶꦫꦪꦮꦶꦱ꧀ꦲꦺꦴ ꦫꦥꦥ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_26_1.png,ꦥꦸꦱ꧀ ꦢꦶꦭꦺꦴꦏ꧀ꦏꦏꦺꦏꦭꦃꦲꦪꦸꦏꦫꦺꦴꦕ,ꦥꦸꦱ꧀ ꦢꦶꦭꦺꦴꦏ꧀ꦏꦏꦺꦏꦭꦃꦲꦪꦸꦏꦫꦺꦴꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_26_2.png,ꦤꦺꦪꦟ꧀ꦠꦶꦫꦢꦏꦿꦱꦩꦏ꧀ꦱꦼꦁꦏꦿꦶꦁ꧉ꦤꦔꦶꦁꦧꦚ꧀ꦗꦸꦂꦢꦶꦥꦸ,ꦤꦺꦪꦟ꧀ꦠꦶꦫꦢꦏꦿꦱꦩꦏ꧀ꦱꦼꦁꦏꦿꦶꦁ꧉ꦤꦔꦶꦁꦧꦚ꧀ꦗꦸꦂꦢꦶꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_26_3.png,꧋ꦏꦿꦸꦔꦸꦏꦤ꧀ꦝꦤꦺꦮꦶꦫꦑ꧀ꦭꦼꦩꦼꦂꦱꦶꦁꦥꦸꦁꦏꦱ꧀ꦱꦤ꧀ꦏꦸꦮꦶꦲꦠꦶ,꧋ꦏꦿꦸꦔꦸꦏꦤ꧀ꦝꦤꦺꦮꦶꦫꦑ꧀ꦭꦼꦩꦼꦂꦱꦶꦁꦥꦸꦁꦏꦱ꧀ꦱꦤ꧀ꦏꦸꦮꦶꦲꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_27_0.png,ꦗꦸꦧꦶꦤ꧀‌ꦲꦁꦒꦤꦺꦱꦼꦩꦺꦤ꧀ꦝꦺꦠꦺꦩ꧀ꦧꦺꦴꦏ꧀꧈,ꦗꦸꦧꦶꦤ꧀‌ꦲꦁꦒꦤꦺꦱꦼꦩꦺꦤ꧀ꦝꦺꦠꦺꦩ꧀ꦧꦺꦴꦏ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_27_1.png,ꦭꦤꦁꦭꦤ꧀ꦮꦢꦺꦴꦤ꧀ꦔꦁꦒꦺꦴꦧꦸꦱꦤꦲꦢꦠ꧀ꦗꦮꦭꦸꦁꦒꦸꦃ,ꦭꦤꦁꦭꦤ꧀ꦮꦢꦺꦴꦤ꧀ꦔꦁꦒꦺꦴꦧꦸꦱꦤꦲꦢꦠ꧀ꦗꦮꦭꦸꦁꦒꦸꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_27_2.png,ꦗꦑꦏꦒꦼꦠ꧀‌ꦲꦶꦁꦗꦼꦫꦺꦴꦏꦩꦂꦣꦲꦂꦲꦤꦮꦺꦴꦁ,ꦗꦑꦏꦒꦼꦠ꧀‌ꦲꦶꦁꦗꦼꦫꦺꦴꦏꦩꦂꦣꦲꦂꦲꦤꦮꦺꦴꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_27_3.png,꧋ꦱꦮꦶꦱ꧀ꦱꦺꦭꦮꦁꦢꦶꦧꦸꦏꦏ꧀ꦭꦤ꧀ꦔꦸꦫꦸꦧ꧀ꦧꦏꦺꦭꦩ꧀ꦥꦸ꧈,꧋ꦱꦮꦶꦱ꧀ꦱꦺꦭꦮꦁꦢꦶꦧꦸꦏꦏ꧀ꦭꦤ꧀ꦔꦸꦫꦸꦧ꧀ꦧꦏꦺꦭꦩ꧀ꦥꦸ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_28_0.png,ꦲꦤꦫꦱꦧꦸꦠꦉꦥ꧀ꦥꦤ꧀꧈ꦧꦉꦁꦫꦩ꧀ꦥꦸꦁ꧈ꦭꦸꦯꦶꦤꦶꦁꦠꦾꦱ꧀ꦤꦔꦶꦱ꧀꧈,ꦲꦤꦫꦱꦧꦸꦠꦉꦥ꧀ꦥꦤ꧀꧈ꦧꦉꦁꦫꦩ꧀ꦥꦸꦁ꧈ꦭꦸꦯꦶꦤꦶꦁꦠꦾꦱ꧀ꦤꦔꦶꦱ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_28_1.png,ꦩ꧀ꦥꦸꦂꦲꦝꦸꦏ꧀‌꧈ꦱꦼꦝꦶꦃ꧈ꦗꦺꦁꦏꦺꦭ꧀ꦩꦫꦁꦧꦸꦲꦂꦯ꧈ꦠꦽꦚꦸꦃ꧈ꦤꦶꦁꦲꦸꦒ,ꦩ꧀ꦥꦸꦂꦲꦝꦸꦏ꧀‌꧈ꦱꦼꦝꦶꦃ꧈ꦗꦺꦁꦏꦺꦭ꧀ꦩꦫꦁꦧꦸꦲꦂꦯ꧈ꦠꦽꦚꦸꦃ꧈ꦤꦶꦁꦲꦸꦒ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_28_2.png,꧋ꦭꦸꦯꦶꦤꦶꦁꦠꦾꦱ꧀ꦔꦿꦸꦔꦺꦴꦏ꧀ꦲꦏꦺꦕꦿꦶꦠꦏꦸꦮꦶꦏꦤ꧀ꦛꦶꦫꦱꦥꦁꦔꦿꦱꦕ,꧋ꦭꦸꦯꦶꦤꦶꦁꦠꦾꦱ꧀ꦔꦿꦸꦔꦺꦴꦏ꧀ꦲꦏꦺꦕꦿꦶꦠꦏꦸꦮꦶꦏꦤ꧀ꦛꦶꦫꦱꦥꦁꦔꦿꦱꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_0.png,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶ꧈ꦏꦫꦔꦤ꧀꧇,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶ꧈ꦏꦫꦔꦤ꧀꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_1.png,ꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,ꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_2.png,ꦭꦏ꧀ꦏꦶꦁꦊꦭꦺꦴꦂ꧈ꦯꦁꦒꦺꦴꦫꦱꦥꦸꦤꦶꦏ꧈ꦲꦸꦠꦮꦶꦦꦠꦤꦶ꧉,ꦭꦏ꧀ꦏꦶꦁꦊꦭꦺꦴꦂ꧈ꦯꦁꦒꦺꦴꦫꦱꦥꦸꦤꦶꦏ꧈ꦲꦸꦠꦮꦶꦦꦠꦤꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_3.png,ꦑꦺꦴꦟ꧀ꦝꦺꦴꦂꦭꦩ꧀ꦥꦃꦲꦶꦥꦸꦤ꧀ꦭꦗꦼꦁꦣꦠꦼꦁꦲꦶꦁꦥꦁꦒꦺꦤ꧀ꦤꦤ꧀ꦱꦕꦼ,ꦑꦺꦴꦟ꧀ꦝꦺꦴꦂꦭꦩ꧀ꦥꦃꦲꦶꦥꦸꦤ꧀ꦭꦗꦼꦁꦣꦠꦼꦁꦲꦶꦁꦥꦁꦒꦺꦤ꧀ꦤꦤ꧀ꦱꦕꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_4.png,ꦤꦤꦶꦥꦸꦤ꧀ꦠꦼꦏ꧀ꦱꦶꦃꦤꦩꦏꦡꦶꦒꦫꦃ꧈ꦩꦼꦢꦭ꧀ꦲꦶꦁꦥꦸꦭꦺꦴ,ꦤꦤꦶꦥꦸꦤ꧀ꦠꦼꦏ꧀ꦱꦶꦃꦤꦩꦏꦡꦶꦒꦫꦃ꧈ꦩꦼꦢꦭ꧀ꦲꦶꦁꦥꦸꦭꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_5.png,ꦒꦁꦲꦶꦁꦏꦁꦱꦏꦶꦁꦤꦒꦫꦶꦕꦶꦟ꧈ꦱꦏꦶꦁꦑꦤ꧀ꦠꦺꦴꦤ꧀ ꦲꦶꦁꦏꦁꦏꦶ,ꦒꦁꦲꦶꦁꦏꦁꦱꦏꦶꦁꦤꦒꦫꦶꦕꦶꦟ꧈ꦱꦏꦶꦁꦑꦤ꧀ꦠꦺꦴꦤ꧀ ꦲꦶꦁꦏꦁꦏꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_6.png,ꦧꦚ꧀ꦗꦂꦥꦚ꧀ꦗꦁꦩꦭꦪꦸ꧈ꦭꦗꦼꦁꦱꦩ꧀ꦧꦼꦠ꧀ꦲꦏꦭꦶꦪꦤ꧀ꦩꦂꦒꦶꦢ,ꦧꦚ꧀ꦗꦂꦥꦚ꧀ꦗꦁꦩꦭꦪꦸ꧈ꦭꦗꦼꦁꦱꦩ꧀ꦧꦼꦠ꧀ꦲꦏꦭꦶꦪꦤ꧀ꦩꦂꦒꦶꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_7.png,ꦒꦶꦂꦥꦸꦭꦺꦴꦯꦸꦩꦠꦿꦲꦶꦁꦏꦁꦮꦺꦠꦤ꧀ ꦲꦶꦁꦥꦱꦶꦱꦶꦂꦫꦶꦁꦥꦸꦭꦺꦴ,ꦒꦶꦂꦥꦸꦭꦺꦴꦯꦸꦩꦠꦿꦲꦶꦁꦏꦁꦮꦺꦠꦤ꧀ ꦲꦶꦁꦥꦱꦶꦱꦶꦂꦫꦶꦁꦥꦸꦭꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_8.png,ꦭꦶꦠ꧀ ꦥꦱꦶꦱꦶꦂꦫꦶꦁꦥꦸꦭꦺꦴꦗꦮꦶꦲꦶꦁꦏꦁꦲꦼꦭꦺꦂꦠꦸꦫꦸꦠ꧀ꦥꦶ,ꦭꦶꦠ꧀ ꦥꦱꦶꦱꦶꦂꦫꦶꦁꦥꦸꦭꦺꦴꦗꦮꦶꦲꦶꦁꦏꦁꦲꦼꦭꦺꦂꦠꦸꦫꦸꦠ꧀ꦥꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_9.png,ꦭꦺꦤ꧀ ꦠꦸꦫꦸꦠ꧀ꦥꦶꦁꦒꦶꦂꦫꦶꦁꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦱꦸꦟ꧀ꦝꦲ,ꦭꦺꦤ꧀ ꦠꦸꦫꦸꦠ꧀ꦥꦶꦁꦒꦶꦂꦫꦶꦁꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦱꦸꦟ꧀ꦝꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_10.png,ꦤ꧀ ꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦲꦭꦶꦠ꧀ꦲꦭꦶꦠ꧀ꦲꦶꦁꦏꦶꦢꦸꦭ꧀ꦑ,ꦤ꧀ ꦏꦥꦸꦭꦺꦴꦮꦤ꧀ꦲꦭꦶꦠ꧀ꦲꦭꦶꦠ꧀ꦲꦶꦁꦏꦶꦢꦸꦭ꧀ꦑ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_11.png,ꦮꦶꦮꦶꦠ꧀ꦠ꧀ꦠꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦭꦭꦪꦂꦫꦤ꧀ꦩꦼꦢꦭ꧀ꦲꦶꦁꦄꦩ꧀ꦧꦺꦴꦤ꧀ ꦨꦟ꧀ꦛ,ꦮꦶꦮꦶꦠ꧀ꦠ꧀ꦠꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦭꦭꦪꦂꦫꦤ꧀ꦩꦼꦢꦭ꧀ꦲꦶꦁꦄꦩ꧀ꦧꦺꦴꦤ꧀ ꦨꦟ꧀ꦛ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_12.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_13.png,ꦏꦫꦁꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦏꦫꦁꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_14.png,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_15.png,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧑꧑꧇,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧑꧑꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_16.png,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_29_17.png,ꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_30_0.png,ꦗꦤ꧀ꦠꦸꦁꦔꦺꦤꦭꦶꦏꦢꦩꦂꦗꦠꦡꦶꦩꦼꦤꦼꦠ꧀ꦭꦩ꧀ꦧꦺꦤꦺ꧉,ꦗꦤ꧀ꦠꦸꦁꦔꦺꦤꦭꦶꦏꦢꦩꦂꦗꦠꦡꦶꦩꦼꦤꦼꦠ꧀ꦭꦩ꧀ꦧꦺꦤꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_30_1.png,ꦮꦔꦶꦒꦺꦴꦫꦺꦃꦲꦠꦶꦤꦺ꧉ꦢꦸꦫꦸꦁꦲꦶꦭꦁꦒꦼꦠꦼꦂꦲꦶꦁ,ꦮꦔꦶꦒꦺꦴꦫꦺꦃꦲꦠꦶꦤꦺ꧉ꦢꦸꦫꦸꦁꦲꦶꦭꦁꦒꦼꦠꦼꦂꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_30_2.png,꧋ꦮꦺ꧉ꦲꦶꦁꦗꦼꦫꦺꦴꦏꦩꦂꦱꦶꦁꦩꦸꦁꦕꦶꦪꦸꦠ꧀ꦲꦶꦏꦸꦯꦼꦏꦂ,꧋ꦮꦺ꧉ꦲꦶꦁꦗꦼꦫꦺꦴꦏꦩꦂꦱꦶꦁꦩꦸꦁꦕꦶꦪꦸꦠ꧀ꦲꦶꦏꦸꦯꦼꦏꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_30_3.png,ꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴꦩ꧀ꦭꦼꦧꦸꦏꦩꦂꦫꦺꦝꦺꦮꦺꦝꦺ,ꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴꦩ꧀ꦭꦼꦧꦸꦏꦩꦂꦫꦺꦝꦺꦮꦺꦝꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_31_0.png,ꦱꦶꦃꦩꦸꦝꦧꦸꦪꦟ꧀ꦠꦶꦩꦼꦟꦶꦏ꧀ꦲꦶꦏꦸꦲꦪꦸꦧꦔꦼꦠ꧀꧈,ꦱꦶꦃꦩꦸꦝꦧꦸꦪꦟ꧀ꦠꦶꦩꦼꦟꦶꦏ꧀ꦲꦶꦏꦸꦲꦪꦸꦧꦔꦼꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_31_1.png,ꦱꦸꦩꦶꦩ꧀ꦥꦼꦤ꧀ꦲꦶꦁꦫꦁꦱꦼꦭ꧀ꦏꦸ꧉ꦥꦚ꧀ꦕꦺꦤ꧀ꦚꦠ꧈ꦤꦭꦶꦏꦲꦶ,ꦱꦸꦩꦶꦩ꧀ꦥꦼꦤ꧀ꦲꦶꦁꦫꦁꦱꦼꦭ꧀ꦏꦸ꧉ꦥꦚ꧀ꦕꦺꦤ꧀ꦚꦠ꧈ꦤꦭꦶꦏꦲꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_31_2.png,ꦲꦺꦴꦩꦃꦏꦺꦴꦤ꧀ꦠꦿꦏ꧀ꦏꦤ꧀ꦏꦸ꧉ꦥꦺꦴꦠꦿꦺ ꦠ꧀ꦩꦲꦸꦲꦶꦱꦶꦃ,ꦲꦺꦴꦩꦃꦏꦺꦴꦤ꧀ꦠꦿꦏ꧀ꦏꦤ꧀ꦏꦸ꧉ꦥꦺꦴꦠꦿꦺ ꦠ꧀ꦩꦲꦸꦲꦶꦱꦶꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_31_3.png,꧋ꦲꦏꦸꦏꦺꦭꦶꦁꦔꦤ꧀ꦥꦺꦴꦠꦿꦺꦠ꧀ꦱꦶꦁꦠꦏ꧀ꦒꦮꦱꦏ,꧋ꦲꦏꦸꦏꦺꦭꦶꦁꦔꦤ꧀ꦥꦺꦴꦠꦿꦺꦠ꧀ꦱꦶꦁꦠꦏ꧀ꦒꦮꦱꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_0.png,ꦯꦸꦭꦶꦪꦢꦶꦯꦸꦠꦺꦁꦱꦶꦲꦢꦶꦤꦶꦁꦏꦸꦁ,ꦯꦸꦭꦶꦪꦢꦶꦯꦸꦠꦺꦁꦱꦶꦲꦢꦶꦤꦶꦁꦏꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_1.png,ꦫꦶꦤ꧀ꦤꦕꦶꦏ꧀ꦱꦂꦠꦏꦱꦼꦫꦠ꧀ꦢꦺꦤꦶꦁ,ꦫꦶꦤ꧀ꦤꦕꦶꦏ꧀ꦱꦂꦠꦏꦱꦼꦫꦠ꧀ꦢꦺꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_2.png,ꦊꦱ꧀ꦠꦫꦶꦮꦶꦢꦢ꧈ꦏꦸꦚ꧀ꦕꦫꦲꦚ꧀ꦗꦪꦺꦁꦧꦮꦤ꧉,ꦊꦱ꧀ꦠꦫꦶꦮꦶꦢꦢ꧈ꦏꦸꦚ꧀ꦕꦫꦲꦚ꧀ꦗꦪꦺꦁꦧꦮꦤ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_3.png,꧋ꦩꦸꦒꦶꦱꦒꦼꦢ꧀ꦢꦔꦿꦺꦏꦢꦪꦩꦸꦫꦶꦃꦲꦏ꧀ꦱꦫꦗꦮꦶ,꧋ꦩꦸꦒꦶꦱꦒꦼꦢ꧀ꦢꦔꦿꦺꦏꦢꦪꦩꦸꦫꦶꦃꦲꦏ꧀ꦱꦫꦗꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_4.png,ꦭꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦤꦏꦮꦶꦕꦏ꧀ꦱꦤꦤ꧀ꦱꦏꦶꦁꦥꦩꦫꦺꦤ꧀ꦠꦃ,ꦭꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦤꦏꦮꦶꦕꦏ꧀ꦱꦤꦤ꧀ꦱꦏꦶꦁꦥꦩꦫꦺꦤ꧀ꦠꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_5.png,ꦠꦺꦴꦱ꧀ꦱꦤ꧀ ꦱꦏꦶꦁꦥꦤ꧀ꦢꦺꦴꦔꦭꦤ꧀ꦥꦚꦸꦮꦸꦤ꧀ꦏꦸ,ꦠꦺꦴꦱ꧀ꦱꦤ꧀ ꦱꦏꦶꦁꦥꦤ꧀ꦢꦺꦴꦔꦭꦤ꧀ꦥꦚꦸꦮꦸꦤ꧀ꦏꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_6.png,ꦮꦶꦥꦸꦤꦶꦏꦧꦺꦴꦠꦼꦤ꧀ꦩꦸꦱ꧀ꦤꦲꦮꦶꦠ꧀ꦏꦶꦫꦔꦶꦁꦏꦮꦶꦒ,ꦮꦶꦥꦸꦤꦶꦏꦧꦺꦴꦠꦼꦤ꧀ꦩꦸꦱ꧀ꦤꦲꦮꦶꦠ꧀ꦏꦶꦫꦔꦶꦁꦏꦮꦶꦒ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_7.png,ꦩꦸꦒꦶꦪꦏꦒꦸꦤ꧀ꦤꦤ꧀ꦗꦮꦶꦲꦶꦁꦏꦁꦲꦫꦸꦥꦶꦕꦫꦏꦤ꧀ꦗ,ꦩꦸꦒꦶꦪꦏꦒꦸꦤ꧀ꦤꦤ꧀ꦗꦮꦶꦲꦶꦁꦏꦁꦲꦫꦸꦥꦶꦕꦫꦏꦤ꧀ꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_8.png,ꦧꦸꦢꦪꦤ꧀ ꦱꦱ꧀ꦠꦿꦭꦤ꧀ꦠꦸꦭꦶꦱ꧀ ꦲꦶꦁꦥꦔꦁꦏꦃ,ꦧꦸꦢꦪꦤ꧀ ꦱꦱ꧀ꦠꦿꦭꦤ꧀ꦠꦸꦭꦶꦱ꧀ ꦲꦶꦁꦥꦔꦁꦏꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_9.png,ꦲꦶꦁꦏꦁꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦱꦩ꧀ꦧꦸꦁꦫꦏꦼꦠ꧀ꦠꦶꦥꦸꦤ꧀ꦏꦭꦶꦪꦤ꧀ꦏ,ꦲꦶꦁꦏꦁꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦱꦩ꧀ꦧꦸꦁꦫꦏꦼꦠ꧀ꦠꦶꦥꦸꦤ꧀ꦏꦭꦶꦪꦤ꧀ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_10.png,ꦥꦔꦼꦩ꧀ꦧꦠ꧀ꦠꦶꦁꦥꦿꦗꦩ꧀ꦭꦶꦒꦶꦤꦶꦥꦸꦤ꧀ꦝꦸꦩꦠꦼꦁꦆꦤ꧀ꦱ꧀ꦠꦤ꧀ꦱꦶ,ꦥꦔꦼꦩ꧀ꦧꦠ꧀ꦠꦶꦁꦥꦿꦗꦩ꧀ꦭꦶꦒꦶꦤꦶꦥꦸꦤ꧀ꦝꦸꦩꦠꦼꦁꦆꦤ꧀ꦱ꧀ꦠꦤ꧀ꦱꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_11.png,ꦥꦔꦗꦼꦁꦔꦗꦼꦁꦠꦸꦮꦶꦤ꧀ꦥꦚꦸꦮꦸꦤ꧀ꦤꦤ꧀ꦝꦸꦩꦠꦼꦁꦥꦫ,ꦥꦔꦗꦼꦁꦔꦗꦼꦁꦠꦸꦮꦶꦤ꧀ꦥꦚꦸꦮꦸꦤ꧀ꦤꦤ꧀ꦝꦸꦩꦠꦼꦁꦥꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_12.png,ꦗꦮꦶ꧈ꦥꦿꦩꦶꦭꦱꦼꦫꦠ꧀ꦠ ꦤ꧀ꦏꦮꦸꦭꦲꦶꦁꦔꦿꦶꦏꦶꦒꦝꦃ,ꦗꦮꦶ꧈ꦥꦿꦩꦶꦭꦱꦼꦫꦠ꧀ꦠ ꦤ꧀ꦏꦮꦸꦭꦲꦶꦁꦔꦿꦶꦏꦶꦒꦝꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_13.png,ꦒꦼꦱꦔꦶꦁꦩꦤꦸꦁꦱꦲꦶꦁꦠꦤꦃ,ꦒꦼꦱꦔꦶꦁꦩꦤꦸꦁꦱꦲꦶꦁꦠꦤꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_14.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_15.png,꧋ꦮꦺꦴꦁꦗꦮꦮꦶꦱ꧀ꦥꦝꦏꦺꦭꦁꦔꦤ꧀ꦠꦸꦭꦶꦱ꧀꧉꧇꧘꧇,꧋ꦮꦺꦴꦁꦗꦮꦮꦶꦱ꧀ꦥꦝꦏꦺꦭꦁꦔꦤ꧀ꦠꦸꦭꦶꦱ꧀꧉꧇꧘꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_32_16.png,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_33_0.png,ꦝꦼꦭꦺꦴꦒ꧀ꦝꦼꦭꦺꦴꦒ꧀ꦲꦤꦫꦸꦮꦁꦠꦩꦸ꧉,ꦝꦼꦭꦺꦴꦒ꧀ꦝꦼꦭꦺꦴꦒ꧀ꦲꦤꦫꦸꦮꦁꦠꦩꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_33_1.png,ꦲꦶꦧꦸꦤꦺꦢꦸꦫꦸꦁꦱꦫꦺ꧈ꦩꦭꦃꦲꦶꦱꦶꦃꦭꦸꦁꦒꦸꦃ,ꦲꦶꦧꦸꦤꦺꦢꦸꦫꦸꦁꦱꦫꦺ꧈ꦩꦭꦃꦲꦶꦱꦶꦃꦭꦸꦁꦒꦸꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_33_2.png,꧋ꦗꦩ꧀ꦱꦔꦧꦼꦔꦶꦢꦩꦂꦗꦡꦶꦮꦶꦱ꧀ꦩꦸꦭꦶꦃ꧉,꧋ꦗꦩ꧀ꦱꦔꦧꦼꦔꦶꦢꦩꦂꦗꦡꦶꦮꦶꦱ꧀ꦩꦸꦭꦶꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_34_0.png,ꦩꦿꦶꦥꦠ꧀ꦠꦺꦔ꧀ꦭꦶꦫꦶꦏ꧀ꦏꦩꦂꦠꦶꦝꦸꦂ꧉,ꦩꦿꦶꦥꦠ꧀ꦠꦺꦔ꧀ꦭꦶꦫꦶꦏ꧀ꦏꦩꦂꦠꦶꦝꦸꦂ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_34_1.png,ꦧꦸꦮꦫꦶꦃꦱꦁꦱꦪꦏꦺꦴꦣꦼꦁ꧉,ꦧꦸꦮꦫꦶꦃꦱꦁꦱꦪꦏꦺꦴꦣꦼꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_34_2.png,꧋ꦠꦶꦭ꧀ꦥꦸꦤ꧀ꦢꦶꦠꦸꦠꦸꦥ꧀ꦩꦤꦺꦃ꧉,꧋ꦠꦶꦭ꧀ꦥꦸꦤ꧀ꦢꦶꦠꦸꦠꦸꦥ꧀ꦩꦤꦺꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_35_0.png,꧋ꦩꦼꦤꦸꦢꦺꦱꦤꦶꦁꦚꦩ꧀ꦭꦼꦁ꧉ꦱꦼꦒꦥꦼꦕꦼꦭ꧀ꦲ,꧋ꦩꦼꦤꦸꦢꦺꦱꦤꦶꦁꦚꦩ꧀ꦭꦼꦁ꧉ꦱꦼꦒꦥꦼꦕꦼꦭ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_35_1.png,ꦤꦏꦼꦩ꧀ꦧꦁꦔꦺꦠꦸꦫꦶ꧈ꦭꦮꦸꦲꦺꦮꦢꦼꦂ꧉,ꦤꦏꦼꦩ꧀ꦧꦁꦔꦺꦠꦸꦫꦶ꧈ꦭꦮꦸꦲꦺꦮꦢꦼꦂ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_35_2.png,ꦧꦸꦮꦲꦺꦒꦼꦝꦁꦥꦸꦭꦸꦠ꧀꧉,ꦧꦸꦮꦲꦺꦒꦼꦝꦁꦥꦸꦭꦸꦠ꧀꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_36_0.png,ꦱꦲꦁꦒꦼꦠꦼꦂꦫꦏꦺꦲꦠꦶꦤꦺꦏꦗꦧꦱꦶꦗꦶꦲꦶꦏꦸ꧉,ꦱꦲꦁꦒꦼꦠꦼꦂꦫꦏꦺꦲꦠꦶꦤꦺꦏꦗꦧꦱꦶꦗꦶꦲꦶꦏꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_36_1.png,ꦤꦭ꧀ꦭꦤ꧀ꦤꦺꦱꦶꦁꦲꦪꦸꦲꦶꦏꦸ꧈ꦤꦔꦶꦁꦲꦺꦴꦫꦲꦤꦱꦶꦁꦧꦶ,ꦤꦭ꧀ꦭꦤ꧀ꦤꦺꦱꦶꦁꦲꦪꦸꦲꦶꦏꦸ꧈ꦤꦔꦶꦁꦲꦺꦴꦫꦲꦤꦱꦶꦁꦧꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_36_2.png,ꦤꦺꦮꦶꦱ꧀ꦫꦸꦩꦺꦴꦁꦱꦏꦼꦠꦫꦶꦏ꧀‌꧈ꦲꦏꦼꦃꦏꦼꦚꦏꦼ,ꦤꦺꦮꦶꦱ꧀ꦫꦸꦩꦺꦴꦁꦱꦏꦼꦠꦫꦶꦏ꧀‌꧈ꦲꦏꦼꦃꦏꦼꦚꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_36_3.png,꧋ꦮꦶꦮꦶꦠ꧀ꦲꦚꦂꦫꦤ꧀ꦯꦼ ꦏꦂꦮꦔꦶꦲꦤꦏꦺꦤꦺ꧈ꦲꦠꦶ,꧋ꦮꦶꦮꦶꦠ꧀ꦲꦚꦂꦫꦤ꧀ꦯꦼ ꦏꦂꦮꦔꦶꦲꦤꦏꦺꦤꦺ꧈ꦲꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_37_0.png,ꦫꦶꦯ꧀ꦠꦤ꧀ꦠꦶꦤꦼꦫꦸꦱ꧀ꦱꦏꦺꦭꦸꦁꦒꦸꦃꦲꦤ꧀ꦲꦶꦗꦺꦤ꧀꧈,ꦫꦶꦯ꧀ꦠꦤ꧀ꦠꦶꦤꦼꦫꦸꦱ꧀ꦱꦏꦺꦭꦸꦁꦒꦸꦃꦲꦤ꧀ꦲꦶꦗꦺꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_37_1.png,ꦱꦏ꧀ꦑꦸꦩꦫꦭꦒꦶꦥꦩꦶꦠ꧀ꦠꦤ꧀‌꧈ꦱꦭꦸꦔꦤꦺꦑꦸꦩꦫ꧈,ꦱꦏ꧀ꦑꦸꦩꦫꦭꦒꦶꦥꦩꦶꦠ꧀ꦠꦤ꧀‌꧈ꦱꦭꦸꦔꦤꦺꦑꦸꦩꦫ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_37_2.png,ꦤꦶꦑꦸꦩꦫꦭꦸꦁꦒꦸꦃꦲꦤ꧀ꦲꦶꦁꦠꦺꦫꦱ꧀‌꧈ꦔꦉꦥ꧀ꦥꦏꦺꦔꦶ,ꦤꦶꦑꦸꦩꦫꦭꦸꦁꦒꦸꦃꦲꦤ꧀ꦲꦶꦁꦠꦺꦫꦱ꧀‌꧈ꦔꦉꦥ꧀ꦥꦏꦺꦔꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_37_3.png,꧋ꦫꦩ꧀ꦥꦸꦁꦲꦢꦸꦱ꧀ꦭꦤ꧀ꦩꦼꦩꦠꦸꦠ꧀ꦝꦶꦫꦶ꧈ꦫꦶꦯ꧀ꦠꦤ꧀ꦠꦶꦧꦚ꧀ꦗꦸꦂꦔꦚ꧀ꦕ,꧋ꦫꦩ꧀ꦥꦸꦁꦲꦢꦸꦱ꧀ꦭꦤ꧀ꦩꦼꦩꦠꦸꦠ꧀ꦝꦶꦫꦶ꧈ꦫꦶꦯ꧀ꦠꦤ꧀ꦠꦶꦧꦚ꧀ꦗꦸꦂꦔꦚ꧀ꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_38_0.png,ꦪꦼꦩ꧀ꦱꦼꦧꦧ꧀ꦏꦼꦧꦸꦠꦸꦃꦲꦤ꧀ꦤꦺꦮꦶꦱ꧀ꦏꦼꦕꦼꦏꦼꦭ꧀꧈,ꦪꦼꦩ꧀ꦱꦼꦧꦧ꧀ꦏꦼꦧꦸꦠꦸꦃꦲꦤ꧀ꦤꦺꦮꦶꦱ꧀ꦏꦼꦕꦼꦏꦼꦭ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_38_1.png,ꦝꦶꦁꦔꦺꦲꦶꦱꦶꦃꦏꦸꦢꦸꦢꦶꦉꦱꦶꦏ꧀ꦏꦶ꧈ꦧꦠꦶꦤ꧀ꦤꦺꦄꦁꦒꦫꦲ,ꦝꦶꦁꦔꦺꦲꦶꦱꦶꦃꦏꦸꦢꦸꦢꦶꦉꦱꦶꦏ꧀ꦏꦶ꧈ꦧꦠꦶꦤ꧀ꦤꦺꦄꦁꦒꦫꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_38_2.png,ꦠ꧀‌꧈ꦩꦸꦭꦢꦶꦥꦚ꧀ꦕꦸꦂꦫꦏꦺꦏꦁꦒꦺꦴꦔꦽꦱꦶꦏ꧀ꦏꦶ꧉ꦤꦢꦾꦤ꧀ꦗꦼ,ꦠ꧀‌꧈ꦩꦸꦭꦢꦶꦥꦚ꧀ꦕꦸꦂꦫꦏꦺꦏꦁꦒꦺꦴꦔꦽꦱꦶꦏ꧀ꦏꦶ꧉ꦤꦢꦾꦤ꧀ꦗꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_38_3.png,꧋ꦧꦚꦸꦤꦺꦲꦶꦱꦶꦃꦩꦶꦭꦶ꧈ꦤꦔꦶꦁꦧꦏ꧀ꦲꦶꦏꦸꦉꦒꦼꦢ꧀ꦧꦔꦼ,꧋ꦧꦚꦸꦤꦺꦲꦶꦱꦶꦃꦩꦶꦭꦶ꧈ꦤꦔꦶꦁꦧꦏ꧀ꦲꦶꦏꦸꦉꦒꦼꦢ꧀ꦧꦔꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_39_0.png,ꦫꦺꦴꦧꦶꦱꦏꦁꦒꦺꦴꦥꦶꦁꦠꦼꦭꦸꦲꦸꦠꦮꦥꦶꦁꦥꦠ꧀꧈,ꦫꦺꦴꦧꦶꦱꦏꦁꦒꦺꦴꦥꦶꦁꦠꦼꦭꦸꦲꦸꦠꦮꦥꦶꦁꦥꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_39_1.png,ꦠꦝꦃꦱꦼꦩꦺꦴꦤꦺꦴꦏꦸꦮꦶꦏꦁꦒꦺꦴꦤꦺꦮꦺꦴꦁꦭꦺꦴ,ꦠꦝꦃꦱꦼꦩꦺꦴꦤꦺꦴꦏꦸꦮꦶꦏꦁꦒꦺꦴꦤꦺꦮꦺꦴꦁꦭꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_39_2.png,ꦚ꧀ꦗꦸꦂ꧈ꦟꦶꦤꦺꦴꦏ꧀ꦭꦤ꧀ꦫꦸꦯ꧀ꦩꦶꦢꦶꦏ꧀ꦭꦺꦕꦩ꧀ ꦏ꧀ꦭꦺꦕꦼꦩ꧀‌꧈,ꦚ꧀ꦗꦸꦂ꧈ꦟꦶꦤꦺꦴꦏ꧀ꦭꦤ꧀ꦫꦸꦯ꧀ꦩꦶꦢꦶꦏ꧀ꦭꦺꦕꦩ꧀ ꦏ꧀ꦭꦺꦕꦼꦩ꧀‌꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_39_3.png,꧋ꦚꦸꦩꦸꦫꦸꦥ꧀ꦥꦶ ꦝꦶꦪꦱ꧀ꦩꦺꦴꦤ꧀ꦝꦺꦴꦁꦥꦶꦫꦶꦁꦲꦶꦱꦶꦤꦺꦩꦸ,꧋ꦚꦸꦩꦸꦫꦸꦥ꧀ꦥꦶ ꦝꦶꦪꦱ꧀ꦩꦺꦴꦤ꧀ꦝꦺꦴꦁꦥꦶꦫꦶꦁꦲꦶꦱꦶꦤꦺꦩꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_40_0.png,ꦏꦔꦺꦭ꧀ꦭꦤ꧀ ꦠꦏꦺꦴꦤ꧀ꦤꦺꦪꦩꦫꦁꦦꦸꦂꦤꦩ꧉,ꦏꦔꦺꦭ꧀ꦭꦤ꧀ ꦠꦏꦺꦴꦤ꧀ꦤꦺꦪꦩꦫꦁꦦꦸꦂꦤꦩ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_40_1.png,ꦓꦮꦶꦱ꧀ꦏꦪꦲꦤꦏ꧀ꦝꦺꦮꦺ꧉ꦥꦼꦭꦗꦂꦫꦤ꧀ꦱꦶꦁꦢꦶꦟꦂ,ꦓꦮꦶꦱ꧀ꦏꦪꦲꦤꦏ꧀ꦝꦺꦮꦺ꧉ꦥꦼꦭꦗꦂꦫꦤ꧀ꦱꦶꦁꦢꦶꦟꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_40_2.png,꧋ꦔꦼꦂꦠꦶꦲꦸꦁꦒꦃꦲꦸꦁꦒꦸꦃ꧉ꦏꦫꦺꦴꦏꦸꦭꦮꦂꦒꦤꦺꦧꦸꦢꦂ,꧋ꦔꦼꦂꦠꦶꦲꦸꦁꦒꦃꦲꦸꦁꦒꦸꦃ꧉ꦏꦫꦺꦴꦏꦸꦭꦮꦂꦒꦤꦺꦧꦸꦢꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_40_3.png,꧋ꦦꦸꦂꦤꦩꦧꦺꦴꦕꦃꦱꦶꦁꦭꦸꦮꦼꦱ꧀ ꦠꦠꦏꦿꦩꦤꦺꦗꦁꦏꦼꦥ꧀ꦠꦂ,꧋ꦦꦸꦂꦤꦩꦧꦺꦴꦕꦃꦱꦶꦁꦭꦸꦮꦼꦱ꧀ ꦠꦠꦏꦿꦩꦤꦺꦗꦁꦏꦼꦥ꧀ꦠꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_41_0.png,ꦱ꧀ꦲꦩ꧀ ꦧ꧀ꦭꦼꦧꦼꦱ꧀ꦲꦺꦴꦫꦏꦼꦠꦸꦭꦸꦁꦔꦤ꧀꧈,ꦱ꧀ꦲꦩ꧀ ꦧ꧀ꦭꦼꦧꦼꦱ꧀ꦲꦺꦴꦫꦏꦼꦠꦸꦭꦸꦁꦔꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_41_1.png,ꦗꦔꦤ꧀ꦤꦤ꧀‌꧈ꦝꦱꦂꦲꦮꦏ꧀ꦪꦺꦤ꧀ꦭꦒꦶꦲꦥꦼꦱ꧀‌ꦲꦥꦼ,ꦗꦔꦤ꧀ꦤꦤ꧀‌꧈ꦝꦱꦂꦲꦮꦏ꧀ꦪꦺꦤ꧀ꦭꦒꦶꦲꦥꦼꦱ꧀‌ꦲꦥꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_41_2.png,ꦢꦿꦸꦒ꧀ꦗꦮꦡꦶꦩꦸꦂ꧉ꦭꦸꦮꦏ꧀ꦩꦔꦤ꧀ꦠ ꦊꦤ꧀ ꦠꦊꦱ꧀ꦏꦁꦒꦺꦴ,ꦢꦿꦸꦒ꧀ꦗꦮꦡꦶꦩꦸꦂ꧉ꦭꦸꦮꦏ꧀ꦩꦔꦤ꧀ꦠ ꦊꦤ꧀ ꦠꦊꦱ꧀ꦏꦁꦒꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_41_3.png,꧋ꦮꦼꦔꦶꦏꦸꦮꦶꦤꦱꦶꦧ꧀ꦧꦺꦥꦏ꧀ꦦꦂꦗꦏꦪꦥꦫꦶꦏ꧀ꦏꦤ꧀ꦭꦸ,꧋ꦮꦼꦔꦶꦏꦸꦮꦶꦤꦱꦶꦧ꧀ꦧꦺꦥꦏ꧀ꦦꦂꦗꦏꦪꦥꦫꦶꦏ꧀ꦏꦤ꧀ꦭꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_42_0.png,ꦥ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦏꦺꦴꦫꦸꦥ꧀ꦱꦶ꧉,ꦥ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦏꦺꦴꦫꦸꦥ꧀ꦱꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_42_1.png,ꦤ꧀ꦤꦺ꧈ꦲꦥꦼꦱ꧀ꦤꦱꦶꦧ꧀ꦧꦺꦡꦸꦩꦶꦤꦃ꧉ꦗꦸꦫꦒꦤ꧀ꦤꦺꦏꦼꦠꦁꦏꦼ,ꦤ꧀ꦤꦺ꧈ꦲꦥꦼꦱ꧀ꦤꦱꦶꦧ꧀ꦧꦺꦡꦸꦩꦶꦤꦃ꧉ꦗꦸꦫꦒꦤ꧀ꦤꦺꦏꦼꦠꦁꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_42_2.png,꧋ꦯꦼꦏꦂꦮꦔꦶꦏꦫꦺꦴꦭꦸꦩꦏꦸꦩꦸꦭꦶꦃ꧈ꦔꦸꦩ꧀ꦧꦂꦒꦒꦱ꧀ꦱ,꧋ꦯꦼꦏꦂꦮꦔꦶꦏꦫꦺꦴꦭꦸꦩꦏꦸꦩꦸꦭꦶꦃ꧈ꦔꦸꦩ꧀ꦧꦂꦒꦒꦱ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_0.png,ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ꧉,ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏ꧀ꦏꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_1.png,ꦏ꧀ꦥꦶꦠꦸꦫꦸꦠ꧀ꦠꦶꦥꦸꦤ꧀꧈ ...,ꦏ꧀ꦥꦶꦠꦸꦫꦸꦠ꧀ꦠꦶꦥꦸꦤ꧀꧈ ...,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_2.png,ꦱꦤꦺꦥꦤ꧀‌ꦥꦱꦼꦩꦺꦴꦤ꧀‌ꦱꦼꦁꦏꦭ꧀ꦭꦤ꧀‌ꦭꦤ꧀ꦱ,ꦱꦤꦺꦥꦤ꧀‌ꦥꦱꦼꦩꦺꦴꦤ꧀‌ꦱꦼꦁꦏꦭ꧀ꦭꦤ꧀‌ꦭꦤ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_3.png,ꦱ꧈ꦏꦶꦫꦠꦧꦱ꧈ꦥꦫꦶꦧꦱꦤ꧀‌ꦮꦁꦱꦭ꧀ꦭꦤ꧀‌,ꦱ꧈ꦏꦶꦫꦠꦧꦱ꧈ꦥꦫꦶꦧꦱꦤ꧀‌ꦮꦁꦱꦭ꧀ꦭꦤ꧀‌,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_4.png,ꦩꦶꦤꦶꦥꦸꦤ꧀ꦢꦶꦥꦸꦤ꧀ꦠꦼꦒꦼꦱ꧀ꦱꦶꦩꦮꦶ꧇ꦢꦱꦤꦩ꧈ꦗꦂꦮꦢ,ꦩꦶꦤꦶꦥꦸꦤ꧀ꦢꦶꦥꦸꦤ꧀ꦠꦼꦒꦼꦱ꧀ꦱꦶꦩꦮꦶ꧇ꦢꦱꦤꦩ꧈ꦗꦂꦮꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_5.png,ꦤ꧀ꦥꦩꦁꦒꦶꦃꦩꦶꦠꦸꦫꦸꦠ꧀ꦏꦧꦼꦠꦃꦲꦤ꧀ꦤꦶꦁ ꦲꦸꦏꦫ꧈ꦲꦸꦥ,ꦤ꧀ꦥꦩꦁꦒꦶꦃꦩꦶꦠꦸꦫꦸꦠ꧀ꦏꦧꦼꦠꦃꦲꦤ꧀ꦤꦶꦁ ꦲꦸꦏꦫ꧈ꦲꦸꦥ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_6.png,ꦱ꧀ꦱꦶꦲꦸꦠꦮꦶꦢꦶꦥꦸꦤ꧀ꦩꦏ꧀ꦤꦤ꧀ꦤꦶꦢꦢꦺꦴꦱ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼ,ꦱ꧀ꦱꦶꦲꦸꦠꦮꦶꦢꦶꦥꦸꦤ꧀ꦩꦏ꧀ꦤꦤ꧀ꦤꦶꦢꦢꦺꦴꦱ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_7.png,ꦱꦸꦒꦶꦃꦩꦏ꧀ꦤ꧈ꦥꦿꦩꦶꦭꦧꦱꦗꦮꦶꦱꦒꦼꦢ꧀ꦢꦶꦥꦸꦤ꧀ꦠꦼꦒꦼ,ꦱꦸꦒꦶꦃꦩꦏ꧀ꦤ꧈ꦥꦿꦩꦶꦭꦧꦱꦗꦮꦶꦱꦒꦼꦢ꧀ꦢꦶꦥꦸꦤ꧀ꦠꦼꦒꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_8.png,ꦤ꧀ꦤꦼꦒꦼꦱ꧀ꦱꦶ ꦭꦤ꧀ꦩꦼꦂꦢꦺꦤ꧀ꦤꦶ ꦠꦼꦩ꧀ꦧꦸꦁꦭꦤ꧀ꦧꦱꦗꦮꦶꦲꦶꦁꦏꦁ,ꦤ꧀ꦤꦼꦒꦼꦱ꧀ꦱꦶ ꦭꦤ꧀ꦩꦼꦂꦢꦺꦤ꧀ꦤꦶ ꦠꦼꦩ꧀ꦧꦸꦁꦭꦤ꧀ꦧꦱꦗꦮꦶꦲꦶꦁꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_9.png,ꦩꦶꦮꦃꦊꦧ꧀ꦢꦲꦶꦁꦫꦺꦃꦏꦱꦸꦱꦱ꧀ꦠꦿꦤ꧀ꦗꦮꦶ꧈ꦲꦶꦁꦧꦧꦒ꧀ꦒ,ꦩꦶꦮꦃꦊꦧ꧀ꦢꦲꦶꦁꦫꦺꦃꦏꦱꦸꦱꦱ꧀ꦠꦿꦤ꧀ꦗꦮꦶ꧈ꦲꦶꦁꦧꦧꦒ꧀ꦒ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_10.png,꧋ꦏꦛꦃꦱꦔꦼꦠ꧀ꦥꦫꦥꦩꦲꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦭꦁꦏꦸꦁꦥꦤ,꧋ꦏꦛꦃꦱꦔꦼꦠ꧀ꦥꦫꦥꦩꦲꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦭꦁꦏꦸꦁꦥꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_11.png,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ ꦠꦼꦩ꧀ꦧꦸꦁ꧉꧇꧑꧇,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ ꦠꦼꦩ꧀ꦧꦸꦁ꧉꧇꧑꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_43_12.png,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_44_0.png,ꦲꦤ꧀ꦝꦼꦭꦶꦏ꧀ꦏꦏꦺꦥꦁꦔꦿꦱꦤꦺ꧉,ꦲꦤ꧀ꦝꦼꦭꦶꦏ꧀ꦏꦏꦺꦥꦁꦔꦿꦱꦤꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_44_1.png,ꦩ꧀ꦩꦺꦯꦼꦏꦂꦮꦔꦶ꧉ꦤꦔꦶꦁꦧꦸꦫꦸꦯ꧀ꦠꦶꦲꦶꦱꦶꦃꦧꦶꦱ,ꦩ꧀ꦩꦺꦯꦼꦏꦂꦮꦔꦶ꧉ꦤꦔꦶꦁꦧꦸꦫꦸꦯ꧀ꦠꦶꦲꦶꦱꦶꦃꦧꦶꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_44_2.png,꧋ꦮꦶꦱ꧀ꦩꦼꦤ꧀ꦢꦼꦩ꧀ꦠꦼꦤꦤ꧀ꦧꦺꦴꦕꦃꦲꦶꦏꦸ꧉ꦩꦼꦤ꧀ꦢꦼꦩ꧀ꦒꦸꦤꦼ,꧋ꦮꦶꦱ꧀ꦩꦼꦤ꧀ꦢꦼꦩ꧀ꦠꦼꦤꦤ꧀ꦧꦺꦴꦕꦃꦲꦶꦏꦸ꧉ꦩꦼꦤ꧀ꦢꦼꦩ꧀ꦒꦸꦤꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_45_0.png,ꦏ꧀ꦏꦺꦩꦿꦺꦤꦺ꧈ꦱꦶꦁꦥꦭꦶꦁꦲꦪꦸꦥꦚ꧀ꦕꦺꦤ꧀ꦲꦏꦸ꧉,ꦏ꧀ꦏꦺꦩꦿꦺꦤꦺ꧈ꦱꦶꦁꦥꦭꦶꦁꦲꦪꦸꦥꦚ꧀ꦕꦺꦤ꧀ꦲꦏꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_45_1.png,ꦤꦺꦲꦶꦧꦸꦲꦶꦧꦸꦩꦸꦝꦱꦶꦁꦚꦼꦏꦺꦴꦃꦭꦲꦏꦺꦲꦤ,ꦤꦺꦲꦶꦧꦸꦲꦶꦧꦸꦩꦸꦝꦱꦶꦁꦚꦼꦏꦺꦴꦃꦭꦲꦏꦺꦲꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_45_2.png,꧋ꦤꦔꦶꦁꦱꦗꦿꦺꦴꦤꦶꦁꦲꦠꦶꦏꦸꦔꦏꦺꦴꦤ꧀ꦤꦶ꧈ꦲꦶꦁꦲꦤ꧀ꦠꦫ,꧋ꦤꦔꦶꦁꦱꦗꦿꦺꦴꦤꦶꦁꦲꦠꦶꦏꦸꦔꦏꦺꦴꦤ꧀ꦤꦶ꧈ꦲꦶꦁꦲꦤ꧀ꦠꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_46_0.png,ꦯꦼꦩꦫꦁ꧉ꦢꦢꦶꦔꦶꦫꦶꦠ꧀ꦲꦺꦴꦫꦔꦶꦤꦼꦧ꧀ꦭꦺꦴꦱ꧀ꦩꦺꦤ꧀꧈,ꦯꦼꦩꦫꦁ꧉ꦢꦢꦶꦔꦶꦫꦶꦠ꧀ꦲꦺꦴꦫꦔꦶꦤꦼꦧ꧀ꦭꦺꦴꦱ꧀ꦩꦺꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_46_1.png,ꦤꦸꦁꦯꦿꦤ꧀ꦝꦶꦭ꧀꧈ꦲꦁꦏꦃꦲꦺꦱꦸꦥꦪꦧꦶꦱꦠꦸꦭꦏ꧀ꦩꦸꦭꦶꦃ,ꦤꦸꦁꦯꦿꦤ꧀ꦝꦶꦭ꧀꧈ꦲꦁꦏꦃꦲꦺꦱꦸꦥꦪꦧꦶꦱꦠꦸꦭꦏ꧀ꦩꦸꦭꦶꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_46_2.png,꧋ꦲꦺꦱꦸꦏ꧀ꦏꦺꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴꦱꦶꦢꦩꦿꦸꦥꦸꦠ꧀ꦩꦼꦚꦁꦒꦸ,꧋ꦲꦺꦱꦸꦏ꧀ꦏꦺꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴꦱꦶꦢꦩꦿꦸꦥꦸꦠ꧀ꦩꦼꦚꦁꦒꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_0.png,ꦭꦺꦃꦥꦶꦠꦸꦢꦸꦃꦲꦥꦏꦚꦠꦲꦤ꧀ꦤꦶꦁꦠꦼꦩ꧀ꦧꦸꦁ,ꦭꦺꦃꦥꦶꦠꦸꦢꦸꦃꦲꦥꦏꦚꦠꦲꦤ꧀ꦤꦶꦁꦠꦼꦩ꧀ꦧꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_1.png,ꦪꦏꦁꦲꦸꦮꦶꦱ꧀‌ꦏꦤ꧀ꦛꦶꦥꦔꦗꦼꦁꦲꦗꦼꦁꦲꦺꦴ,ꦪꦏꦁꦲꦸꦮꦶꦱ꧀‌ꦏꦤ꧀ꦛꦶꦥꦔꦗꦼꦁꦲꦗꦼꦁꦲꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_2.png,ꦤ꧀ꦤꦶꦲꦸꦤꦼꦤ꧀ꦲꦸꦤꦼꦤ꧀ꦩꦲꦸꦧꦚ꧀ꦗꦸꦂꦊꦭꦤꦏ,ꦤ꧀ꦤꦶꦲꦸꦤꦼꦤ꧀ꦲꦸꦤꦼꦤ꧀ꦩꦲꦸꦧꦚ꧀ꦗꦸꦂꦊꦭꦤꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_3.png,꧋ꦏꦕꦫꦶꦠꦧꦉꦁꦫꦢꦺꦤ꧀ꦱꦪꦶꦣ꧀ꦮꦸꦱ꧀ꦤꦩ꧀ꦥꦺ,꧋ꦏꦕꦫꦶꦠꦧꦉꦁꦫꦢꦺꦤ꧀ꦱꦪꦶꦣ꧀ꦮꦸꦱ꧀ꦤꦩ꧀ꦥꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_4.png,ꦢꦺꦤꦺꦧꦚ꧀ꦗꦸꦂꦱꦸꦩꦁꦒꦼꦩ꧀ꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶ꧈,ꦢꦺꦤꦺꦧꦚ꧀ꦗꦸꦂꦱꦸꦩꦁꦒꦼꦩ꧀ꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_5.png,ꦱꦪꦔꦽꦢꦠꦺꦴꦱ꧀ꦩꦤꦺꦃꦧꦉꦁꦔꦺꦔꦼꦠ꧀ꦠꦶ,ꦱꦪꦔꦽꦢꦠꦺꦴꦱ꧀ꦩꦤꦺꦃꦧꦉꦁꦔꦺꦔꦼꦠ꧀ꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_6.png,ꦠꦸꦮꦩꦲꦸꦧꦔꦼꦠ꧀ꦲꦶꦁꦔꦽꦢꦠꦺꦴꦱ꧀ꦱꦺ,ꦠꦸꦮꦩꦲꦸꦧꦔꦼꦠ꧀ꦲꦶꦁꦔꦽꦢꦠꦺꦴꦱ꧀ꦱꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_7.png,꧋ꦧꦉꦁꦫꦢꦺꦤ꧀ꦱꦪꦶꦢ꧀ꦢꦶꦠꦶꦁꦒꦭ꧀ꦲꦶꦁꦮꦺꦴꦁ,꧋ꦧꦉꦁꦫꦢꦺꦤ꧀ꦱꦪꦶꦢ꧀ꦢꦶꦠꦶꦁꦒꦭ꧀ꦲꦶꦁꦮꦺꦴꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_8.png,ꦮꦺꦴꦁꦩꦲꦸꦩꦭꦲꦺꦏꦠ꧀꧈,ꦮꦺꦴꦁꦩꦲꦸꦩꦭꦲꦺꦏꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_9.png,ꦮꦩꦲꦸꦧꦚ꧀ꦗꦸꦂꦩꦸꦱ꧀ꦤ꧈ꦩꦸꦁꦒꦸꦃꦱꦼꦗꦠꦶꦤꦺ,ꦮꦩꦲꦸꦧꦚ꧀ꦗꦸꦂꦩꦸꦱ꧀ꦤ꧈ꦩꦸꦁꦒꦸꦃꦱꦼꦗꦠꦶꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_10.png,꧋ꦱꦮꦸꦱ꧀ꦱꦺ ꦔꦸꦕꦥ꧀ꦩꦁꦏꦺꦴꦤꦺꦴꦮꦺꦴꦁꦠꦸ,꧋ꦱꦮꦸꦱ꧀ꦱꦺ ꦔꦸꦕꦥ꧀ꦩꦁꦏꦺꦴꦤꦺꦴꦮꦺꦴꦁꦠꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_11.png,꧇꧓꧇ꦪꦺꦤ꧀ꦫꦧꦶꦲꦗꦠꦸꦫꦸꦲꦩꦺꦴꦂꦧꦺꦴꦗꦺꦴꦩꦸ꧉,꧇꧓꧇ꦪꦺꦤ꧀ꦫꦧꦶꦲꦗꦠꦸꦫꦸꦲꦩꦺꦴꦂꦧꦺꦴꦗꦺꦴꦩꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_12.png,꧇꧒꧇ꦪꦺꦤ꧀ꦲꦫꦶꦥ꧀ꦲꦗꦠꦸꦫꦸ꧈,꧇꧒꧇ꦪꦺꦤ꧀ꦲꦫꦶꦥ꧀ꦲꦗꦠꦸꦫꦸ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_13.png,꧇꧑꧇ꦏꦺꦴꦮꦺꦲꦗꦤꦩ꧀ꦥꦶꦏ꧀ꦫꦼꦗꦼꦏꦶ꧈,꧇꧑꧇ꦏꦺꦴꦮꦺꦲꦗꦤꦩ꧀ꦥꦶꦏ꧀ꦫꦼꦗꦼꦏꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_14.png,ꦤꦶꦤꦺꦩꦁꦏꦺꦤꦺ꧇,ꦤꦶꦤꦺꦩꦁꦏꦺꦤꦺ꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_15.png,ꦭꦮꦱ꧀ꦲꦤꦲꦶꦁꦱꦥꦶꦁꦒꦶꦂꦫꦶꦁꦏꦭꦶ꧉,ꦭꦮꦱ꧀ꦲꦤꦲꦶꦁꦱꦥꦶꦁꦒꦶꦂꦫꦶꦁꦏꦭꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_16.png,ꦲꦸꦭꦸꦁꦔꦏꦺꦏꦤ꧀ꦛꦶꦠꦼꦠꦼꦥ꧀ꦥꦶꦁꦲꦠꦶ꧈ꦲꦸ,ꦲꦸꦭꦸꦁꦔꦏꦺꦏꦤ꧀ꦛꦶꦠꦼꦠꦼꦥ꧀ꦥꦶꦁꦲꦠꦶ꧈ꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_17.png,ꦒꦃꦲꦶꦁꦱꦔꦉꦥ꧀ꦥꦺ꧈ꦭꦤ꧀ꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶꦏꦁꦢꦶ,ꦒꦃꦲꦶꦁꦱꦔꦉꦥ꧀ꦥꦺ꧈ꦭꦤ꧀ꦤꦩ꧀ꦥꦺꦤ꧀ꦤꦶꦏꦁꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_18.png,ꦥꦒꦸꦤꦸꦔꦤ꧀‌ꦧꦚ꧀ꦗꦸꦂꦏꦺꦤ꧀ꦢꦼꦭ꧀ꦏꦺꦴꦁꦱꦶ,ꦥꦒꦸꦤꦸꦔꦤ꧀‌ꦧꦚ꧀ꦗꦸꦂꦏꦺꦤ꧀ꦢꦼꦭ꧀ꦏꦺꦴꦁꦱꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_19.png,ꦏ꧀ꦲꦏꦺꦝꦸꦮꦶꦠ꧀‌ꦤꦸꦭꦶꦢꦶꦏꦺꦴꦤ꧀ꦭꦼꦁ,ꦏ꧀ꦲꦏꦺꦝꦸꦮꦶꦠ꧀‌ꦤꦸꦭꦶꦢꦶꦏꦺꦴꦤ꧀ꦭꦼꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_20.png,ꦲꦸꦤ꧀ꦤꦤ꧀ꦲꦁꦒꦺꦴꦤꦺꦭꦭꦤꦔꦩ꧀ꦧꦃ,ꦲꦸꦤ꧀ꦤꦤ꧀ꦲꦁꦒꦺꦴꦤꦺꦭꦭꦤꦔꦩ꧀ꦧꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_21.png,꧋ꦫꦢꦺꦤ꧀ꦱꦪꦶꦢ꧀ꦱꦮꦸꦱ꧀ꦱꦺꦤꦩ꧀ꦥꦺ,꧋ꦫꦢꦺꦤ꧀ꦱꦪꦶꦢ꧀ꦱꦮꦸꦱ꧀ꦱꦺꦤꦩ꧀ꦥꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_22.png,ꦤꦶꦁꦮꦺꦴꦁꦠꦸꦮꦩꦲꦸ꧉ꦏꦺꦴꦁꦱꦶꦠꦼꦠ,ꦤꦶꦁꦮꦺꦴꦁꦠꦸꦮꦩꦲꦸ꧉ꦏꦺꦴꦁꦱꦶꦠꦼꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_23.png,꧋ꦱꦸꦤꦤ꧀ꦏꦭꦶꦗꦒ꧉,꧋ꦱꦸꦤꦤ꧀ꦏꦭꦶꦗꦒ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_24.png,ꦠꦼꦭꦸꦁꦧꦧ꧀ꦏꦪꦏꦁꦢꦶꦱꦧ꧀ꦢꦏ꧀ꦲꦏꦺꦢꦺ,ꦠꦼꦭꦸꦁꦧꦧ꧀ꦏꦪꦏꦁꦢꦶꦱꦧ꧀ꦢꦏ꧀ꦲꦏꦺꦢꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_47_25.png,ꦭꦺꦃꦥꦶꦠꦸꦢꦸꦃꦲꦥꦏꦚꦠꦲꦤ꧀ꦤꦶꦁ ꦠꦼꦩ꧀ꦧꦸꦁ,ꦭꦺꦃꦥꦶꦠꦸꦢꦸꦃꦲꦥꦏꦚꦠꦲꦤ꧀ꦤꦶꦁ ꦠꦼꦩ꧀ꦧꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_48_0.png,ꦏꦤ꧀ꦢꦼꦭ꧀‌ꦭꦩ꧀ꦧꦺꦤꦺꦲꦧꦁꦩꦺꦴꦤ꧀ꦢꦩꦺꦴꦤ꧀ꦢ꧉,ꦏꦤ꧀ꦢꦼꦭ꧀‌ꦭꦩ꧀ꦧꦺꦤꦺꦲꦧꦁꦩꦺꦴꦤ꧀ꦢꦩꦺꦴꦤ꧀ꦢ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_48_1.png,ꦏꦸꦤꦶꦁ꧉ꦥꦱꦸꦂꦪꦤ꧀ꦤꦺꦱꦼꦩꦸꦭꦺꦴꦚ꧀ꦗꦺꦴꦁ꧉ꦲꦭꦶꦱ꧀ꦱꦺ,ꦏꦸꦤꦶꦁ꧉ꦥꦱꦸꦂꦪꦤ꧀ꦤꦺꦱꦼꦩꦸꦭꦺꦴꦚ꧀ꦗꦺꦴꦁ꧉ꦲꦭꦶꦱ꧀ꦱꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_48_2.png,ꦮꦶꦢꦶꦪꦟ꧀ꦠꦫꦚꦺꦴꦧꦤꦩꦠ꧀ꦠꦏꦺ꧉ꦲꦸꦩꦸꦂꦲꦸꦩꦸꦂꦫ,ꦮꦶꦢꦶꦪꦟ꧀ꦠꦫꦚꦺꦴꦧꦤꦩꦠ꧀ꦠꦏꦺ꧉ꦲꦸꦩꦸꦂꦲꦸꦩꦸꦂꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_48_3.png,ꦤ꧀ꦤꦺꦲꦸꦢꦏꦫꦱꦼꦭꦶꦏꦸꦂꦠꦲꦸꦤ꧀ꦤꦤ꧀꧈ꦥꦏꦸꦭꦶꦠ꧀ꦠꦤ꧀ꦤꦺ,ꦤ꧀ꦤꦺꦲꦸꦢꦏꦫꦱꦼꦭꦶꦏꦸꦂꦠꦲꦸꦤ꧀ꦤꦤ꧀꧈ꦥꦏꦸꦭꦶꦠ꧀ꦠꦤ꧀ꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_49_0.png,ꦱꦼꦥꦶꦩꦲꦸꦲꦁꦒꦸꦧꦼꦭ꧀ꦩꦤꦺꦃꦲꦶꦁꦏꦁꦒꦤꦺ꧉,ꦱꦼꦥꦶꦩꦲꦸꦲꦁꦒꦸꦧꦼꦭ꧀ꦩꦤꦺꦃꦲꦶꦁꦏꦁꦒꦤꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_49_1.png,ꦪꦩꦸꦁꦮꦶꦤꦠꦼꦱ꧀ ꦪꦺ ꦤ꧀ꦮꦶꦱ꧀ꦏꦺꦴꦤ꧀ꦢꦸꦂꦠꦼꦏꦤ꧀ꦢꦊꦩ꧀ ꦫꦱ,ꦪꦩꦸꦁꦮꦶꦤꦠꦼꦱ꧀ ꦪꦺ ꦤ꧀ꦮꦶꦱ꧀ꦏꦺꦴꦤ꧀ꦢꦸꦂꦠꦼꦏꦤ꧀ꦢꦊꦩ꧀ ꦫꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_49_2.png,ꦲꦺꦲꦺꦴꦫꦧꦶꦱꦢꦸꦩꦢꦶꦱꦧꦼꦤ꧀ꦢꦶꦤ꧉ꦭꦤ꧀ꦮꦼꦏ꧀ꦠꦸꦤꦺ,ꦲꦺꦲꦺꦴꦫꦧꦶꦱꦢꦸꦩꦢꦶꦱꦧꦼꦤ꧀ꦢꦶꦤ꧉ꦭꦤ꧀ꦮꦼꦏ꧀ꦠꦸꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_49_3.png,꧋ꦤꦔꦶꦁ꧈ꦥꦠꦼꦩꦺꦴꦤ꧀ꦱꦶꦁꦏꦪꦩꦼꦁꦏꦺꦴꦤꦺꦴꦩꦼꦱ꧀ꦛꦶꦮ,꧋ꦤꦔꦶꦁ꧈ꦥꦠꦼꦩꦺꦴꦤ꧀ꦱꦶꦁꦏꦪꦩꦼꦁꦏꦺꦴꦤꦺꦴꦩꦼꦱ꧀ꦛꦶꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_50_0.png,ꦭꦤ꧀ꦮꦶꦱ꧀ꦲꦺꦴꦫꦧꦏꦭ꧀ꦧꦭꦶꦩꦤꦺꦃ꧉,ꦭꦤ꧀ꦮꦶꦱ꧀ꦲꦺꦴꦫꦧꦏꦭ꧀ꦧꦭꦶꦩꦤꦺꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_50_1.png,ꦮꦔꦶ꧉ꦏꦤ꧀ꦝꦤꦺꦯꦂꦩꦶ꧈ꦗꦫꦺꦩꦸꦭꦶꦃꦩꦼꦚꦁꦢꦺꦱ,ꦮꦔꦶ꧉ꦏꦤ꧀ꦝꦤꦺꦯꦂꦩꦶ꧈ꦗꦫꦺꦩꦸꦭꦶꦃꦩꦼꦚꦁꦢꦺꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_50_2.png,ꦫꦤꦺꦮꦶꦱ꧀ꦫꦩ꧀ꦥꦸꦁ꧉ꦠꦼꦏꦤ꧀ꦔꦺꦴꦩꦃꦏꦺꦭꦁꦔꦤ꧀ꦯꦼꦏꦂ,ꦫꦤꦺꦮꦶꦱ꧀ꦫꦩ꧀ꦥꦸꦁ꧉ꦠꦼꦏꦤ꧀ꦔꦺꦴꦩꦃꦏꦺꦭꦁꦔꦤ꧀ꦯꦼꦏꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_50_3.png,꧋ꦢꦩꦂꦗꦡꦶꦮꦶꦱ꧀ꦧꦭꦶꦱꦏꦨꦺꦴꦒꦺꦴꦂꦲꦮꦶꦠ꧀ꦲꦕ,꧋ꦢꦩꦂꦗꦡꦶꦮꦶꦱ꧀ꦧꦭꦶꦱꦏꦨꦺꦴꦒꦺꦴꦂꦲꦮꦶꦠ꧀ꦲꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_51_0.png,ꦝꦶꦤꦺꦱꦶꦁꦮꦶꦱ꧀ꦱꦸꦮꦺꦧꦼꦧꦢꦿꦲꦶꦁꦏꦸꦛ꧉,ꦝꦶꦤꦺꦱꦶꦁꦮꦶꦱ꧀ꦱꦸꦮꦺꦧꦼꦧꦢꦿꦲꦶꦁꦏꦸꦛ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_51_1.png,ꦮꦺꦏ꧀ꦏꦺꦠꦁꦒꦤꦺ꧈ꦯꦫꦶꦩꦤ꧀ꦱꦶꦢꦧꦸꦝꦭ꧀ꦚꦸꦱꦸꦭ꧀ꦲ,ꦮꦺꦏ꧀ꦏꦺꦠꦁꦒꦤꦺ꧈ꦯꦫꦶꦩꦤ꧀ꦱꦶꦢꦧꦸꦝꦭ꧀ꦚꦸꦱꦸꦭ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_51_2.png,ꦭꦺꦁꦔꦤ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦲꦢꦺꦴꦭ꧀ꦮꦼꦝꦸꦱ꧀ꦒꦝꦸꦃꦲꦤ꧀ꦢꦸ,ꦭꦺꦁꦔꦤ꧀ꦲꦺꦴꦭꦺꦃꦲꦺꦲꦢꦺꦴꦭ꧀ꦮꦼꦝꦸꦱ꧀ꦒꦝꦸꦃꦲꦤ꧀ꦢꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_51_3.png,꧋ꦏꦤ꧀ꦛꦶꦱꦔꦸꦥꦁꦔꦺꦱ꧀ꦠꦸꦤꦺꦱꦶꦩ꧀ꦧꦺꦴꦏ꧀ꦏꦺꦭꦤ꧀ꦝꦸꦝꦃꦕꦺ,꧋ꦏꦤ꧀ꦛꦶꦱꦔꦸꦥꦁꦔꦺꦱ꧀ꦠꦸꦤꦺꦱꦶꦩ꧀ꦧꦺꦴꦏ꧀ꦏꦺꦭꦤ꧀ꦝꦸꦝꦃꦕꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_0.png,ꦥꦁꦔꦽꦠꦺꦴꦱ꧀ꦱꦤ꧀ꦏꦸꦭ ... ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏꦺ꧀ꦏ꧉,ꦥꦁꦔꦽꦠꦺꦴꦱ꧀ꦱꦤ꧀ꦏꦸꦭ ... ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦕꦤ꧀ꦝꦏꦺ꧀ꦏ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_1.png,ꦪ꧈ꦲꦶꦁꦒꦶꦃꦲꦮꦶꦠ꧀ꦠꦏ꧀ꦱꦶꦃꦕꦸꦧ꧀ꦭꦸꦏ꧀ꦱꦂꦠꦏꦶꦫꦔꦶꦁ,ꦪ꧈ꦲꦶꦁꦒꦶꦃꦲꦮꦶꦠ꧀ꦠꦏ꧀ꦱꦶꦃꦕꦸꦧ꧀ꦭꦸꦏ꧀ꦱꦂꦠꦏꦶꦫꦔꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_2.png,ꦲꦤꦩꦸꦁꦚꦸꦩꦁꦒꦏꦏꦼꦤ꧀ꦥꦫꦩꦲꦺꦴꦱ꧀ꦱꦢ,ꦲꦤꦩꦸꦁꦚꦸꦩꦁꦒꦏꦏꦼꦤ꧀ꦥꦫꦩꦲꦺꦴꦱ꧀ꦱꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_3.png,ꦭꦶꦤ꧀ꦠꦸ꧈ꦩꦶꦮꦃꦥꦩꦼꦂꦢꦺꦤ꧀ꦲꦶꦁꦏꦁꦱꦺꦗꦺ꧈ꦏꦸꦭ,ꦭꦶꦤ꧀ꦠꦸ꧈ꦩꦶꦮꦃꦥꦩꦼꦂꦢꦺꦤ꧀ꦲꦶꦁꦏꦁꦱꦺꦗꦺ꧈ꦏꦸꦭ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_4.png,ꦤ꧀ꦥꦫꦥꦩꦲꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦏꦒꦸꦔꦤ꧀ꦥꦩꦁꦒꦶꦃ,ꦤ꧀ꦥꦫꦥꦩꦲꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦏꦒꦸꦔꦤ꧀ꦥꦩꦁꦒꦶꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_5.png,ꦱ꧀ꦱꦶꦁꦥꦔꦽꦠꦺꦴꦱ꧀ꦱ ꦤ꧀ꦏꦸꦮꦸꦭ꧉ꦩꦤꦮꦶꦮꦺꦴꦤ꧀ꦠꦼ,ꦱ꧀ꦱꦶꦁꦥꦔꦽꦠꦺꦴꦱ꧀ꦱ ꦤ꧀ꦏꦸꦮꦸꦭ꧉ꦩꦤꦮꦶꦮꦺꦴꦤ꧀ꦠꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_6.png,ꦫꦤ꧀ꦲꦫꦤ꧀ꦩꦶꦠꦸꦫꦸꦠ꧀ꦒꦢꦸꦏ꧀ꦏꦶꦁꦥꦩꦁꦒꦶꦃꦩꦶꦮꦃꦮꦶꦤꦠꦼ,ꦫꦤ꧀ꦲꦫꦤ꧀ꦩꦶꦠꦸꦫꦸꦠ꧀ꦒꦢꦸꦏ꧀ꦏꦶꦁꦥꦩꦁꦒꦶꦃꦩꦶꦮꦃꦮꦶꦤꦠꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_7.png,ꦤꦶꦏꦏꦥꦉꦔꦏꦮꦸꦭꦧꦝꦺꦔꦺꦤ꧀ꦛꦲꦺ,ꦤꦶꦏꦏꦥꦉꦔꦏꦮꦸꦭꦧꦝꦺꦔꦺꦤ꧀ꦛꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_8.png,ꦗꦼꦁꦔꦶꦥꦸꦤ꧀‌ꦱꦮꦠꦮꦶꦱ꧀ꦲꦶꦁꦏꦭꦺꦴꦝꦁꦔꦤ꧀ꦥꦸ,ꦗꦼꦁꦔꦶꦥꦸꦤ꧀‌ꦱꦮꦠꦮꦶꦱ꧀ꦲꦶꦁꦏꦭꦺꦴꦝꦁꦔꦤ꧀ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_9.png,ꦱꦺꦗꦺꦱꦺꦗꦺꦒꦸꦩꦛꦺꦴꦏ꧀ꦏꦭꦶꦪꦤ꧀ꦥꦶꦏ,ꦱꦺꦗꦺꦱꦺꦗꦺꦒꦸꦩꦛꦺꦴꦏ꧀ꦏꦭꦶꦪꦤ꧀ꦥꦶꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_10.png,ꦝꦃꦲꦶꦠꦥ꦳꧀ꦱꦶꦂꦱꦲꦥꦔꦽꦠꦺꦴꦱ꧀ꦱꦤ꧀ꦲꦶꦁꦏꦁ,ꦝꦃꦲꦶꦠꦥ꦳꧀ꦱꦶꦂꦱꦲꦥꦔꦽꦠꦺꦴꦱ꧀ꦱꦤ꧀ꦲꦶꦁꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_11.png,ꦏ꧀ꦥꦶꦠꦸꦫꦸꦠꦶꦥꦸꦤ꧀ ꦩꦶꦭꦤꦶꦥꦸꦤ꧀ꦧꦱꦗꦮꦶꦲꦁꦒ,ꦏ꧀ꦥꦶꦠꦸꦫꦸꦠꦶꦥꦸꦤ꧀ ꦩꦶꦭꦤꦶꦥꦸꦤ꧀ꦧꦱꦗꦮꦶꦲꦁꦒ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_12.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ ...,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ ...,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_13.png,ꦱꦼꦁꦏꦭ꧀ꦭꦤ꧀ꦭꦤ꧀ꦱ,ꦱꦼꦁꦏꦭ꧀ꦭꦤ꧀ꦭꦤ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_14.png,ꦠꦼꦩ꧀ꦧꦸꦁ꧇꧒꧇,ꦠꦼꦩ꧀ꦧꦸꦁ꧇꧒꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_15.png,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ,꧋ꦔꦺꦤ꧀ꦛꦲꦺꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏ꧀ꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_16.png,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ,꧋ꦱꦶꦤꦲꦸꦤꦸꦭꦶꦱ꧀ꦗꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_52_17.png,ꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁꦠꦼꦩ꧀ꦧꦸꦁꦠꦸꦮꦶꦤ꧀ꦲ,ꦤ꧀ꦛꦔꦺꦴꦚ꧀ꦕꦺꦏꦶꦥꦱꦼꦩꦺꦴꦤ꧀ꦤꦶꦁꦠꦼꦩ꧀ꦧꦸꦁꦠꦸꦮꦶꦤ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_53_0.png,ꦚꦼꦧꦸꦠ꧀ꦗꦼꦤꦼꦁꦥꦏ꧀ꦮꦂꦯꦶꦠ꧈ꦧꦥꦏ꧀ꦏꦺꦯꦼꦏꦂꦮꦔꦶ꧉,ꦚꦼꦧꦸꦠ꧀ꦗꦼꦤꦼꦁꦥꦏ꧀ꦮꦂꦯꦶꦠ꧈ꦧꦥꦏ꧀ꦏꦺꦯꦼꦏꦂꦮꦔꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_53_1.png,ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦺꦠꦺꦱ꧀ꦱꦏꦺꦲꦼꦭꦸꦃꦤꦭꦶꦏ,ꦝꦺꦮꦺꦏ꧀ꦏꦺꦤꦺꦠꦺꦱ꧀ꦱꦏꦺꦲꦼꦭꦸꦃꦤꦭꦶꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_53_2.png,ꦭꦃꦏꦁꦮꦶꦱ꧀ꦩꦺꦃꦥꦺꦤ꧀ꦱꦶꦪꦸꦤ꧀ꦲꦶꦏꦸꦩꦼꦝꦂꦱꦧ꧀ꦢ꧉,ꦭꦃꦏꦁꦮꦶꦱ꧀ꦩꦺꦃꦥꦺꦤ꧀ꦱꦶꦪꦸꦤ꧀ꦲꦶꦏꦸꦩꦼꦝꦂꦱꦧ꧀ꦢ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_53_3.png,ꦱꦢꦸꦫꦸꦁꦔꦺꦲꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦸꦫꦸꦧ꧀ ꦏꦼꦥꦭꦱꦼꦏꦺꦴ,ꦱꦢꦸꦫꦸꦁꦔꦺꦲꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦸꦫꦸꦧ꧀ ꦏꦼꦥꦭꦱꦼꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_54_0.png,ꦲꦺꦤ꧀ꦠꦸꦏ꧀ꦫꦟ꧀ꦠꦶ꧈ꦣꦺꦮꦺꦏ꧀ꦏꦺꦠꦼꦫꦸꦱ꧀ꦒꦼꦊꦩ꧀꧈,ꦲꦺꦤ꧀ꦠꦸꦏ꧀ꦫꦟ꧀ꦠꦶ꧈ꦣꦺꦮꦺꦏ꧀ꦏꦺꦠꦼꦫꦸꦱ꧀ꦒꦼꦊꦩ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_54_1.png,ꦏ꧀ꦏꦺꦲꦸꦒꦫꦸꦩꦺꦴꦁꦱꦱꦭꦃ꧉ꦤꦭꦶꦏꦢꦶꦠꦫꦶꦫꦧꦶ,ꦏ꧀ꦏꦺꦲꦸꦒꦫꦸꦩꦺꦴꦁꦱꦱꦭꦃ꧉ꦤꦭꦶꦏꦢꦶꦠꦫꦶꦫꦧꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_54_2.png,ꦏ꧀ꦏꦺꦲꦺꦴꦫꦔ꧀ꦭꦸꦥꦸꦠ꧀ꦠꦏꦺꦫꦟ꧀ꦠꦶ꧈ꦗꦭꦂꦫꦤ꧀ꦝꦺꦮꦺ,ꦏ꧀ꦏꦺꦲꦺꦴꦫꦔ꧀ꦭꦸꦥꦸꦠ꧀ꦠꦏꦺꦫꦟ꧀ꦠꦶ꧈ꦗꦭꦂꦫꦤ꧀ꦝꦺꦮꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_54_3.png,꧋ꦫꦟ꧀ꦠꦶꦩꦤ꧀ꦛꦸꦏ꧀‌ꦲꦼꦟ꧀ꦢꦿꦲꦩ꧀ꦧꦼꦒ꧀ꦒꦤ꧀ꦭꦤ꧀ꦝꦸꦁ꧉ꦝꦺꦮꦺ,꧋ꦫꦟ꧀ꦠꦶꦩꦤ꧀ꦛꦸꦏ꧀‌ꦲꦼꦟ꧀ꦢꦿꦲꦩ꧀ꦧꦼꦒ꧀ꦒꦤ꧀ꦭꦤ꧀ꦝꦸꦁ꧉ꦝꦺꦮꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_55_0.png,ꦦꦿꦶꦲꦱ꧀ꦠꦸꦠꦶꦩꦸꦁꦧꦶꦱꦩꦤ꧀ꦛꦸꦏ꧀‌꧈ꦏꦼꦥꦼꦏ꧀ꦱ꧉,ꦦꦿꦶꦲꦱ꧀ꦠꦸꦠꦶꦩꦸꦁꦧꦶꦱꦩꦤ꧀ꦛꦸꦏ꧀‌꧈ꦏꦼꦥꦼꦏ꧀ꦱ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_55_1.png,ꦔꦤ꧀ꦢꦶꦱꦺꦭꦺꦃꦩꦶꦫꦶꦁꦕꦼꦣꦏ꧀ꦲꦭꦶꦱ꧀ ꦲꦤ꧀ꦩꦤ꧀ꦛꦸꦏ꧀ꦏꦸꦂꦩꦠ꧀‌,ꦔꦤ꧀ꦢꦶꦱꦺꦭꦺꦃꦩꦶꦫꦶꦁꦕꦼꦣꦏ꧀ꦲꦭꦶꦱ꧀ ꦲꦤ꧀ꦩꦤ꧀ꦛꦸꦏ꧀ꦏꦸꦂꦩꦠ꧀‌,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_55_2.png,ꦥꦩꦶꦠ꧀ꦠꦤ꧀ ꦩꦤ꧀ꦢꦸꦂ꧈ꦏꦤ꧀ꦛꦶꦔꦁꦏꦠ꧀ꦲꦺꦥꦺꦏ꧀ꦲꦺꦥꦺꦏ꧀ꦠ,ꦥꦩꦶꦠ꧀ꦠꦤ꧀ ꦩꦤ꧀ꦢꦸꦂ꧈ꦏꦤ꧀ꦛꦶꦔꦁꦏꦠ꧀ꦲꦺꦥꦺꦏ꧀ꦲꦺꦥꦺꦏ꧀ꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_55_3.png,꧋ꦏꦭꦺꦴꦝꦁꦔꦤ꧀ꦩꦲꦸꦢꦶꦒꦸꦤꦏꦏꦺꦨꦱꦸꦏꦶꦏꦁꦒꦺꦴ,꧋ꦏꦭꦺꦴꦝꦁꦔꦤ꧀ꦩꦲꦸꦢꦶꦒꦸꦤꦏꦏꦺꦨꦱꦸꦏꦶꦏꦁꦒꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_56_0.png,ꦮꦺꦴꦁꦥꦝꦱꦸꦫꦏ꧀ ꦫꦱꦠꦽꦚꦸꦃꦫꦸꦩꦩ꧀ꦧꦠ꧀ꦲꦶꦁꦧꦠꦶꦤ꧀ꦏꦸ꧉,ꦮꦺꦴꦁꦥꦝꦱꦸꦫꦏ꧀ ꦫꦱꦠꦽꦚꦸꦃꦫꦸꦩꦩ꧀ꦧꦠ꧀ꦲꦶꦁꦧꦠꦶꦤ꧀ꦏꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_56_1.png,ꦮꦺꦴꦁꦭꦶꦪꦩꦼꦏ꧀ꦱꦒꦺꦱꦺꦃꦏꦫꦺꦴꦫꦱꦏꦸ꧉ꦗꦿꦺꦴꦤꦶꦁ,ꦮꦺꦴꦁꦭꦶꦪꦩꦼꦏ꧀ꦱꦒꦺꦱꦺꦃꦏꦫꦺꦴꦫꦱꦏꦸ꧉ꦗꦿꦺꦴꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_56_2.png,ꦧꦶꦱꦒꦮꦺꦮꦺꦴꦁꦮꦺꦴꦁꦏꦼꦥꦿꦤꦤ꧀‌ꦤꦔꦶꦁꦥꦁꦔꦿꦱꦤꦺ,ꦧꦶꦱꦒꦮꦺꦮꦺꦴꦁꦮꦺꦴꦁꦏꦼꦥꦿꦤꦤ꧀‌ꦤꦔꦶꦁꦥꦁꦔꦿꦱꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_56_3.png,꧋ꦱ꧀ꦮꦱꦤꦤꦺꦒꦪꦼꦁꦠꦼꦤꦤ꧀‌꧈ꦲꦺꦴꦫꦚꦤꦪꦼꦤ꧀ꦲꦤꦏ꧀ꦏꦸ,꧋ꦱ꧀ꦮꦱꦤꦤꦺꦒꦪꦼꦁꦠꦼꦤꦤ꧀‌꧈ꦲꦺꦴꦫꦚꦤꦪꦼꦤ꧀ꦲꦤꦏ꧀ꦏꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_57_0.png,ꦏ꧀ꦩꦭꦶꦃꦧꦶꦱꦲꦩ꧀ꦧꦶꦪꦤ꧀ꦠꦸꦉꦫꦺꦮꦁꦲꦥꦱꦶꦁꦱꦏꦶꦫꦧꦶꦱ꧉,ꦏ꧀ꦩꦭꦶꦃꦧꦶꦱꦲꦩ꧀ꦧꦶꦪꦤ꧀ꦠꦸꦉꦫꦺꦮꦁꦲꦥꦱꦶꦁꦱꦏꦶꦫꦧꦶꦱ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_57_1.png,ꦠ꧀ꦮꦪꦃꦲꦮꦤ꧀‌ꦱꦥꦔꦼꦂꦠꦶꦤꦺꦏ꧀ꦭꦒꦶꦥꦱꦁꦠꦫꦸꦧ꧀‌ꦫ,ꦠ꧀ꦮꦪꦃꦲꦮꦤ꧀‌ꦱꦥꦔꦼꦂꦠꦶꦤꦺꦏ꧀ꦭꦒꦶꦥꦱꦁꦠꦫꦸꦧ꧀‌ꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_57_2.png,ꦩꦸꦭꦤꦶꦪꦠ꧀ꦠꦺꦮꦺꦴꦁꦥꦥꦠ꧀ꦲꦉꦥ꧀ꦩꦫꦤ꧀ꦤꦶꦥꦥꦤ꧀ꦱꦏꦮꦶ,ꦩꦸꦭꦤꦶꦪꦠ꧀ꦠꦺꦮꦺꦴꦁꦥꦥꦠ꧀ꦲꦉꦥ꧀ꦩꦫꦤ꧀ꦤꦶꦥꦥꦤ꧀ꦱꦏꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_57_3.png,꧋ꦫꦺꦃꦤꦺꦏꦧꦺꦃꦫꦸꦩꦺꦴꦁꦱꦢꦸꦫꦸꦁꦲꦺꦤ꧀ꦠꦸꦏ꧀ꦗꦮꦶꦭ꧀ꦭꦤ꧀,꧋ꦫꦺꦃꦤꦺꦏꦧꦺꦃꦫꦸꦩꦺꦴꦁꦱꦢꦸꦫꦸꦁꦲꦺꦤ꧀ꦠꦸꦏ꧀ꦗꦮꦶꦭ꧀ꦭꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_58_0.png,ꦯ꧀ꦠꦫꦶ꧈ꦤꦔꦶꦁꦲꦺꦴꦫꦢꦶꦠꦁꦒꦥ꧀ꦥꦶ꧉,ꦯ꧀ꦠꦫꦶ꧈ꦤꦔꦶꦁꦲꦺꦴꦫꦢꦶꦠꦁꦒꦥ꧀ꦥꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_58_1.png,ꦤ꧀ꦢꦶ꧉ꦓꦶꦠꦩꦸꦂꦯꦶꦢ꧀ꦥꦚ꧀ꦕꦼꦤ꧀ꦲꦸꦒꦒꦤ꧀ꦢꦿꦸꦁꦏꦫꦺꦴꦊ,ꦤ꧀ꦢꦶ꧉ꦓꦶꦠꦩꦸꦂꦯꦶꦢ꧀ꦥꦚ꧀ꦕꦼꦤ꧀ꦲꦸꦒꦒꦤ꧀ꦢꦿꦸꦁꦏꦫꦺꦴꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_58_2.png,ꦤꦺꦊꦯ꧀ꦠꦫꦶꦏꦺꦴꦏ꧀ꦓꦶꦠꦩꦸꦂꦯꦶꦢ꧀꧈ꦭꦃꦡꦂꦱꦲꦤꦔꦼ,ꦤꦺꦊꦯ꧀ꦠꦫꦶꦏꦺꦴꦏ꧀ꦓꦶꦠꦩꦸꦂꦯꦶꦢ꧀꧈ꦭꦃꦡꦂꦱꦲꦤꦔꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_58_3.png,꧋ꦲꦏꦸꦒꦸꦩꦸꦤ꧀ꦩꦕꦱꦼꦫꦠ꧀ꦭꦼꦭꦪꦸꦲꦶꦏꦸ꧉ꦧꦺꦴꦗꦺꦴ,꧋ꦲꦏꦸꦒꦸꦩꦸꦤ꧀ꦩꦕꦱꦼꦫꦠ꧀ꦭꦼꦭꦪꦸꦲꦶꦏꦸ꧉ꦧꦺꦴꦗꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_59_0.png,꧋ꦱꦧꦼꦤ꧀ꦢꦶꦤꦢꦶꦏꦺꦴꦁꦏꦺꦴꦤ꧀ꦚꦭꦺꦴꦁꦝꦸꦮꦶꦠ꧀꧈,꧋ꦱꦧꦼꦤ꧀ꦢꦶꦤꦢꦶꦏꦺꦴꦁꦏꦺꦴꦤ꧀ꦚꦭꦺꦴꦁꦝꦸꦮꦶꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_59_1.png,ꦪꦕꦿꦶꦠꦤꦺꦮꦺꦴꦁꦱꦶꦁꦢꦸꦮꦺꦲꦶꦔꦺꦴꦤ꧀ꦛꦸꦪꦸꦭ꧀,ꦪꦕꦿꦶꦠꦤꦺꦮꦺꦴꦁꦱꦶꦁꦢꦸꦮꦺꦲꦶꦔꦺꦴꦤ꧀ꦛꦸꦪꦸꦭ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_59_2.png,ꦏ꧀ꦝꦸꦮꦶꦠ꧀ꦲꦥꦩꦤꦺꦃꦔꦏꦺꦴꦤ꧀ꦚꦺꦴꦭꦺꦴꦁ꧉ꦏ,ꦏ꧀ꦝꦸꦮꦶꦠ꧀ꦲꦥꦩꦤꦺꦃꦔꦏꦺꦴꦤ꧀ꦚꦺꦴꦭꦺꦴꦁ꧉ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_59_3.png,꧋ꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦺꦴꦫꦠꦲꦸꦏꦺꦴꦤ꧀ꦝꦲꦚ꧀ꦗꦭꦸ,꧋ꦝꦺꦮꦺꦏ꧀ꦏꦺꦲꦺꦴꦫꦠꦲꦸꦏꦺꦴꦤ꧀ꦝꦲꦚ꧀ꦗꦭꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_0.png,ꦏꦭ꧀ꦢꦶꦲꦸꦁꦒꦸꦭ꧀ꦭꦏꦺ,ꦏꦭ꧀ꦢꦶꦲꦸꦁꦒꦸꦭ꧀ꦭꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_1.png,ꦔ - ꦔꦸꦁꦒꦸꦭ꧀ꦭꦏꦺꦝꦶꦫꦶꦧꦏꦭ꧀ꦢꦶꦲꦱꦺꦴꦂꦫꦏꦺ꧈ꦱꦥꦲꦤ꧀ꦝꦥ꧀ꦲꦱꦺꦴꦂꦧ,ꦔ - ꦔꦸꦁꦒꦸꦭ꧀ꦭꦏꦺꦝꦶꦫꦶꦧꦏꦭ꧀ꦢꦶꦲꦱꦺꦴꦂꦫꦏꦺ꧈ꦱꦥꦲꦤ꧀ꦝꦥ꧀ꦲꦱꦺꦴꦂꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_2.png,ꦛ - ꦛꦺꦴꦛꦺꦴꦒ꧀ꦛꦺꦴꦛꦺꦴꦒ꧀ꦒꦺꦴ ꦭꦮꦁꦪꦺꦤ꧀ꦥꦺꦔꦶꦤ꧀ꦢꦶꦮꦼꦔꦤ꧉ꦤꦶ,ꦛ - ꦛꦺꦴꦛꦺꦴꦒ꧀ꦛꦺꦴꦛꦺꦴꦒ꧀ꦒꦺꦴ ꦭꦮꦁꦪꦺꦤ꧀ꦥꦺꦔꦶꦤ꧀ꦢꦶꦮꦼꦔꦤ꧉ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_3.png,ꦧ-ꦧꦼꦒ꧀ꦗꦧꦼꦒ꧀ꦗꦤ꧀ꦤꦺꦏꦁꦭꦭꦶꦩꦏ꧀ꦱꦶꦃꦧꦼꦒ꧀ꦗꦏꦁꦲꦺꦭꦶꦁꦏ꧀ꦭꦮꦤ꧀ꦮꦱ꧀ꦥꦢ,ꦧ-ꦧꦼꦒ꧀ꦗꦧꦼꦒ꧀ꦗꦤ꧀ꦤꦺꦏꦁꦭꦭꦶꦩꦏ꧀ꦱꦶꦃꦧꦼꦒ꧀ꦗꦏꦁꦲꦺꦭꦶꦁꦏ꧀ꦭꦮꦤ꧀ꦮꦱ꧀ꦥꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_4.png,ꦒ - ꦒꦼꦩꦶꦲꦶꦏꦸꦧꦼꦕꦶꦏ꧀ꦲꦤꦔꦶꦁꦒꦼꦩꦶꦤꦺꦮꦺꦴꦁꦕꦼꦛꦶꦭ꧀ꦏꦁꦲꦺꦴꦫꦧꦼꦕꦶꦏ꧀,ꦒ - ꦒꦼꦩꦶꦲꦶꦏꦸꦧꦼꦕꦶꦏ꧀ꦲꦤꦔꦶꦁꦒꦼꦩꦶꦤꦺꦮꦺꦴꦁꦕꦼꦛꦶꦭ꧀ꦏꦁꦲꦺꦴꦫꦧꦼꦕꦶꦏ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_5.png,ꦩ - ꦩꦺꦴꦩꦺꦴꦂꦩꦺꦴꦩꦺꦴꦠ꧀ꦩꦺꦴꦩꦺꦴꦁꦩꦼꦱ꧀ꦛꦶꦩꦶꦏꦺꦴꦭꦺꦃꦲꦶ,ꦩ - ꦩꦺꦴꦩꦺꦴꦂꦩꦺꦴꦩꦺꦴꦠ꧀ꦩꦺꦴꦩꦺꦴꦁꦩꦼꦱ꧀ꦛꦶꦩꦶꦏꦺꦴꦭꦺꦃꦲꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_6.png,ꦚ - ꦚꦺꦭꦺꦁꦔꦶꦲꦚ꧀ꦗꦒꦤꦶꦏꦁꦲꦺꦴꦫꦏꦚꦤꦚꦤ,ꦚ - ꦚꦺꦭꦺꦁꦔꦶꦲꦚ꧀ꦗꦒꦤꦶꦏꦁꦲꦺꦴꦫꦏꦚꦤꦚꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_7.png,ꦕꦶꦏ꧀,ꦕꦶꦏ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_8.png,ꦪ​​-ꦪꦺꦤ꧀ꦲꦺꦴꦫꦔꦽꦠꦶꦏꦁꦲꦭꦲꦠꦼꦒꦼꦱ꧀ꦲꦸꦒꦲꦺꦴꦫꦔꦽꦠꦶꦏꦁꦚꦼ,ꦪ​​-ꦪꦺꦤ꧀ꦲꦺꦴꦫꦔꦽꦠꦶꦏꦁꦲꦭꦲꦠꦼꦒꦼꦱ꧀ꦲꦸꦒꦲꦺꦴꦫꦔꦽꦠꦶꦏꦁꦚꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_9.png,ꦗ - ꦗꦼꦤꦼꦁꦠꦽꦱ꧀ꦤꦏꦸꦢꦸꦮꦤꦶꦔ꧀ꦭꦧꦸꦃꦲꦶꦭꦫꦱꦁꦱꦫ,ꦗ - ꦗꦼꦤꦼꦁꦠꦽꦱ꧀ꦤꦏꦸꦢꦸꦮꦤꦶꦔ꧀ꦭꦧꦸꦃꦲꦶꦭꦫꦱꦁꦱꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_10.png,ꦫꦤ꧀ꦤꦶꦲꦭ,ꦫꦤ꧀ꦤꦶꦲꦭ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_11.png,ꦝ - ꦝꦱꦂꦫꦺꦩꦤꦸꦁꦱꦲꦶꦏꦸꦏꦶꦤꦺꦴꦢꦿꦠ꧀ꦧꦼꦕꦶꦏ꧀ꦧꦸꦏ꧀꧈ꦧꦸꦏ꧀ꦠꦶꦤꦺꦲꦼꦩꦺꦴꦃꦢꦶꦲ,ꦝ - ꦝꦱꦂꦫꦺꦩꦤꦸꦁꦱꦲꦶꦏꦸꦏꦶꦤꦺꦴꦢꦿꦠ꧀ꦧꦼꦕꦶꦏ꧀ꦧꦸꦏ꧀꧈ꦧꦸꦏ꧀ꦠꦶꦤꦺꦲꦼꦩꦺꦴꦃꦢꦶꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_12.png,ꦥ - ꦥꦶꦤꦸꦗꦸꦧꦸꦔꦃꦲꦺꦭꦶꦁꦔꦱꦸꦱꦃꦥꦶꦤꦸꦗꦸꦱꦸꦱꦃꦲꦺꦭꦶꦁꦔꦧꦸꦔꦃ,ꦥ - ꦥꦶꦤꦸꦗꦸꦧꦸꦔꦃꦲꦺꦭꦶꦁꦔꦱꦸꦱꦃꦥꦶꦤꦸꦗꦸꦱꦸꦱꦃꦲꦺꦭꦶꦁꦔꦧꦸꦔꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_13.png,ꦭ꧀ꦲꦶꦁꦥꦱꦶꦤꦲꦺꦴꦤ꧀,ꦭ꧀ꦲꦶꦁꦥꦱꦶꦤꦲꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_14.png,ꦭ - ꦭꦸꦮꦶꦃꦲꦩ꧀ꦧꦼꦧꦪꦤꦶꦩꦺꦴꦒꦺꦴꦭ꧀ꦲꦶꦁꦥꦁꦒꦸꦭꦮꦼꦤ꧀ꦠꦃꦠꦶꦤꦶꦩ꧀ꦧꦁꦩꦺꦴꦒꦺꦴ,ꦭ - ꦭꦸꦮꦶꦃꦲꦩ꧀ꦧꦼꦧꦪꦤꦶꦩꦺꦴꦒꦺꦴꦭ꧀ꦲꦶꦁꦥꦁꦒꦸꦭꦮꦼꦤ꧀ꦠꦃꦠꦶꦤꦶꦩ꧀ꦧꦁꦩꦺꦴꦒꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_15.png,ꦮ - ꦮꦺꦴꦁꦭꦫꦔꦉꦥ꧀ꦲꦉꦥ꧀ꦮꦫꦱ꧀‌꧈ꦮꦺꦴꦁꦮꦫꦱ꧀ꦲꦥꦥꦁꦔꦉꦥ꧀ꦲꦉꦥ꧀ꦩꦸ,ꦮ - ꦮꦺꦴꦁꦭꦫꦔꦉꦥ꧀ꦲꦉꦥ꧀ꦮꦫꦱ꧀‌꧈ꦮꦺꦴꦁꦮꦫꦱ꧀ꦲꦥꦥꦁꦔꦉꦥ꧀ꦲꦉꦥ꧀ꦩꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_16.png,ꦱ - ꦱꦥꦱꦶꦪꦱꦶꦪꦩꦫꦁꦮꦼꦏ꧀ꦠꦸꦧꦏꦭ꧀ꦢꦶꦱꦶꦪꦱꦶꦪꦢꦺꦤꦶꦁꦮꦼꦏ꧀ꦠꦸ,ꦱ - ꦱꦥꦱꦶꦪꦱꦶꦪꦩꦫꦁꦮꦼꦏ꧀ꦠꦸꦧꦏꦭ꧀ꦢꦶꦱꦶꦪꦱꦶꦪꦢꦺꦤꦶꦁꦮꦼꦏ꧀ꦠꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_17.png,ꦠ - ꦠꦸꦭꦸꦔꦤꦱꦶꦁꦥꦚ꧀ꦕꦺꦤ꧀ꦧꦸꦠꦸꦃꦥꦶꦠꦸꦭꦸꦁꦔꦤ꧀,ꦠ - ꦠꦸꦭꦸꦔꦤꦱꦶꦁꦥꦚ꧀ꦕꦺꦤ꧀ꦧꦸꦠꦸꦃꦥꦶꦠꦸꦭꦸꦁꦔꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_18.png,ꦲꦤ꧀ꦝꦼꦣꦼꦂꦮꦶꦗꦶꦭꦫꦤꦶꦁꦲꦠꦶ,ꦲꦤ꧀ꦝꦼꦣꦼꦂꦮꦶꦗꦶꦭꦫꦤꦶꦁꦲꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_19.png,ꦢ - ꦢꦸꦮꦺꦱꦼꦢꦾꦧꦼꦕꦶꦏ꧀ꦲꦺꦴꦫꦲꦺꦁꦒꦭ꧀ꦏꦺꦴꦏ꧀ꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦏ꧀ꦥꦺꦣꦏꦫꦺꦴ,ꦢ - ꦢꦸꦮꦺꦱꦼꦢꦾꦧꦼꦕꦶꦏ꧀ꦲꦺꦴꦫꦲꦺꦁꦒꦭ꧀ꦏꦺꦴꦏ꧀ꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦏ꧀ꦥꦺꦣꦏꦫꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_20.png,ꦏ - ꦏꦧꦺꦃꦏꦁꦭꦒꦶꦮꦶꦮꦶꦠ꧀ꦲꦶꦏꦸꦲꦔꦺꦭ꧀,ꦏ - ꦏꦧꦺꦃꦏꦁꦭꦒꦶꦮꦶꦮꦶꦠ꧀ꦲꦶꦏꦸꦲꦔꦺꦭ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_21.png,ꦏ꧀ꦮꦗꦶꦧꦤꦶꦁꦲꦸꦫꦶꦥ꧀,ꦏ꧀ꦮꦗꦶꦧꦤꦶꦁꦲꦸꦫꦶꦥ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_22.png,ꦫ-ꦫꦸꦮꦼꦢ꧀ꦉꦤ꧀ꦠꦼꦒ꧀ꦒꦺꦢꦺꦴꦚꦲꦶꦏꦶꦗꦭꦂꦫꦤ꧀ꦲꦸꦫꦶꦥ꧀ꦥꦝꦲꦺꦴꦫꦤꦶꦤ꧀ꦢꦏ꧀ꦏꦏꦺ,ꦫ-ꦫꦸꦮꦼꦢ꧀ꦉꦤ꧀ꦠꦼꦒ꧀ꦒꦺꦢꦺꦴꦚꦲꦶꦏꦶꦗꦭꦂꦫꦤ꧀ꦲꦸꦫꦶꦥ꧀ꦥꦝꦲꦺꦴꦫꦤꦶꦤ꧀ꦢꦏ꧀ꦏꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_23.png,ꦕ - ꦕꦶꦥ꧀ꦠꦫꦱꦏꦂꦱꦭꦤ꧀ꦏꦂꦪꦏꦸꦢꦸꦱꦲꦺꦏ,ꦕ - ꦕꦶꦥ꧀ꦠꦫꦱꦏꦂꦱꦭꦤ꧀ꦏꦂꦪꦏꦸꦢꦸꦱꦲꦺꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_24.png,ꦤ - ꦤꦶꦱ꧀ꦛꦩꦢꦾꦲꦸꦠꦩꦱꦶꦫꦏꦸꦢꦸꦧꦶꦱꦩ꧀ꦧꦺꦢꦏ꧀ꦲꦏꦺ,ꦤ - ꦤꦶꦱ꧀ꦛꦩꦢꦾꦲꦸꦠꦩꦱꦶꦫꦏꦸꦢꦸꦧꦶꦱꦩ꧀ꦧꦺꦢꦏ꧀ꦲꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_60_25.png,ꦲ - ꦲꦗꦔꦤ꧀ꦝꦏ꧀ꦲꦏꦺꦲꦥꦧꦲꦺꦏꦁꦲꦺꦴꦫꦏꦺꦴꦏ꧀ꦔꦽꦠꦺꦤ꧀ꦤꦶ,ꦲ - ꦲꦗꦔꦤ꧀ꦝꦏ꧀ꦲꦏꦺꦲꦥꦧꦲꦺꦏꦁꦲꦺꦴꦫꦏꦺꦴꦏ꧀ꦔꦽꦠꦺꦤ꧀ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_61_0.png,ꦤꦺꦴꦢꦶꦱꦼꦭꦶꦁꦔꦶꦲꦶꦧꦸꦂꦫꦤ꧀ ꦏ꧀ꦭꦼꦤꦺꦔꦤ꧀ꦧꦫꦁ꧉ꦮꦃꦗꦤ꧀ꦒꦪꦼꦁꦠꦼꦤꦤ꧀꧈,ꦤꦺꦴꦢꦶꦱꦼꦭꦶꦁꦔꦶꦲꦶꦧꦸꦂꦫꦤ꧀ ꦏ꧀ꦭꦼꦤꦺꦔꦤ꧀ꦧꦫꦁ꧉ꦮꦃꦗꦤ꧀ꦒꦪꦼꦁꦠꦼꦤꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_61_1.png,ꦝꦺꦮꦺꦏ꧀ꦏꦺꦧꦶꦔꦸꦁꦏꦪꦮꦺꦴꦁꦲꦶꦭꦁꦮꦲꦺ꧉ꦥꦱꦩꦸꦮꦤ꧀ꦲꦶꦁꦏꦺꦴ,ꦝꦺꦮꦺꦏ꧀ꦏꦺꦧꦶꦔꦸꦁꦏꦪꦮꦺꦴꦁꦲꦶꦭꦁꦮꦲꦺ꧉ꦥꦱꦩꦸꦮꦤ꧀ꦲꦶꦁꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_61_2.png,꧋ꦲꦤꦺꦃ꧈ꦡꦂꦗꦱꦶꦁꦲꦶꦱꦶꦃꦢꦶꦒꦤ꧀ꦝꦺꦁꦲꦺꦴꦫꦢꦶꦒꦥꦺꦧꦧꦂꦥꦶꦱꦤ꧀꧈,꧋ꦲꦤꦺꦃ꧈ꦡꦂꦗꦱꦶꦁꦲꦶꦱꦶꦃꦢꦶꦒꦤ꧀ꦝꦺꦁꦲꦺꦴꦫꦢꦶꦒꦥꦺꦧꦧꦂꦥꦶꦱꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_0.png,ꦱꦭ꧀ꦱꦼꦏꦂꦱꦼꦒꦤ꧀ꦠꦼꦤ꧀ ꦱꦲꦠꦸꦩꦸꦤ꧀ꦠꦼꦤ꧀ꦤꦱꦒꦼꦢ꧀ꦩ,ꦱꦭ꧀ꦱꦼꦏꦂꦱꦼꦒꦤ꧀ꦠꦼꦤ꧀ ꦱꦲꦠꦸꦩꦸꦤ꧀ꦠꦼꦤ꧀ꦤꦱꦒꦼꦢ꧀ꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_1.png,ꦱꦏꦶꦁꦏꦢꦼꦉꦁꦲꦁꦒꦺꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦼꦭꦏ꧀ꦧꦝꦺꦲꦁ,ꦱꦏꦶꦁꦏꦢꦼꦉꦁꦲꦁꦒꦺꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦼꦭꦏ꧀ꦧꦝꦺꦲꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_2.png,ꦚꦁꦒꦼꦩ꧀ꦩꦶꦥꦤꦼꦝꦤꦶꦥꦸꦤ꧀ꦢꦺꦮꦶꦠꦶꦱ꧀ꦤꦮꦠꦶ꧈ꦢꦺꦤꦶꦁ,ꦚꦁꦒꦼꦩ꧀ꦩꦶꦥꦤꦼꦝꦤꦶꦥꦸꦤ꧀ꦢꦺꦮꦶꦠꦶꦱ꧀ꦤꦮꦠꦶ꧈ꦢꦺꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_3.png,ꦩꦱ꧀ꦠꦸꦩꦼꦁꦒꦸꦁꦲꦫꦸꦧꦶꦤꦁꦏꦤ꧀ꦛꦶꦣꦔꦤ꧀ꦤꦶꦁꦩꦤꦃꦲ,ꦩꦱ꧀ꦠꦸꦩꦼꦁꦒꦸꦁꦲꦫꦸꦧꦶꦤꦁꦏꦤ꧀ꦛꦶꦣꦔꦤ꧀ꦤꦶꦁꦩꦤꦃꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_4.png,ꦩꦤꦮꦶꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦱꦒꦃꦔꦿꦧꦶꦲꦶꦁꦏꦸꦭ꧉,ꦩꦤꦮꦶꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦱꦒꦃꦔꦿꦧꦶꦲꦶꦁꦏꦸꦭ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_5.png,ꦤ꧀ꦱꦼꦏꦂꦱꦼꦒꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦲꦤꦔꦶꦁ,ꦤ꧀ꦱꦼꦏꦂꦱꦼꦒꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦲꦤꦔꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_6.png,ꦲꦶꦁꦭꦭꦢꦤ꧀ꦏꦶꦢꦸꦭ꧀ ꦏꦣꦮꦸꦲꦤ꧀ꦤꦼꦢꦃꦲꦏꦼ,ꦲꦶꦁꦭꦭꦢꦤ꧀ꦏꦶꦢꦸꦭ꧀ ꦏꦣꦮꦸꦲꦤ꧀ꦤꦼꦢꦃꦲꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_7.png,ꦏꦏꦁꦧꦺꦴꦏ꧀‌ꦤꦠꦢꦺꦮꦶꦒꦸꦤꦮꦠꦶ꧈ꦤꦠ,ꦏꦏꦁꦧꦺꦴꦏ꧀‌ꦤꦠꦢꦺꦮꦶꦒꦸꦤꦮꦠꦶ꧈ꦤꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_8.png,ꦱ꧀ꦤꦮꦠꦶ꧈ꦝꦠꦼꦁꦏꦸꦭꦢꦶꦥꦸꦤ꧀ꦲꦸꦠꦸꦱ꧀ꦲꦶꦁ,ꦱ꧀ꦤꦮꦠꦶ꧈ꦝꦠꦼꦁꦏꦸꦭꦢꦶꦥꦸꦤ꧀ꦲꦸꦠꦸꦱ꧀ꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_9.png,ꦲꦶꦁꦏꦁꦥꦶꦤ꧀ꦝꦗꦭ꧀ꦩꦩꦁꦱꦸꦭ꧀ꦭꦶ꧇ꦤꦩꦏꦸꦭꦠꦶ,ꦲꦶꦁꦏꦁꦥꦶꦤ꧀ꦝꦗꦭ꧀ꦩꦩꦁꦱꦸꦭ꧀ꦭꦶ꧇ꦤꦩꦏꦸꦭꦠꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_10.png,ꦩ꧀ꦥꦺꦤ꧀ꦤꦶ꧉,ꦩ꧀ꦥꦺꦤ꧀ꦤꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_11.png,ꦠꦸꦮꦶꦤ꧀ꦥꦤꦼꦝꦥꦸꦤꦥꦲꦶꦁꦏꦁꦮꦗꦶꦧ꧀ꦏꦸꦭꦠ,ꦠꦸꦮꦶꦤ꧀ꦥꦤꦼꦝꦥꦸꦤꦥꦲꦶꦁꦏꦁꦮꦗꦶꦧ꧀ꦏꦸꦭꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_12.png,ꦤ꧀ꦥꦶꦤꦺꦴꦁꦏꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦥꦸꦤꦶꦏꦥꦸꦤ꧀ꦢꦶ꧈,ꦤ꧀ꦥꦶꦤꦺꦴꦁꦏꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦥꦸꦤꦶꦏꦥꦸꦤ꧀ꦢꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_13.png,ꦲꦲꦒꦸꦁ꧈ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦥꦸꦤꦶꦏꦱꦶꦤ꧀ꦠꦼꦤ꧀ ꦭ,ꦲꦲꦒꦸꦁ꧈ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦥꦸꦤꦶꦏꦱꦶꦤ꧀ꦠꦼꦤ꧀ ꦭ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_14.png,ꦤꦔꦶꦁꦕꦼꦛ꧇ꦝꦸꦃꦢꦸꦠꦤꦶꦁꦥꦔꦺꦫꦤ꧀ꦲꦶꦁꦏꦁꦩ,ꦤꦔꦶꦁꦕꦼꦛ꧇ꦝꦸꦃꦢꦸꦠꦤꦶꦁꦥꦔꦺꦫꦤ꧀ꦲꦶꦁꦏꦁꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_15.png,ꦤ꧀ꦩꦂꦭꦸꦥ꧈ꦭꦗꦼꦁꦲꦩꦁꦱꦸꦭ꧀ꦭꦶꦏꦤ꧀ꦛꦶꦠꦼꦩ꧀ꦧꦸꦁꦊꦭꦃ,ꦤ꧀ꦩꦂꦭꦸꦥ꧈ꦭꦗꦼꦁꦲꦩꦁꦱꦸꦭ꧀ꦭꦶꦏꦤ꧀ꦛꦶꦠꦼꦩ꧀ꦧꦸꦁꦊꦭꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_16.png,ꦏꦼꦤ꧀ꦢꦸꦤꦸꦁꦔꦶꦥꦸꦤ꧀꧈,ꦏꦼꦤ꧀ꦢꦸꦤꦸꦁꦔꦶꦥꦸꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_17.png,꧋ꦩꦱ꧀ꦠꦸꦩꦼꦁꦒꦸꦁꦲꦫꦸꦧꦶꦤꦁꦱꦫꦶꦥꦸꦤ꧀ꦱꦩ꧀ꦥꦸ,꧋ꦩꦱ꧀ꦠꦸꦩꦼꦁꦒꦸꦁꦲꦫꦸꦧꦶꦤꦁꦱꦫꦶꦥꦸꦤ꧀ꦱꦩ꧀ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_18.png,ꦩꦶꦭꦏꦸꦭꦠꦸꦩꦸꦤ꧀ꦠꦼꦤ꧀ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦠꦼꦢꦃꦲ,ꦩꦶꦭꦏꦸꦭꦠꦸꦩꦸꦤ꧀ꦠꦼꦤ꧀ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦠꦼꦢꦃꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_19.png,ꦥꦿꦗꦚ꧀ꦗꦶꦥꦸꦫꦸꦤ꧀ꦩꦶꦠꦸꦫꦸꦠ꧀ꦠꦶꦥꦤꦼꦝꦏꦸꦭ꧉,ꦥꦿꦗꦚ꧀ꦗꦶꦥꦸꦫꦸꦤ꧀ꦩꦶꦠꦸꦫꦸꦠ꧀ꦠꦶꦥꦤꦼꦝꦏꦸꦭ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_20.png,ꦔꦶꦁꦩꦼꦏ꧀ꦱꦕꦧꦂꦧꦺꦴꦠꦼꦤ꧀ꦲꦁꦱꦭ꧀ꦢꦩꦼꦭ꧀‌,ꦔꦶꦁꦩꦼꦏ꧀ꦱꦕꦧꦂꦧꦺꦴꦠꦼꦤ꧀ꦲꦁꦱꦭ꧀ꦢꦩꦼꦭ꧀‌,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_21.png,ꦤ꧀‌ꦱꦼꦩꦤ꧀ꦠꦼꦤ꧀ꦮꦲꦸꦩꦤꦮꦶꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦲꦸꦒꦶ,ꦤ꧀‌ꦱꦼꦩꦤ꧀ꦠꦼꦤ꧀ꦮꦲꦸꦩꦤꦮꦶꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦲꦸꦒꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_22.png,ꦒꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦏꦁꦢꦢꦺꦴꦱ꧀ꦱꦫꦤꦤꦶꦁꦲꦸꦱꦢ꧈ꦤ,ꦒꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦏꦁꦢꦢꦺꦴꦱ꧀ꦱꦫꦤꦤꦶꦁꦲꦸꦱꦢ꧈ꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_23.png,ꦏꦸꦭꦲꦶꦁꦏꦁꦧꦝꦺꦲꦩ꧀ꦧꦶꦪꦤ꧀ꦠꦸꦲꦶꦁꦱꦩ꧀ꦥꦺꦪ,ꦏꦸꦭꦲꦶꦁꦏꦁꦧꦝꦺꦲꦩ꧀ꦧꦶꦪꦤ꧀ꦠꦸꦲꦶꦁꦱꦩ꧀ꦥꦺꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_24.png,ꦤ꧀ꦠꦼꦤ꧀ꦢꦭꦸꦲꦁꦒꦺꦤ꧀ꦏꦸꦭꦲꦩꦢꦺꦴꦱ꧀ꦱꦶ ꦱꦼꦏꦂꦱꦼ,ꦤ꧀ꦠꦼꦤ꧀ꦢꦭꦸꦲꦁꦒꦺꦤ꧀ꦏꦸꦭꦲꦩꦢꦺꦴꦱ꧀ꦱꦶ ꦱꦼꦏꦂꦱꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_25.png,ꦪꦤ꧀ꦲꦸꦥꦪꦔꦤ꧀ꦠꦺꦴꦱ꧀ꦢꦸꦩꦸꦒꦶꦔꦿꦶꦏꦶꦥꦸꦤꦶꦏ꧈,ꦪꦤ꧀ꦲꦸꦥꦪꦔꦤ꧀ꦠꦺꦴꦱ꧀ꦢꦸꦩꦸꦒꦶꦔꦿꦶꦏꦶꦥꦸꦤꦶꦏ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_26.png,ꦤ꧀ꦤꦶꦥꦸꦤ꧀꧇ꦱꦩ꧀ꦥꦸꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦢꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶ,ꦤ꧀ꦤꦶꦥꦸꦤ꧀꧇ꦱꦩ꧀ꦥꦸꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦢꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶꦤ꧀ꦠꦼꦤ꧀ꦥꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_27.png,꧋ꦏꦸꦭꦱꦩ꧀ꦥꦸꦤ꧀ꦱꦸꦩꦼꦉꦥ꧀ꦥꦸꦤꦥꦲꦶꦁꦏꦁꦱꦩ꧀ꦥꦺ,꧋ꦏꦸꦭꦱꦩ꧀ꦥꦸꦤ꧀ꦱꦸꦩꦼꦉꦥ꧀ꦥꦸꦤꦥꦲꦶꦁꦏꦁꦱꦩ꧀ꦥꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_28.png,꧋ꦢꦼꦢꦺꦴꦔꦼꦔꦁꦤ꧀ ꦎꦁꦏ꧇꧙꧇꧉,꧋ꦢꦼꦢꦺꦴꦔꦼꦔꦁꦤ꧀ ꦎꦁꦏ꧇꧙꧇꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_62_29.png,ꦭꦸꦪꦏ꧀ꦲ ꦏꦼꦤ꧀ꦲꦶꦁꦒꦸꦱ꧀ꦠꦶꦤꦶꦥꦸꦤ꧀‌ꦭꦗꦼꦁꦮꦶꦕꦤ꧀ꦠꦼ,ꦭꦸꦪꦏ꧀ꦲ ꦏꦼꦤ꧀ꦲꦶꦁꦒꦸꦱ꧀ꦠꦶꦤꦶꦥꦸꦤ꧀‌ꦭꦗꦼꦁꦮꦶꦕꦤ꧀ꦠꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_63_0.png,"Nusuma, Surya ngrumangsani wis mirong kampuh jingga.","Nusuma, Surya ngrumangsani wis mirong kampuh jingga.",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_63_1.png,"koran kang dingèngèrri, Cahaya Kita, sarta Pak Brata","koran kang dingèngèrri, Cahaya Kita, sarta Pak Brata",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_63_2.png,"langgé wong tuwa kang dipundhi pundhi, uga paugêranné","langgé wong tuwa kang dipundhi pundhi, uga paugêranné",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_63_3.png,"ngrumangsani wis tumindak dudu, ora jumbuh karo piwu","ngrumangsani wis tumindak dudu, ora jumbuh karo piwu",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_64_0.png,ꦒꦼꦠꦶꦃꦭꦤꦁꦔꦺꦲꦩꦶꦢ꧀ꦏꦸꦩꦼꦱꦂ꧈ꦏꦪꦒꦶꦤꦸꦒꦃ꧉,ꦒꦼꦠꦶꦃꦭꦤꦁꦔꦺꦲꦩꦶꦢ꧀ꦏꦸꦩꦼꦱꦂ꧈ꦏꦪꦒꦶꦤꦸꦒꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_64_1.png,ꦣꦤꦺꦲꦩꦶꦢ꧀ꦠꦸꦩꦺꦩ꧀ꦥꦺꦭ꧀ꦲ ꦤꦒꦼꦒꦼꦂꦫꦺꦢꦺꦮꦶ꧉,ꦣꦤꦺꦲꦩꦶꦢ꧀ꦠꦸꦩꦺꦩ꧀ꦥꦺꦭ꧀ꦲ ꦤꦒꦼꦒꦼꦂꦫꦺꦢꦺꦮꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_64_2.png,ꦱꦶꦁꦲꦩ꧀ꦧꦺꦴꦚ꧀ꦕꦺꦁꦭꦸꦁꦒꦸꦲꦺꦩꦺꦭꦸꦩꦗꦸꦱꦲꦺꦁꦒꦣ,ꦱꦶꦁꦲꦩ꧀ꦧꦺꦴꦚ꧀ꦕꦺꦁꦭꦸꦁꦒꦸꦲꦺꦩꦺꦭꦸꦩꦗꦸꦱꦲꦺꦁꦒꦣ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_64_3.png,ꦩꦏ꧀ꦱꦽ ꦠ꧀ꦩꦺꦴꦠꦺꦴꦂꦩꦤ꧀ꦝꦼꦒ꧀ꦔꦼꦒꦺꦠ꧀‌꧈ꦩꦼꦱ꧀ꦛꦶꦮꦲꦺ,ꦩꦏ꧀ꦱꦽ ꦠ꧀ꦩꦺꦴꦠꦺꦴꦂꦩꦤ꧀ꦝꦼꦒ꧀ꦔꦼꦒꦺꦠ꧀‌꧈ꦩꦼꦱ꧀ꦛꦶꦮꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_0.png,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_1.png,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶꦏꦫꦁꦔꦤ꧀ꦤꦶ ꦥꦸꦤ꧀,ꦱꦼꦫꦠ꧀ꦠꦤ꧀ꦗꦮꦶꦏꦫꦁꦔꦤ꧀ꦤꦶ ꦥꦸꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_2.png,ꦱꦼꦫꦠ꧀ꦥꦫꦫꦡꦺꦴꦤ꧀,ꦱꦼꦫꦠ꧀ꦥꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_3.png,ꦥꦸꦤ꧀ꦩꦟꦸꦪꦗ꧀ꦚꦮꦭ꧀ꦏ꧀ ꦠꦸꦮꦶꦤ꧀ꦱꦤꦺꦱ꧀ꦱꦤꦺ꧀ꦱꦶ  ꦥꦸꦤ꧀꧈,ꦥꦸꦤ꧀ꦩꦟꦸꦪꦗ꧀ꦚꦮꦭ꧀ꦏ꧀ ꦠꦸꦮꦶꦤ꧀ꦱꦤꦺꦱ꧀ꦱꦤꦺ꧀ꦱꦶ  ꦥꦸꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_4.png,ꦡ꧈ꦲꦶꦁꦫꦩꦪꦤ꧈ꦲꦶꦁꦦꦸꦫꦤ꧈ꦲꦶꦁꦢꦂꦩꦯꦱ꧀ꦠꦿꦢꦢꦩꦼꦭ꧀ꦭꦤ꧀ꦤꦶ,ꦡ꧈ꦲꦶꦁꦫꦩꦪꦤ꧈ꦲꦶꦁꦦꦸꦫꦤ꧈ꦲꦶꦁꦢꦂꦩꦯꦱ꧀ꦠꦿꦢꦢꦩꦼꦭ꧀ꦭꦤ꧀ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_5.png,ꦠꦶꦒ꧈ꦏꦢꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦏꦮꦿꦠ꧀ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦱꦼꦫꦠ꧀ ꦩꦲꦨꦿ,ꦠꦶꦒ꧈ꦏꦢꦺꦴꦱ꧀ꦲꦶꦁꦏꦁꦏꦮꦿꦠ꧀ꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦱꦼꦫꦠ꧀ ꦩꦲꦨꦿ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_6.png,ꦪꦺꦴꦒ꧈ꦠꦼꦒꦼꦱꦶꦥꦸꦤ꧀ꦲꦶꦁꦥꦺꦫꦁꦔꦤ꧀ꦗꦩꦤ꧀ꦲꦶꦁꦏꦁꦏꦥꦶꦁ,ꦪꦺꦴꦒ꧈ꦠꦼꦒꦼꦱꦶꦥꦸꦤ꧀ꦲꦶꦁꦥꦺꦫꦁꦔꦤ꧀ꦗꦩꦤ꧀ꦲꦶꦁꦏꦁꦏꦥꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_7.png,ꦟ꧀ꦝꦸꦥꦸꦤꦶꦏꦠꦸꦩꦼꦁꦏꦂꦫꦶꦥꦸꦤ꧀ꦲꦒꦩꦶꦨꦿꦃꦩ꧇ꦲꦶꦟ꧀ꦝꦸꦲꦶꦁꦏꦁꦠꦿꦶ,ꦟ꧀ꦝꦸꦥꦸꦤꦶꦏꦠꦸꦩꦼꦁꦏꦂꦫꦶꦥꦸꦤ꧀ꦲꦒꦩꦶꦨꦿꦃꦩ꧇ꦲꦶꦟ꧀ꦝꦸꦲꦶꦁꦏꦁꦠꦿꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_8.png,ꦲꦶꦁꦥꦺꦫꦁꦔꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦲꦭꦶꦠ꧀ꦲꦂꦠꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ꦲꦒꦩꦶꦲꦶ,ꦲꦶꦁꦥꦺꦫꦁꦔꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦲꦭꦶꦠ꧀ꦲꦂꦠꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ꦲꦒꦩꦶꦲꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_9.png,ꦏꦏꦊꦧꦼꦠ꧀ꦲꦸꦒꦶꦠꦠꦕꦫꦤꦶꦥꦸꦤ꧀ꦧꦺꦴꦁꦱꦲꦶꦟ꧀ꦝꦸ꧈ꦢꦺꦤꦺ,ꦏꦏꦊꦧꦼꦠ꧀ꦲꦸꦒꦶꦠꦠꦕꦫꦤꦶꦥꦸꦤ꧀ꦧꦺꦴꦁꦱꦲꦶꦟ꧀ꦝꦸ꧈ꦢꦺꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_10.png,꧋ꦱꦥꦺꦫꦁꦔꦤ꧀ꦲꦒꦼꦁꦲꦶꦁꦏꦁꦢꦶꦥꦸꦤ꧀ꦮꦱ꧀ꦠꦤꦶ ꦲꦒꦩꦶꦲꦶꦤ꧀ꦝꦸꦥꦸꦤꦶ,꧋ꦱꦥꦺꦫꦁꦔꦤ꧀ꦲꦒꦼꦁꦲꦶꦁꦏꦁꦢꦶꦥꦸꦤ꧀ꦮꦱ꧀ꦠꦤꦶ ꦲꦒꦩꦶꦲꦶꦤ꧀ꦝꦸꦥꦸꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_11.png,ꦒꦩꦶꦤꦶꦥꦸꦤ꧀ꦲꦶꦁꦔꦿꦶꦏꦶꦧꦝꦺꦏꦸꦭꦠꦼꦫꦁꦔꦏꦼꦤ꧀꧈,ꦒꦩꦶꦤꦶꦥꦸꦤ꧀ꦲꦶꦁꦔꦿꦶꦏꦶꦧꦝꦺꦏꦸꦭꦠꦼꦫꦁꦔꦏꦼꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_12.png,ꦱ꧀ꦤꦫꦩ꧀ꦧꦃꦲꦶꦝꦠꦼꦁꦠꦠꦕꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦗꦮꦶ꧈ꦥꦸꦤꦶꦏꦲ,ꦱ꧀ꦤꦫꦩ꧀ꦧꦃꦲꦶꦝꦠꦼꦁꦠꦠꦕꦫꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦗꦮꦶ꧈ꦥꦸꦤꦶꦏꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_13.png,ꦧꦸꦠ꧀ꦲꦶꦁꦔꦶꦁꦒꦶꦭ꧀‌ꦭꦁꦏꦸꦁꦩꦭꦶꦃꦲꦶꦁꦠꦤꦃꦗꦮꦶ꧈ꦔꦤ꧀ꦠꦺꦴ,ꦧꦸꦠ꧀ꦲꦶꦁꦔꦶꦁꦒꦶꦭ꧀‌ꦭꦁꦏꦸꦁꦩꦭꦶꦃꦲꦶꦁꦠꦤꦃꦗꦮꦶ꧈ꦔꦤ꧀ꦠꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_14.png,ꦠꦼꦁꦏꦂꦠꦸꦩꦼꦁꦏꦂꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦥꦸꦭꦺꦴꦥꦸꦭꦺꦴꦲꦶꦁꦏꦁꦏꦱꦼ,ꦠꦼꦁꦏꦂꦠꦸꦩꦼꦁꦏꦂꦮꦺꦴꦤ꧀ꦠꦼꦤ꧀ꦲꦶꦁꦥꦸꦭꦺꦴꦥꦸꦭꦺꦴꦲꦶꦁꦏꦁꦏꦱꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_15.png,꧋ꦩꦼꦁꦒꦃꦲꦶꦁꦏꦁꦢꦢꦺꦴꦱ꧀ꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦏꦮꦿꦸꦃꦲꦶꦟ꧀ꦝꦸꦲꦶꦁꦏꦁ,꧋ꦩꦼꦁꦒꦃꦲꦶꦁꦏꦁꦢꦢꦺꦴꦱ꧀ꦥꦺꦴꦏꦺꦴꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦏꦮꦿꦸꦃꦲꦶꦟ꧀ꦝꦸꦲꦶꦁꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_16.png,꧋ꦲꦒꦩꦶꦲꦶꦟ꧀ꦝꦸ꧉,꧋ꦲꦒꦩꦶꦲꦶꦟ꧀ꦝꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_17.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_18.png,ꦏꦫꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦏꦫꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_19.png,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦠꦺꦴꦤ꧀,ꦲꦤꦼꦝꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦠꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_20.png,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧑꧖꧇,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧑꧖꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_65_21.png,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ꧈,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_66_0.png,ꦫꦱꦤꦺꦠꦸꦭꦶꦱ꧀ꦱꦤ꧀ꦱꦶꦁꦩꦸꦁꦱꦭꦫꦶꦏ꧀꧈,ꦫꦱꦤꦺꦠꦸꦭꦶꦱ꧀ꦱꦤ꧀ꦱꦶꦁꦩꦸꦁꦱꦭꦫꦶꦏ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_66_1.png,ꦢꦶꦮꦺꦤꦺꦃꦲꦏꦺꦠꦩꦸꦤꦺ꧉ꦥꦿꦶꦪꦲꦸꦩꦕꦱꦸ,ꦢꦶꦮꦺꦤꦺꦃꦲꦏꦺꦠꦩꦸꦤꦺ꧉ꦥꦿꦶꦪꦲꦸꦩꦕꦱꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_66_2.png,ꦭ꧀ꦥꦺꦤ꧀‌꧈ꦡꦺꦴꦲꦶꦥꦃꦤꦸꦭꦶꦱ꧀ꦲꦸꦉꦒ꧀ꦲꦸꦉꦒ꧀ꦧꦚ꧀ꦗꦸꦂ,ꦭ꧀ꦥꦺꦤ꧀‌꧈ꦡꦺꦴꦲꦶꦥꦃꦤꦸꦭꦶꦱ꧀ꦲꦸꦉꦒ꧀ꦲꦸꦉꦒ꧀ꦧꦚ꧀ꦗꦸꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_66_3.png,꧋ꦥꦿꦶꦪꦲꦶꦏꦸꦔꦸꦭꦸꦁꦔꦏꦺꦧꦸꦏꦸꦕꦛꦼꦠ꧀ꦠꦤ꧀ꦭꦤ꧀ꦥꦸ,꧋ꦥꦿꦶꦪꦲꦶꦏꦸꦔꦸꦭꦸꦁꦔꦏꦺꦧꦸꦏꦸꦕꦛꦼꦠ꧀ꦠꦤ꧀ꦭꦤ꧀ꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_67_0.png,ꦫꦏꦸꦮꦭꦶꦏ꧀‌꧈ꦤꦶꦁꦪꦲꦼꦩ꧀ꦧꦸꦃ꧉,ꦫꦏꦸꦮꦭꦶꦏ꧀‌꧈ꦤꦶꦁꦪꦲꦼꦩ꧀ꦧꦸꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_67_1.png,ꦔꦤ꧀ꦤꦺꦏꦺꦴꦏ꧀ꦩꦭꦃꦩ꧀ꦭꦪꦸꦚꦁꦒꦺꦴꦤ꧀ꦏꦸ꧉ꦲꦥꦲꦺꦴ,ꦔꦤ꧀ꦤꦺꦏꦺꦴꦏ꧀ꦩꦭꦃꦩ꧀ꦭꦪꦸꦚꦁꦒꦺꦴꦤ꧀ꦏꦸ꧉ꦲꦥꦲꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_67_2.png,ꦤꦺꦥꦝꦚꦁꦢꦊꦩ꧀ꦩꦺꦧꦸꦝꦺꦨꦼꦏ꧀ꦠꦶ꧈ꦤꦔꦶꦁꦥꦚ꧀ꦗꦼꦤꦼꦁ,ꦤꦺꦥꦝꦚꦁꦢꦊꦩ꧀ꦩꦺꦧꦸꦝꦺꦨꦼꦏ꧀ꦠꦶ꧈ꦤꦔꦶꦁꦥꦚ꧀ꦗꦼꦤꦼꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_67_3.png,꧋ꦲꦏꦸꦲꦶꦏꦶꦗꦤ꧀ꦒꦸꦩꦸꦤ꧀꧈ꦮꦺꦴꦁꦮꦺꦴꦁꦏꦩ꧀ꦥꦸꦁꦩ꧀ꦭꦪꦸ,꧋ꦲꦏꦸꦲꦶꦏꦶꦗꦤ꧀ꦒꦸꦩꦸꦤ꧀꧈ꦮꦺꦴꦁꦮꦺꦴꦁꦏꦩ꧀ꦥꦸꦁꦩ꧀ꦭꦪꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_68_0.png,ꦏꦸꦭꦤ꧀ꦧꦺꦴꦗꦺꦴꦏꦸꦢꦏ꧀ꦥꦱꦿꦃꦲꦏꦸ꧉,ꦏꦸꦭꦤ꧀ꦧꦺꦴꦗꦺꦴꦏꦸꦢꦏ꧀ꦥꦱꦿꦃꦲꦏꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_68_1.png,ꦏ꧀ꦏꦺꦴꦤ꧀ꦝꦁꦲꦶꦁꦒꦸꦟꦸꦁꦑ꧀ꦭꦺꦴꦔꦺꦴꦏ꧀‌ꦏꦛꦺꦴꦏ꧀ꦗꦼꦫꦺꦴ,ꦏ꧀ꦏꦺꦴꦤ꧀ꦝꦁꦲꦶꦁꦒꦸꦟꦸꦁꦑ꧀ꦭꦺꦴꦔꦺꦴꦏ꧀‌ꦏꦛꦺꦴꦏ꧀ꦗꦼꦫꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_68_2.png,ꦱ꧀ꦯꦸꦮꦭ꧀ꦩꦼꦚꦁꦒꦺꦴꦤ꧀ꦤꦺꦩꦂꦡꦑꦿꦩ꧈ꦝꦸꦏꦸꦤ꧀ꦥꦺꦭꦺ,ꦱ꧀ꦯꦸꦮꦭ꧀ꦩꦼꦚꦁꦒꦺꦴꦤ꧀ꦤꦺꦩꦂꦡꦑꦿꦩ꧈ꦝꦸꦏꦸꦤ꧀ꦥꦺꦭꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_68_3.png,꧋ꦲꦶꦁꦮꦼꦏ꧀ꦠꦸꦱꦶꦁꦮꦶꦱ꧀ꦢꦶꦠꦼꦩ꧀ꦠꦺꦴꦏ꧀ꦲꦏꦺ꧈ꦲꦏꦸꦭꦤ꧀ꦩ,꧋ꦲꦶꦁꦮꦼꦏ꧀ꦠꦸꦱꦶꦁꦮꦶꦱ꧀ꦢꦶꦠꦼꦩ꧀ꦠꦺꦴꦏ꧀ꦲꦏꦺ꧈ꦲꦏꦸꦭꦤ꧀ꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_69_0.png,ꦤꦺꦏꦺꦴꦫꦤ꧀‌꧈ꦧꦚ꧀ꦗꦸꦂꦲꦤꦭꦺꦥ꧀ꦠꦺꦴꦥ꧀ꦱꦥꦿꦶꦤ꧀ꦠ꧀ꦠꦼꦂꦫꦺ꧉,ꦤꦺꦏꦺꦴꦫꦤ꧀‌꧈ꦧꦚ꧀ꦗꦸꦂꦲꦤꦭꦺꦥ꧀ꦠꦺꦴꦥ꧀ꦱꦥꦿꦶꦤ꧀ꦠ꧀ꦠꦼꦂꦫꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_69_1.png,ꦠꦩꦸꦱꦶꦁꦥꦿꦱꦱꦠ꧀ꦢꦶꦏꦼꦧꦏ꧀ꦏꦶꦧꦸꦏꦸ꧈ꦩꦗꦭꦃꦲꦥꦢꦺ,ꦠꦩꦸꦱꦶꦁꦥꦿꦱꦱꦠ꧀ꦢꦶꦏꦼꦧꦏ꧀ꦏꦶꦧꦸꦏꦸ꧈ꦩꦗꦭꦃꦲꦥꦢꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_69_2.png,꧋ꦱꦮꦶꦱ꧀ꦱꦺꦭꦸꦁꦒꦸꦃꦲꦤ꧀‌ꦟꦸꦂꦥ꧀ꦭꦼꦁꦒꦁꦥ꧀ꦭꦼꦁꦒꦺꦴꦁꦚꦮꦁꦫꦸꦮꦁ,꧋ꦱꦮꦶꦱ꧀ꦱꦺꦭꦸꦁꦒꦸꦃꦲꦤ꧀‌ꦟꦸꦂꦥ꧀ꦭꦼꦁꦒꦁꦥ꧀ꦭꦼꦁꦒꦺꦴꦁꦚꦮꦁꦫꦸꦮꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_70_0.png,"têkan saiki, nganti aku dadi guru,","têkan saiki, nganti aku dadi guru,",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_70_1.png,"ora ana sing ngundhang Tutik, mung siji","ora ana sing ngundhang Tutik, mung siji",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_70_2.png,"waé. pak Yudhit, wakil kêpala sê","waé. pak Yudhit, wakil kêpala sê",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_70_3.png,ꦏꦺꦴꦭꦃꦧꦶꦣꦁꦏꦸꦫꦶꦏꦸꦭꦸꦩ꧀꧉,ꦏꦺꦴꦭꦃꦧꦶꦣꦁꦏꦸꦫꦶꦏꦸꦭꦸꦩ꧀꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_0.png,ꦫꦩꦯꦸꦢꦶꦣꦶꦪꦠ꧀ꦩꦤꦆꦏꦶꦥ꧀ꦯꦼꦩꦫꦁ,ꦫꦩꦯꦸꦢꦶꦣꦶꦪꦠ꧀ꦩꦤꦆꦏꦶꦥ꧀ꦯꦼꦩꦫꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_1.png,ꦩꦼꦛꦶꦏ꧀ꦱꦏꦶꦁꦧꦸꦏꦸꦥꦩꦼꦝꦂꦱꦧ꧀ꦢꦪꦱꦤ꧀ꦤꦶꦥꦸꦤ꧀,ꦩꦼꦛꦶꦏ꧀ꦱꦏꦶꦁꦧꦸꦏꦸꦥꦩꦼꦝꦂꦱꦧ꧀ꦢꦪꦱꦤ꧀ꦤꦶꦥꦸꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_2.png,ꦠ꧀ꦢꦺꦤꦶꦁ꧈ꦯꦸꦭꦶꦪꦢꦶꦱꦸꦠꦺꦁꦱꦶꦲꦢꦶꦤꦶꦁꦏꦸꦁ,ꦠ꧀ꦢꦺꦤꦶꦁ꧈ꦯꦸꦭꦶꦪꦢꦶꦱꦸꦠꦺꦁꦱꦶꦲꦢꦶꦤꦶꦁꦏꦸꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_3.png,ꦭꦸꦭꦸꦔꦶꦢ꧀ꦢꦤ꧀ꦝꦼꦤ꧀ꦠꦮꦾꦚ꧀ꦗꦤꦥꦸꦤꦶꦏꦏꦱꦼꦫ,ꦭꦸꦭꦸꦔꦶꦢ꧀ꦢꦤ꧀ꦝꦼꦤ꧀ꦠꦮꦾꦚ꧀ꦗꦤꦥꦸꦤꦶꦏꦏꦱꦼꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_4.png,꧋ꦔ - ꦔꦸꦢꦶꦪꦲꦩꦿꦶꦃꦢꦶꦠꦶꦫꦸꦲꦗꦩꦸꦁꦠꦶꦫꦸꦠꦶꦫꦸꦧꦲꦺ,꧋ꦔ - ꦔꦸꦢꦶꦪꦲꦩꦿꦶꦃꦢꦶꦠꦶꦫꦸꦲꦗꦩꦸꦁꦠꦶꦫꦸꦠꦶꦫꦸꦧꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_5.png,ꦛ - ꦛꦼꦁꦩꦤ꧀ꦛꦼꦁꦲꦗꦒꦺꦴꦗꦒ꧀ꦒꦗꦼꦒ꧀,ꦛ - ꦛꦼꦁꦩꦤ꧀ꦛꦼꦁꦲꦗꦒꦺꦴꦗꦒ꧀ꦒꦗꦼꦒ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_6.png,ꦧ​-ꦧꦼꦕꦶꦏ꧀ꦤꦕꦢ꧀ꦢꦕꦕꦢ꧀ꦩꦸꦝꦺꦮꦺ,ꦧ​-ꦧꦼꦕꦶꦏ꧀ꦤꦕꦢ꧀ꦢꦕꦕꦢ꧀ꦩꦸꦝꦺꦮꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_7.png,ꦒ - ꦒꦸꦤꦏ꧀ꦤꦠꦼꦥꦱ꧀ꦭꦶꦫ,ꦒ - ꦒꦸꦤꦏ꧀ꦤꦠꦼꦥꦱ꧀ꦭꦶꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_8.png,ꦩ- ꦩꦔꦤ꧀ꦲꦩꦿꦶꦃꦲꦸꦫꦶꦥ꧀꧈ ꦲꦥꦲꦸꦫꦶꦥ꧀ꦲꦩꦿꦶꦃꦩꦏꦤ꧀,ꦩ- ꦩꦔꦤ꧀ꦲꦩꦿꦶꦃꦲꦸꦫꦶꦥ꧀꧈ ꦲꦥꦲꦸꦫꦶꦥ꧀ꦲꦩꦿꦶꦃꦩꦏꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_9.png,ꦧꦂꦫꦏꦺꦲꦠꦶꦤꦺꦮꦺꦴꦁꦭꦶꦪ,ꦧꦂꦫꦏꦺꦲꦠꦶꦤꦺꦮꦺꦴꦁꦭꦶꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_10.png,ꦚ - ꦚꦧꦂꦫꦏꦺꦲꦠꦶꦤꦺꦝꦺꦮꦺꦧꦲꦺꦲꦺꦴꦫꦧꦶꦱ꧈ꦩꦺꦤ꧀ꦢꦃꦚ,ꦚ - ꦚꦧꦂꦫꦏꦺꦲꦠꦶꦤꦺꦝꦺꦮꦺꦧꦲꦺꦲꦺꦴꦫꦧꦶꦱ꧈ꦩꦺꦤ꧀ꦢꦃꦚ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_11.png,ꦪ- ꦪꦺꦤ꧀ꦤꦺꦴꦫꦏꦺꦴꦏ꧀ꦲꦸꦢꦶꦲꦥꦧꦶꦱꦢꦢꦶ,ꦪ- ꦪꦺꦤ꧀ꦤꦺꦴꦫꦏꦺꦴꦏ꧀ꦲꦸꦢꦶꦲꦥꦧꦶꦱꦢꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_12.png,ꦗ - ꦗꦫꦺꦚ꧀ꦗꦭꦸꦏ꧀ꦢꦶꦒꦸꦒꦸꦭꦏꦺꦴꦏ꧀ꦒꦺꦴꦫꦺꦴꦃ,ꦗ - ꦗꦫꦺꦚ꧀ꦗꦭꦸꦏ꧀ꦢꦶꦒꦸꦒꦸꦭꦏꦺꦴꦏ꧀ꦒꦺꦴꦫꦺꦴꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_13.png,ꦝ - ꦝꦱꦂꦫꦺꦏꦥꦿꦕꦪꦤ꧀ꦲꦶꦏꦸꦥꦿꦕꦪ꧈ꦝꦱꦂꦫꦺꦏꦮꦿꦸꦃꦲꦺꦴꦫꦥꦿꦕꦪ,ꦝ - ꦝꦱꦂꦫꦺꦏꦥꦿꦕꦪꦤ꧀ꦲꦶꦏꦸꦥꦿꦕꦪ꧈ꦝꦱꦂꦫꦺꦏꦮꦿꦸꦃꦲꦺꦴꦫꦥꦿꦕꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_14.png,ꦥ - ꦥꦱꦶꦤꦲꦺꦴꦤ꧀ꦲꦶꦏꦸꦲꦺꦴꦫꦲꦤꦕꦸꦛꦼꦭ꧀ꦭꦺ,ꦥ - ꦥꦱꦶꦤꦲꦺꦴꦤ꧀ꦲꦶꦏꦸꦲꦺꦴꦫꦲꦤꦕꦸꦛꦼꦭ꧀ꦭꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_15.png,ꦭ-ꦊꦩ꧀ꦧꦃꦩꦤꦃꦒꦮꦺꦏꦸꦚ꧀ꦕꦫꦤꦺꦥꦿꦶꦧꦢꦶ,ꦭ-ꦊꦩ꧀ꦧꦃꦩꦤꦃꦒꦮꦺꦏꦸꦚ꧀ꦕꦫꦤꦺꦥꦿꦶꦧꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_16.png,ꦮ-ꦮꦺꦴꦁꦒꦼꦝꦺꦲꦶꦏꦸ ꦲꦺꦴꦫꦫꦸꦩꦺꦴꦁꦱꦒꦼꦝꦺ,ꦮ-ꦮꦺꦴꦁꦒꦼꦝꦺꦲꦶꦏꦸ ꦲꦺꦴꦫꦫꦸꦩꦺꦴꦁꦱꦒꦼꦝꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_17.png,ꦱ- ꦱꦧꦼꦤ꧀ꦢꦶꦤꦲꦸꦩꦸꦂꦩꦸꦱꦸꦣꦱꦼꦣꦶꦤ,ꦱ- ꦱꦧꦼꦤ꧀ꦢꦶꦤꦲꦸꦩꦸꦂꦩꦸꦱꦸꦣꦱꦼꦣꦶꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_18.png,ꦠ - ꦠꦸꦩꦁꦒꦥ꧀ꦧꦼꦕꦶꦏ꧀ꦩꦫꦁꦭꦶꦪꦤ꧀ꦲꦶꦠꦸꦧꦼꦕꦶꦏ꧀,ꦠ - ꦠꦸꦩꦁꦒꦥ꧀ꦧꦼꦕꦶꦏ꧀ꦩꦫꦁꦭꦶꦪꦤ꧀ꦲꦶꦠꦸꦧꦼꦕꦶꦏ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_19.png,ꦢ - ꦢꦢꦶꦪꦫꦒꦶꦱꦂꦠꦲꦸꦪꦃꦲꦺꦧꦼꦧꦿꦪꦤ꧀,ꦢ - ꦢꦢꦶꦪꦫꦒꦶꦱꦂꦠꦲꦸꦪꦃꦲꦺꦧꦼꦧꦿꦪꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_20.png,ꦏ - ꦏꦮꦿꦸꦃꦲꦤꦲꦏ꧀ꦩꦸꦲꦥꦏ꧀ꦮꦗꦶꦧ꧀ꦧꦤ꧀ꦩꦸꦲꦥ,ꦏ - ꦏꦮꦿꦸꦃꦲꦤꦲꦏ꧀ꦩꦸꦲꦥꦏ꧀ꦮꦗꦶꦧ꧀ꦧꦤ꧀ꦩꦸꦲꦥ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_21.png,ꦫ-ꦫꦸꦩꦁꦱꦥꦶꦤ꧀ꦠꦼꦂꦠꦺꦴꦤ꧀ꦝꦪꦺꦤ꧀ꦧꦺꦴꦝꦺꦴ,ꦫ-ꦫꦸꦩꦁꦱꦥꦶꦤ꧀ꦠꦼꦂꦠꦺꦴꦤ꧀ꦝꦪꦺꦤ꧀ꦧꦺꦴꦝꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_22.png,ꦕ - ꦕꦭꦺꦴꦤ꧀ꦢꦸꦫꦸꦁꦩꦼꦱ꧀ꦛꦶꦏ꧀ꦭꦏꦺꦴꦤ꧀,ꦕ - ꦕꦭꦺꦴꦤ꧀ꦢꦸꦫꦸꦁꦩꦼꦱ꧀ꦛꦶꦏ꧀ꦭꦏꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_23.png,ꦤ - ꦤꦼꦥ꧀ꦱꦸꦲꦶꦏꦸꦲꦧ꧀ꦢꦶꦏꦁꦱꦼꦠꦾꦧꦼꦤ꧀ꦢꦫꦏꦁꦗꦲꦶꦭ꧀,ꦤ - ꦤꦼꦥ꧀ꦱꦸꦲꦶꦏꦸꦲꦧ꧀ꦢꦶꦏꦁꦱꦼꦠꦾꦧꦼꦤ꧀ꦢꦫꦏꦁꦗꦲꦶꦭ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_71_24.png,꧋ꦲ - ꦲꦗꦲꦤ꧀ꦢꦏ꧀ꦮꦮꦺꦴꦁꦱꦶꦁꦲꦺꦴꦫꦲꦤ,꧋ꦲ - ꦲꦗꦲꦤ꧀ꦢꦏ꧀ꦮꦮꦺꦴꦁꦱꦶꦁꦲꦺꦴꦫꦲꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_72_0.png,ꦥꦺꦔꦶꦤ꧀ꦢꦢꦶꦥꦼꦠꦤꦶ꧈ꦢꦶꦤꦢꦶꦤꦱꦧꦱꦮꦃ꧉,ꦥꦺꦔꦶꦤ꧀ꦢꦢꦶꦥꦼꦠꦤꦶ꧈ꦢꦶꦤꦢꦶꦤꦱꦧꦱꦮꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_72_1.png,ꦭꦒꦶꦔꦼꦭꦏ꧀ꦩꦫꦁꦏꦼꦧꦺꦧꦱ꧀ꦱꦤ꧀‌ꦦꦿꦠꦩꦏꦼ,ꦭꦒꦶꦔꦼꦭꦏ꧀ꦩꦫꦁꦏꦼꦧꦺꦧꦱ꧀ꦱꦤ꧀‌ꦦꦿꦠꦩꦏꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_72_2.png,ꦱꦏꦼꦭꦲꦶꦂꦫꦤ꧀ꦤꦺꦲꦶꦁꦑ꧀ꦭꦛꦺꦤ꧀‌꧈ꦭꦤ꧀ꦏꦪꦮꦺꦴꦁ,ꦱꦏꦼꦭꦲꦶꦂꦫꦤ꧀ꦤꦺꦲꦶꦁꦑ꧀ꦭꦛꦺꦤ꧀‌꧈ꦭꦤ꧀ꦏꦪꦮꦺꦴꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_72_3.png,꧋ꦤꦔꦶꦁꦦꦿꦠꦩꦩꦶꦭꦶꦃꦗꦸꦩꦁꦏꦃꦧꦭꦶꦩꦼꦚꦁꦢꦺ,꧋ꦤꦔꦶꦁꦦꦿꦠꦩꦩꦶꦭꦶꦃꦗꦸꦩꦁꦏꦃꦧꦭꦶꦩꦼꦚꦁꦢꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_73_0.png,ꦲꦺꦭꦶꦁ꧈ꦱꦏꦭꦩꦿꦶꦥꦠ꧀ꦠꦺꦒꦶꦭꦂꦒꦶꦭꦂ꧉,ꦲꦺꦭꦶꦁ꧈ꦱꦏꦭꦩꦿꦶꦥꦠ꧀ꦠꦺꦒꦶꦭꦂꦒꦶꦭꦂ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_73_1.png,ꦱꦏꦮꦶꦠ꧀ꦏꦸꦫꦁꦥꦼꦂꦕꦪ꧈ꦩꦸꦁꦔꦺꦴꦮꦺꦴꦃ꧉ꦧꦉꦁ,ꦱꦏꦮꦶꦠ꧀ꦏꦸꦫꦁꦥꦼꦂꦕꦪ꧈ꦩꦸꦁꦔꦺꦴꦮꦺꦴꦃ꧉ꦧꦉꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_73_2.png,ꦠꦼꦂꦫꦏꦺꦝꦺꦴꦏ꧀ꦠꦼꦂꦮꦶꦫ꧈ꦯꦂꦩꦶꦪꦠꦶꦩ꧀ꦭꦼꦔꦏ꧀꧈,ꦠꦼꦂꦫꦏꦺꦝꦺꦴꦏ꧀ꦠꦼꦂꦮꦶꦫ꧈ꦯꦂꦩꦶꦪꦠꦶꦩ꧀ꦭꦼꦔꦏ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_73_3.png,꧋ꦲꦺꦴꦭꦺꦃꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ꦪꦺꦤ꧀ꦩꦸꦭꦶꦃꦲꦺꦦꦔꦺꦱ꧀ꦛꦶꦣꦶ,꧋ꦲꦺꦴꦭꦺꦃꦮꦁꦱꦸꦭ꧀ꦭꦤ꧀ꦪꦺꦤ꧀ꦩꦸꦭꦶꦃꦲꦺꦦꦔꦺꦱ꧀ꦛꦶꦣꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_74_0.png,ꦧ꧀ꦲꦧꦁꦭꦤ꧀ꦢꦸꦮꦺꦫꦩ꧀ꦧꦸꦠ꧀ꦢꦮꦮꦼꦂꦤꦏ꧀ꦭꦮꦸ꧉,ꦧ꧀ꦲꦧꦁꦭꦤ꧀ꦢꦸꦮꦺꦫꦩ꧀ꦧꦸꦠ꧀ꦢꦮꦮꦼꦂꦤꦏ꧀ꦭꦮꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_74_1.png,ꦢ꧀ꦢꦺꦗꦿꦁꦏꦺꦴꦁꦔꦁꦒꦺꦴꦗꦸꦧꦃ꧈ꦩꦠꦤꦺꦩꦸꦫꦸ,ꦢ꧀ꦢꦺꦗꦿꦁꦏꦺꦴꦁꦔꦁꦒꦺꦴꦗꦸꦧꦃ꧈ꦩꦠꦤꦺꦩꦸꦫꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_74_2.png,ꦢꦿꦑꦺꦴꦔꦢꦼꦒ꧀‌꧈ꦱꦪꦕꦼꦝꦏ꧀ ꦏꦠꦺꦴꦤ꧀ꦮꦸꦗꦸ,ꦢꦿꦑꦺꦴꦔꦢꦼꦒ꧀‌꧈ꦱꦪꦕꦼꦝꦏ꧀ ꦏꦠꦺꦴꦤ꧀ꦮꦸꦗꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_74_3.png,꧋ꦮꦼꦮꦸꦗꦸꦢ꧀ꦢꦤ꧀ꦏꦸꦮꦶꦩ꧀ꦭꦏꦸꦚꦼꦣꦏ꧀ꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦤꦤ꧀ꦤꦺ,꧋ꦮꦼꦮꦸꦗꦸꦢ꧀ꦢꦤ꧀ꦏꦸꦮꦶꦩ꧀ꦭꦏꦸꦚꦼꦣꦏ꧀ꦏꦶꦥꦁꦒꦺꦴꦤ꧀ꦤꦤ꧀ꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_75_0.png,ꦉꦯ꧀ꦥꦠꦶꦲꦸꦒꦲꦏꦺꦃꦲꦶꦩ꧀ꦧꦸꦃꦲꦺ꧉,ꦉꦯ꧀ꦥꦠꦶꦲꦸꦒꦲꦏꦺꦃꦲꦶꦩ꧀ꦧꦸꦃꦲꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_75_1.png,ꦱ꧀ꦏꦿꦺꦴꦚ꧀ꦕꦺꦴꦁꦔꦤ꧀ꦩꦂꦒꦮꦶꦮꦶꦠ꧀ꦩꦲꦸꦢꦸꦫꦸꦁꦏꦶꦱꦺꦤ꧀꧈,ꦱ꧀ꦏꦿꦺꦴꦚ꧀ꦕꦺꦴꦁꦔꦤ꧀ꦩꦂꦒꦮꦶꦮꦶꦠ꧀ꦩꦲꦸꦢꦸꦫꦸꦁꦏꦶꦱꦺꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_75_2.png,ꦭꦤ꧀ꦢꦟꦂꦢꦤꦣꦺꦴꦏꦺꦴꦃꦩꦔꦤ꧀ꦤꦺ꧈ꦝꦱꦂꦮꦼꦠꦼꦁꦮꦶ,ꦭꦤ꧀ꦢꦟꦂꦢꦤꦣꦺꦴꦏꦺꦴꦃꦩꦔꦤ꧀ꦤꦺ꧈ꦝꦱꦂꦮꦼꦠꦼꦁꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_75_3.png,꧋ꦔꦺꦴꦩ꧀ꦧꦺꦤꦺꦲꦺꦱ꧀ꦝꦮꦼꦠ꧀ꦒꦸꦭꦗꦮ꧉ꦆꦤ꧀ꦢꦿꦗꦪ,꧋ꦔꦺꦴꦩ꧀ꦧꦺꦤꦺꦲꦺꦱ꧀ꦝꦮꦼꦠ꧀ꦒꦸꦭꦗꦮ꧉ꦆꦤ꧀ꦢꦿꦗꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_76_0.png,ꦮꦺꦂ꧉ꦩ꧀ꦧꦺꦴꦏ꧀ꦩꦔꦸꦤ꧀ꦲꦚ꧀ꦗꦼꦁꦒꦶꦫꦠ꧀ꦏꦒꦺꦠ꧀꧈,ꦮꦺꦂ꧉ꦩ꧀ꦧꦺꦴꦏ꧀ꦩꦔꦸꦤ꧀ꦲꦚ꧀ꦗꦼꦁꦒꦶꦫꦠ꧀ꦏꦒꦺꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_76_1.png,ꦉꦁꦮꦼꦫꦸꦃꦯꦸꦤꦂꦲꦁꦒꦮꦥꦶꦠꦶꦏ꧀ꦗꦒꦺꦴꦏꦮꦺꦂꦏ,ꦉꦁꦮꦼꦫꦸꦃꦯꦸꦤꦂꦲꦁꦒꦮꦥꦶꦠꦶꦏ꧀ꦗꦒꦺꦴꦏꦮꦺꦂꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_76_2.png,ꦤꦺꦱꦼꦭꦏ꧀ꦲꦺꦴꦫꦱꦿꦺꦴꦤ꧀ꦠ꧈ꦲꦚ꧀ꦗꦿꦤ꧀ꦛꦭ꧀ꦩꦼꦠꦸꦧ,ꦤꦺꦱꦼꦭꦏ꧀ꦲꦺꦴꦫꦱꦿꦺꦴꦤ꧀ꦠ꧈ꦲꦚ꧀ꦗꦿꦤ꧀ꦛꦭ꧀ꦩꦼꦠꦸꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_76_3.png,꧋ꦏꦿꦸꦔꦸꦯꦸꦤꦂꦔꦸꦤ꧀ꦢꦁꦗꦼꦤꦼꦁꦔꦺ꧈ꦥꦏ꧀ꦩꦔꦸꦤ꧀ꦭꦤ꧀ꦧꦺꦴꦗꦺꦴ,꧋ꦏꦿꦸꦔꦸꦯꦸꦤꦂꦔꦸꦤ꧀ꦢꦁꦗꦼꦤꦼꦁꦔꦺ꧈ꦥꦏ꧀ꦩꦔꦸꦤ꧀ꦭꦤ꧀ꦧꦺꦴꦗꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_77_0.png,ꦲꦶꦱꦺꦤ꧀ꦲꦶꦱꦺꦤ꧀ꦤꦺꦲꦺꦴꦩꦃꦏꦸꦏꦠꦺꦴꦤ꧀ꦔꦭꦺꦭ꧉ꦲꦃ꧈,ꦲꦶꦱꦺꦤ꧀ꦲꦶꦱꦺꦤ꧀ꦤꦺꦲꦺꦴꦩꦃꦏꦸꦏꦠꦺꦴꦤ꧀ꦔꦭꦺꦭ꧉ꦲꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_77_1.png,꧋ꦭꦮꦁꦔꦉꦥ꧀ꦢꦏ꧀ꦧꦸꦏꦏ꧀‌꧈ꦭꦩ꧀ꦥꦸꦢꦏ꧀ꦲꦸꦫꦸꦧ꧀ꦧꦏꦺ꧉ꦧꦾꦂ꧈,꧋ꦭꦮꦁꦔꦉꦥ꧀ꦢꦏ꧀ꦧꦸꦏꦏ꧀‌꧈ꦭꦩ꧀ꦥꦸꦢꦏ꧀ꦲꦸꦫꦸꦧ꧀ꦧꦏꦺ꧉ꦧꦾꦂ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_77_2.png,ꦱꦱꦏ꧀ꦏꦤ꧀ꦧꦲꦺꦲꦏꦸꦔꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀ꦲꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀꧈,ꦱꦱꦏ꧀ꦏꦤ꧀ꦧꦲꦺꦲꦏꦸꦔꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀ꦲꦺꦴꦤ꧀ꦝꦺꦴꦏ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_78_0.png,ꦭꦤ꧀ꦱꦱꦸꦒꦶꦃꦱꦸꦒꦶꦃꦲꦺꦢꦺꦱꦏꦺꦴꦤꦺꦴ꧉,ꦭꦤ꧀ꦱꦱꦸꦒꦶꦃꦱꦸꦒꦶꦃꦲꦺꦢꦺꦱꦏꦺꦴꦤꦺꦴ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_78_1.png,ꦏꦼꦱꦿꦏꦠ꧀ꦧꦶꦱꦫꦧꦶꦏꦫꦺꦴꦥꦿꦮꦤ꧀ꦱꦶꦁꦱꦲꦪꦸꦲꦪꦸꦤꦺ,ꦏꦼꦱꦿꦏꦠ꧀ꦧꦶꦱꦫꦧꦶꦏꦫꦺꦴꦥꦿꦮꦤ꧀ꦱꦶꦁꦱꦲꦪꦸꦲꦪꦸꦤꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_78_2.png,ꦏꦫꦺꦴꦏꦸꦭꦮꦂꦒꦪꦸꦟꦶ꧉ꦲꦺꦴꦫꦔꦶꦫꦪꦺꦤ꧀ꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦁ,ꦏꦫꦺꦴꦏꦸꦭꦮꦂꦒꦪꦸꦟꦶ꧉ꦲꦺꦴꦫꦔꦶꦫꦪꦺꦤ꧀ꦝꦺꦮꦺꦏ꧀ꦏꦺꦏꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_78_3.png,꧋ꦏꦪꦔꦥꦧꦸꦔꦃꦲꦺꦄꦒꦸꦱ꧀ꦤꦭꦶꦏꦝꦺꦮꦺꦏ꧀ꦏꦼꦢꦶꦭꦩꦂ,꧋ꦏꦪꦔꦥꦧꦸꦔꦃꦲꦺꦄꦒꦸꦱ꧀ꦤꦭꦶꦏꦝꦺꦮꦺꦏ꧀ꦏꦼꦢꦶꦭꦩꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_79_0.png,ꦢꦺꦴꦃꦲꦺ꧉ꦱꦗꦏ꧀ꦏꦺꦡꦂꦱꦶꦪꦼꦩ꧀ꦔꦼꦂꦠꦶ꧉,ꦢꦺꦴꦃꦲꦺ꧉ꦱꦗꦏ꧀ꦏꦺꦡꦂꦱꦶꦪꦼꦩ꧀ꦔꦼꦂꦠꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_79_1.png,ꦏꦸꦔꦼꦠꦸꦠ꧀ꦠꦏꦺꦩꦮꦥꦚꦮꦁꦔꦤ꧀ꦠꦶꦱꦮꦠꦫꦲ,ꦏꦸꦔꦼꦠꦸꦠ꧀ꦠꦏꦺꦩꦮꦥꦚꦮꦁꦔꦤ꧀ꦠꦶꦱꦮꦠꦫꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_79_2.png,ꦤꦼꦫꦸꦱ꧀ꦱꦏꦺꦭꦏꦸꦢꦶꦏꦶꦤ꧀ꦛꦶꦭ꧀ꦲꦤꦏ꧀ꦏꦺ꧉ꦲ,ꦤꦼꦫꦸꦱ꧀ꦱꦏꦺꦭꦏꦸꦢꦶꦏꦶꦤ꧀ꦛꦶꦭ꧀ꦲꦤꦏ꧀ꦏꦺ꧉ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_79_3.png,꧋ꦲꦺꦴꦫꦔꦼꦤ꧀ꦠꦺꦤ꧀ꦤꦶꦠꦸꦩꦁꦒꦥ꧀ꦏꦸ꧈ꦡꦂꦱꦶꦪꦼꦩ꧀ꦗꦸꦩꦁꦏꦃ,꧋ꦲꦺꦴꦫꦔꦼꦤ꧀ꦠꦺꦤ꧀ꦤꦶꦠꦸꦩꦁꦒꦥ꧀ꦏꦸ꧈ꦡꦂꦱꦶꦪꦼꦩ꧀ꦗꦸꦩꦁꦏꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_80_0.png,ꦠꦮꦶꦱ꧀ꦥꦺꦤꦏ꧀ ꦏꦱꦂꦫꦤ꧀ꦤꦺꦔꦼꦧꦺꦴ꧉,ꦠꦮꦶꦱ꧀ꦥꦺꦤꦏ꧀ ꦏꦱꦂꦫꦤ꧀ꦤꦺꦔꦼꦧꦺꦴ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_80_1.png,ꦏꦸꦩꦸꦁꦭꦸꦩꦃꦭꦸꦩꦃꦲꦺꦴꦫꦧꦶꦱꦠꦔꦶ꧉ꦱꦲꦶꦏꦶ,ꦏꦸꦩꦸꦁꦭꦸꦩꦃꦭꦸꦩꦃꦲꦺꦴꦫꦧꦶꦱꦠꦔꦶ꧉ꦱꦲꦶꦏꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_80_2.png,ꦩꦱꦏ꧀ꦭꦤ꧀ꦔꦸꦫꦸꦤ꧀ꦯꦠꦿꦶꦪꦭꦒꦶꦩꦁꦏꦠ꧀ꦏꦼꦂꦗ꧉ꦩꦼꦂꦒꦲ,ꦩꦱꦏ꧀ꦭꦤ꧀ꦔꦸꦫꦸꦤ꧀ꦯꦠꦿꦶꦪꦭꦒꦶꦩꦁꦏꦠ꧀ꦏꦼꦂꦗ꧉ꦩꦼꦂꦒꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_80_3.png,꧋ꦩꦼꦱꦏ꧀ꦏꦏꦺꦩꦱ꧀ꦟꦸꦂꦠꦔꦶꦲꦺꦱꦸꦏ꧀ꦲꦸꦩ꧀ꦧꦃꦲꦸꦩ꧀ꦧꦃ꧈,꧋ꦩꦼꦱꦏ꧀ꦏꦏꦺꦩꦱ꧀ꦟꦸꦂꦠꦔꦶꦲꦺꦱꦸꦏ꧀ꦲꦸꦩ꧀ꦧꦃꦲꦸꦩ꧀ꦧꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_0.png,ꦩ꧀ꦲꦶꦁꦏꦁꦱꦶꦤꦸꦲꦸꦤ꧀ꦱꦥꦤ꧀ꦝꦺꦫꦺꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦫ,ꦩ꧀ꦲꦶꦁꦏꦁꦱꦶꦤꦸꦲꦸꦤ꧀ꦱꦥꦤ꧀ꦝꦺꦫꦺꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_1.png,꧋ꦲꦶꦁꦮꦚ꧀ꦕꦶꦗꦩ꧀8ꦢꦭꦸ꧈ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦢꦊ,꧋ꦲꦶꦁꦮꦚ꧀ꦕꦶꦗꦩ꧀8ꦢꦭꦸ꧈ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦢꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_2.png,ꦤ꧀ꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀ꦏꦲꦁꦏꦃꦮꦚ꧀ꦕꦶꦢꦭꦸ꧉,ꦤ꧀ꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀ꦏꦲꦁꦏꦃꦮꦚ꧀ꦕꦶꦢꦭꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_3.png,ꦮꦶꦤ꧀ꦢꦶꦤ꧀ꦠꦼꦤ꧀ꦫꦮꦸꦃꦲꦶꦁꦤꦒꦫꦶ꧉ꦭꦸꦩꦼꦧꦼꦠ꧀ꦠꦶꦥꦸ,ꦮꦶꦤ꧀ꦢꦶꦤ꧀ꦠꦼꦤ꧀ꦫꦮꦸꦃꦲꦶꦁꦤꦒꦫꦶ꧉ꦭꦸꦩꦼꦧꦼꦠ꧀ꦠꦶꦥꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_4.png,ꦏ꧀ꦑꦶꦥꦸꦤ꧀ꦲꦶꦁꦩꦂꦒꦶ꧈ꦱꦱꦩ꧀ꦥꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦮꦠ,ꦏ꧀ꦑꦶꦥꦸꦤ꧀ꦲꦶꦁꦩꦂꦒꦶ꧈ꦱꦱꦩ꧀ꦥꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦱꦮꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_5.png,ꦢꦸꦭ꧀ ꦧꦺꦴꦠꦼꦤ꧀ꦏꦕꦿꦶꦪꦺꦴꦱ꧀ꦱꦏꦼꦤ꧀ꦠꦶꦤ꧀ꦢ,ꦢꦸꦭ꧀ ꦧꦺꦴꦠꦼꦤ꧀ꦏꦕꦿꦶꦪꦺꦴꦱ꧀ꦱꦏꦼꦤ꧀ꦠꦶꦤ꧀ꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_6.png,ꦱꦏꦺꦴꦤ꧀ꦢꦸꦂꦫꦶꦥꦸꦤ꧀ꦱꦁꦥꦿꦧꦸꦱꦏꦶꦁꦒꦸꦤꦸꦁꦏꦶ,ꦱꦏꦺꦴꦤ꧀ꦢꦸꦂꦫꦶꦥꦸꦤ꧀ꦱꦁꦥꦿꦧꦸꦱꦏꦶꦁꦒꦸꦤꦸꦁꦏꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_7.png,ꦱ꧀ꦩꦼꦤ꧀ꦠꦱ꧀ꦏꦱꦺꦢꦤ꧀꧈,ꦱ꧀ꦩꦼꦤ꧀ꦠꦱ꧀ꦏꦱꦺꦢꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_8.png,ꦝꦠꦺꦴꦤ꧀ꦢꦊꦩ꧀ꦱꦶꦝꦼꦩ꧀ꦥꦿꦩꦤꦼꦩ꧀‌ꦏꦝꦺꦴ,ꦝꦠꦺꦴꦤ꧀ꦢꦊꦩ꧀ꦱꦶꦝꦼꦩ꧀ꦥꦿꦩꦤꦼꦩ꧀‌ꦏꦝꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_9.png,ꦤ꧀ꦤꦲꦶꦁꦏꦁꦏꦶꦤꦂꦱꦏ꧀ꦲꦏꦼꦤ꧀‌꧈ꦱꦊꦧꦼꦠ꧀ꦠꦶꦥꦸꦤ꧀ꦏ,ꦤ꧀ꦤꦲꦶꦁꦏꦁꦏꦶꦤꦂꦱꦏ꧀ꦲꦏꦼꦤ꧀‌꧈ꦱꦊꦧꦼꦠ꧀ꦠꦶꦥꦸꦤ꧀ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_10.png,ꦲꦸꦤ꧀ꦥꦶꦤꦪꦸꦔꦤ꧀ꦤꦲꦶꦁꦏꦫꦲꦂꦗꦤ꧀‌ꦏꦢꦸꦩꦸꦒꦺ,ꦲꦸꦤ꧀ꦥꦶꦤꦪꦸꦔꦤ꧀ꦤꦲꦶꦁꦏꦫꦲꦂꦗꦤ꧀‌ꦏꦢꦸꦩꦸꦒꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_11.png,ꦥꦔꦺꦫꦤ꧀ ꦩꦸꦒꦶꦩꦸꦒꦶꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦲꦶꦁꦏꦁꦱꦶꦤꦸ,ꦥꦔꦺꦫꦤ꧀ ꦩꦸꦒꦶꦩꦸꦒꦶꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦶꦥꦸꦤ꧀ꦲꦶꦁꦏꦁꦱꦶꦤꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_12.png,ꦩ꧀ꦱꦢꦪ꧉,ꦩ꧀ꦱꦢꦪ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_13.png,ꦧꦼꦠꦶꦁꦥꦁꦒꦭꦶꦃ꧉ꦧꦺꦴꦠꦼꦤ꧀ꦱꦃꦲꦩꦸꦗꦶꦲꦶꦁ,ꦧꦼꦠꦶꦁꦥꦁꦒꦭꦶꦃ꧉ꦧꦺꦴꦠꦼꦤ꧀ꦱꦃꦲꦩꦸꦗꦶꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_14.png,ꦱꦲꦥꦫꦥꦸꦠꦿꦱꦤ꧀ꦠꦤꦩꦶꦮꦃꦲꦧ꧀ꦢꦶꦢꦊ,ꦱꦲꦥꦫꦥꦸꦠꦿꦱꦤ꧀ꦠꦤꦩꦶꦮꦃꦲꦧ꧀ꦢꦶꦢꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_15.png,ꦩ꧀ꦠꦤ꧀ꦱꦃꦔꦤ꧀ꦝꦸꦠ꧀ꦏꦸꦮꦏꦺꦴꦱ꧀ ꦱꦸꦏꦮꦲꦶꦁꦱꦊ,ꦩ꧀ꦠꦤ꧀ꦱꦃꦔꦤ꧀ꦝꦸꦠ꧀ꦏꦸꦮꦏꦺꦴꦱ꧀ ꦱꦸꦏꦮꦲꦶꦁꦱꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_16.png,ꦏꦼꦤ꧀ꦱꦸꦏꦥꦶꦉꦤꦤꦶꦁꦥꦿꦩꦺꦱ꧀ꦮꦫꦶꦢꦊꦩ꧀,ꦏꦼꦤ꧀ꦱꦸꦏꦥꦶꦉꦤꦤꦶꦁꦥꦿꦩꦺꦱ꧀ꦮꦫꦶꦢꦊꦩ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_17.png,꧋ꦱꦗꦼꦁꦏꦂꦫꦶꦥꦸꦤ꧀ꦱꦿꦶꦤꦠ꧈ꦥꦿꦩꦺꦱ꧀ꦮꦫꦶꦢꦊ,꧋ꦱꦗꦼꦁꦏꦂꦫꦶꦥꦸꦤ꧀ꦱꦿꦶꦤꦠ꧈ꦥꦿꦩꦺꦱ꧀ꦮꦫꦶꦢꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_18.png,ꦤ꧀ꦠꦼꦤ꧀ꦱꦠꦸꦁꦒꦭ꧀ꦥꦸꦤꦥ꧉ꦲꦤ꧀ꦢꦢꦺꦴꦱ,ꦤ꧀ꦠꦼꦤ꧀ꦱꦠꦸꦁꦒꦭ꧀ꦥꦸꦤꦥ꧉ꦲꦤ꧀ꦢꦢꦺꦴꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_19.png,꧋ꦫꦮꦸꦃꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀‌꧇꧑꧇꧉,꧋ꦫꦮꦸꦃꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀‌꧇꧑꧇꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_81_20.png,ꦮꦸꦃꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀‌ꦮꦶꦭꦸꦗꦼꦁꦧꦺꦴꦠꦼꦤ꧀ꦮꦺꦴ,ꦮꦸꦃꦲꦶꦁꦏꦝꦠꦺꦴꦤ꧀‌ꦮꦶꦭꦸꦗꦼꦁꦧꦺꦴꦠꦼꦤ꧀ꦮꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_82_0.png,ꦭꦏꦭꦲꦤ꧀ꦝꦸꦏ꧀ꦏꦺꦢꦶꦲꦸꦱꦥ꧀ꦥꦏꦺꦲꦶꦁꦱꦶꦫꦃ꧉,ꦭꦏꦭꦲꦤ꧀ꦝꦸꦏ꧀ꦏꦺꦢꦶꦲꦸꦱꦥ꧀ꦥꦏꦺꦲꦶꦁꦱꦶꦫꦃ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_82_1.png,ꦫꦩ꧀ꦧꦸꦠ꧀ꦲꦶꦁꦱꦶꦫꦲꦺꦒꦺꦏ꧀ꦲꦼꦤ꧀ꦢꦁꦒꦫꦶꦁ꧈ꦏꦫꦺꦴꦏ,ꦫꦩ꧀ꦧꦸꦠ꧀ꦲꦶꦁꦱꦶꦫꦲꦺꦒꦺꦏ꧀ꦲꦼꦤ꧀ꦢꦁꦒꦫꦶꦁ꧈ꦏꦫꦺꦴꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_82_2.png,ꦲꦶꦁꦱꦔꦶꦱꦺꦴꦂꦫꦺꦱꦽꦔꦺꦔꦺꦲꦺꦱꦸꦏ꧀ ꦱꦸꦥꦿꦶꦃꦲꦺ,ꦲꦶꦁꦱꦔꦶꦱꦺꦴꦂꦫꦺꦱꦽꦔꦺꦔꦺꦲꦺꦱꦸꦏ꧀ ꦱꦸꦥꦿꦶꦃꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_82_3.png,꧋ꦫꦩ꧀ꦥꦸꦁꦲꦢꦸꦱ꧀ꦒꦼꦝꦺꦗꦏꦏꦸꦮꦶꦚ꧀ꦗꦸꦂꦩꦚ꧀ꦗꦼꦂꦲꦮꦏ꧀ꦏꦺ,꧋ꦫꦩ꧀ꦥꦸꦁꦲꦢꦸꦱ꧀ꦒꦼꦝꦺꦗꦏꦏꦸꦮꦶꦚ꧀ꦗꦸꦂꦩꦚ꧀ꦗꦼꦂꦲꦮꦏ꧀ꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_83_0.png,ꦢꦸꦒꦮꦺꦲꦭꦱ꧀ꦱꦤ꧀ꦏꦫꦺꦴꦧꦺꦴꦗꦺꦴꦏꦸ꧉,ꦢꦸꦒꦮꦺꦲꦭꦱ꧀ꦱꦤ꧀ꦏꦫꦺꦴꦧꦺꦴꦗꦺꦴꦏꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_83_1.png,ꦯꦸꦩꦶꦤꦃꦤꦢꦾꦤ꧀ꦮꦼꦏ꧀ꦠꦸꦤꦺꦲꦮꦤ꧀ ꦱꦼꦧꦧ꧀ꦪꦺꦤ꧀ꦧꦼꦔꦶꦏꦸ,ꦯꦸꦩꦶꦤꦃꦤꦢꦾꦤ꧀ꦮꦼꦏ꧀ꦠꦸꦤꦺꦲꦮꦤ꧀ ꦱꦼꦧꦧ꧀ꦪꦺꦤ꧀ꦧꦼꦔꦶꦏꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_83_2.png,ꦱꦮꦶꦱ꧀ꦫꦩ꧀ꦥꦸꦁꦲꦏꦸꦲꦱꦿꦶꦁꦢꦺꦴꦭꦤ꧀ꦩꦼꦚꦁꦲꦺꦴꦩꦃꦲꦺ,ꦱꦮꦶꦱ꧀ꦫꦩ꧀ꦥꦸꦁꦲꦏꦸꦲꦱꦿꦶꦁꦢꦺꦴꦭꦤ꧀ꦩꦼꦚꦁꦲꦺꦴꦩꦃꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_83_3.png,ꦏꦪꦧꦶꦪꦱꦤꦺ꧈ꦤꦢꦾꦤ꧀ꦥꦼꦩꦶꦭꦶꦃꦲꦤ꧀ꦏꦼꦥꦭꦢꦺ,ꦏꦪꦧꦶꦪꦱꦤꦺ꧈ꦤꦢꦾꦤ꧀ꦥꦼꦩꦶꦭꦶꦃꦲꦤ꧀ꦏꦼꦥꦭꦢꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_84_0.png,ꦥꦺꦴꦩ꧀ꦥꦧꦚꦸꦏꦁꦫꦸꦱꦏ꧀ꦲꦸꦠꦮꦔꦢꦠ꧀꧈,ꦥꦺꦴꦩ꧀ꦥꦧꦚꦸꦏꦁꦫꦸꦱꦏ꧀ꦲꦸꦠꦮꦔꦢꦠ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_84_1.png,ꦭ꧀ꦥꦸꦤ꧀ꦔꦸꦧꦸꦁꦔꦶꦥꦏ꧀ꦡꦱꦶꦩ꧀ ꦱꦮꦶꦗꦶꦤꦶꦁꦠꦸꦏꦁꦤ꧀ꦢꦤ꧀ꦢꦤ꧀ꦤꦶ,ꦭ꧀ꦥꦸꦤ꧀ꦔꦸꦧꦸꦁꦔꦶꦥꦏ꧀ꦡꦱꦶꦩ꧀ ꦱꦮꦶꦗꦶꦤꦶꦁꦠꦸꦏꦁꦤ꧀ꦢꦤ꧀ꦢꦤ꧀ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_84_2.png,ꦱꦸꦏ꧀ꦲꦶꦁꦢꦶꦤꦏꦥꦥꦠ꧀ꦧꦸꦩꦂꦯꦶꦃꦮꦶꦱ꧀ꦔꦁꦏꦠ꧀ꦒꦒꦁꦠꦺ,ꦱꦸꦏ꧀ꦲꦶꦁꦢꦶꦤꦏꦥꦥꦠ꧀ꦧꦸꦩꦂꦯꦶꦃꦮꦶꦱ꧀ꦔꦁꦏꦠ꧀ꦒꦒꦁꦠꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_84_3.png,꧋ꦲꦩꦿꦶꦃꦧꦧ꧀ꦮꦲꦸ ꦲꦺꦴꦫꦏꦼꦢꦮꦢꦮ꧈ꦮꦪꦃꦲꦺ,꧋ꦲꦩꦿꦶꦃꦧꦧ꧀ꦮꦲꦸ ꦲꦺꦴꦫꦏꦼꦢꦮꦢꦮ꧈ꦮꦪꦃꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_85_0.png,ꦩ꧀ꦭꦼꦧꦸꦥꦼꦏꦫꦁꦔꦤ꧀ꦲꦺꦴꦩꦃꦏꦸꦮꦶ꧉,ꦩ꧀ꦭꦼꦧꦸꦥꦼꦏꦫꦁꦔꦤ꧀ꦲꦺꦴꦩꦃꦏꦸꦮꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_85_1.png,ꦤ꧀ꦤꦏꦺꦧ꧀ꦭꦼꦒꦼꦂꦫꦺ꧉ꦮꦸꦱꦤꦲꦺꦂꦩꦟ꧀ꦠꦤꦺꦏꦢ꧀ꦗꦸꦩꦁꦏꦃ,ꦤ꧀ꦤꦏꦺꦧ꧀ꦭꦼꦒꦼꦂꦫꦺ꧉ꦮꦸꦱꦤꦲꦺꦂꦩꦟ꧀ꦠꦤꦺꦏꦢ꧀ꦗꦸꦩꦁꦏꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_85_2.png,ꦱꦺꦴꦂꦮꦶꦠ꧀ꦗꦺꦴꦲꦂ꧈ꦤꦶꦁꦥꦁꦒꦃꦱꦶꦁꦢꦶꦲꦶꦚ꧀ꦕꦼꦂꦢꦸꦫꦸꦁꦔꦏꦺꦴ,ꦱꦺꦴꦂꦮꦶꦠ꧀ꦗꦺꦴꦲꦂ꧈ꦤꦶꦁꦥꦁꦒꦃꦱꦶꦁꦢꦶꦲꦶꦚ꧀ꦕꦼꦂꦢꦸꦫꦸꦁꦔꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_85_3.png,꧋ꦔꦤ꧀ꦠꦶꦱꦮꦼꦠꦫꦩꦼꦤꦶꦠ꧀ꦲꦺꦂꦩꦟ꧀ꦠꦲꦚ꧀ꦗꦼꦒꦢꦸꦱ꧀ꦲꦶꦁꦔꦶ,꧋ꦔꦤ꧀ꦠꦶꦱꦮꦼꦠꦫꦩꦼꦤꦶꦠ꧀ꦲꦺꦂꦩꦟ꧀ꦠꦲꦚ꧀ꦗꦼꦒꦢꦸꦱ꧀ꦲꦶꦁꦔꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_0.png,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_1.png,ꦱꦼꦫꦠꦤ꧀ꦗꦮꦶꦏꦫꦔꦤ꧀ꦤꦶꦥꦸꦤ꧀,ꦱꦼꦫꦠꦤ꧀ꦗꦮꦶꦏꦫꦔꦤ꧀ꦤꦶꦥꦸꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_2.png,ꦱꦼꦫꦠꦦꦫꦫꦡꦺꦴꦤ꧀,ꦱꦼꦫꦠꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_3.png,ꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧉ ... (ꦲꦤꦱꦩ꧀ꦧꦸꦁꦔꦺ),ꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧉ ... (ꦲꦤꦱꦩ꧀ꦧꦸꦁꦔꦺ),jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_4.png,ꦢꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ ꦱꦂꦠꦥꦫꦮꦮꦏꦶꦭ꧀ꦭꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦁꦏꦁꦱ,ꦢꦺꦴꦱ꧀ꦱꦶꦥꦸꦤ꧀ ꦱꦂꦠꦥꦫꦮꦮꦏꦶꦭ꧀ꦭꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦁꦏꦁꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_5.png,ꦭꦶꦃꦨꦛꦫꦯꦶꦮꦃꦏꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦥꦫꦥꦶꦤꦶꦠ,ꦭꦶꦃꦨꦛꦫꦯꦶꦮꦃꦏꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦥꦫꦥꦶꦤꦶꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_6.png,ꦏꦁꦱꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧈ꦠꦸꦮꦶꦤ꧀ꦥꦫꦄꦮꦠꦫ꧈ꦩꦏꦠꦼꦤ꧀ꦩ,ꦏꦁꦱꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧈ꦠꦸꦮꦶꦤ꧀ꦥꦫꦄꦮꦠꦫ꧈ꦩꦏꦠꦼꦤ꧀ꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_7.png,ꦔꦒꦼꦔꦶꦥꦸꦤ꧀ꦲꦶꦁꦏꦁꦱꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧈ꦥꦫꦱꦸꦱꦸꦭꦶꦃꦲꦶꦥꦸꦤ꧀ꦲꦶꦁ,ꦔꦒꦼꦔꦶꦥꦸꦤ꧀ꦲꦶꦁꦏꦁꦱꦩꦶꦩꦸꦩꦸꦤ꧀ꦝꦶ꧈ꦥꦫꦱꦸꦱꦸꦭꦶꦃꦲꦶꦥꦸꦤ꧀ꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_8.png,ꦩꦏꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦥꦫꦉꦱꦶ꧈ꦨꦛꦫꦮꦶꦯ꧀ꦤꦸꦢꦺꦤꦶꦁꦥꦫꦥ,ꦩꦏꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦥꦫꦉꦱꦶ꧈ꦨꦛꦫꦮꦶꦯ꧀ꦤꦸꦢꦺꦤꦶꦁꦥꦫꦥ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_9.png,ꦮꦤꦶꦥꦸꦤ꧀ꦥꦶꦪꦩ꧀ꦧꦏ꧀ꦥꦶꦪꦩ꧀ꦧꦏ꧀ ꦏꦢꦺꦴꦱ꧀ꦠ꧇ꦨꦛꦫꦨꦿꦃ,ꦮꦤꦶꦥꦸꦤ꧀ꦥꦶꦪꦩ꧀ꦧꦏ꧀ꦥꦶꦪꦩ꧀ꦧꦏ꧀ ꦏꦢꦺꦴꦱ꧀ꦠ꧇ꦨꦛꦫꦨꦿꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_10.png,ꦲꦸꦱꦩꦶꦢꦶꦥꦸꦤ꧀ꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦢꦺꦮꦲꦭꦶꦠ꧀ꦲꦭꦶꦠ꧀‌ꦢꦺ,ꦲꦸꦱꦩꦶꦢꦶꦥꦸꦤ꧀ꦏꦸꦥꦼꦁꦢꦺꦤꦶꦁꦢꦺꦮꦲꦭꦶꦠ꧀ꦲꦭꦶꦠ꧀‌ꦢꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_11.png,ꦮꦃ꧈ꦏꦭꦶꦃꦨꦿꦃꦩꦤ꧈ꦠꦶꦒꦤꦶꦥꦸꦤ꧀ꦮꦶꦱ꧀ꦤꦸ꧈ꦢꦺꦮꦠꦼꦠꦶꦒꦮ,ꦮꦃ꧈ꦏꦭꦶꦃꦨꦿꦃꦩꦤ꧈ꦠꦶꦒꦤꦶꦥꦸꦤ꧀ꦮꦶꦱ꧀ꦤꦸ꧈ꦢꦺꦮꦠꦼꦠꦶꦒꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_12.png,꧋ꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦁꦏꦁꦩꦸꦩꦸꦤ꧀ꦝꦶꦝꦠꦼꦁꦠꦿꦶꦩꦸꦂꦡꦶ꧈ꦥꦔꦗꦼꦁꦔꦶꦥꦸꦤ꧀ꦯꦶ,꧋ꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦶꦁꦏꦁꦩꦸꦩꦸꦤ꧀ꦝꦶꦝꦠꦼꦁꦠꦿꦶꦩꦸꦂꦡꦶ꧈ꦥꦔꦗꦼꦁꦔꦶꦥꦸꦤ꧀ꦯꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_13.png,꧋ꦠꦼꦤ꧀ꦥꦸꦤꦶꦏꦱꦒꦼꦢ꧀ꦲꦸꦒꦶꦕꦤ꧀ꦝꦶꦠꦿꦶꦫꦠ꧀ꦤ꧈ꦥꦥꦤ꧀ꦥꦸꦤ꧀ꦝꦺꦤ꧀ꦤꦶ,꧋ꦠꦼꦤ꧀ꦥꦸꦤꦶꦏꦱꦒꦼꦢ꧀ꦲꦸꦒꦶꦕꦤ꧀ꦝꦶꦠꦿꦶꦫꦠ꧀ꦤ꧈ꦥꦥꦤ꧀ꦥꦸꦤ꧀ꦝꦺꦤ꧀ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_14.png,ꦲꦺꦩ꧀ꦥ꧀ꦥꦼꦂꦫꦶꦥꦸꦤ꧀ꦏꦭꦶꦪꦤ꧀ꦕꦤ꧀ꦝꦶꦯꦶꦮꦃꦲꦶꦁꦦꦿꦩ꧀ꦧꦤ꧀ꦤꦤ꧀‌꧈ꦪꦺꦤ꧀ꦩꦏ,ꦲꦺꦩ꧀ꦥ꧀ꦥꦼꦂꦫꦶꦥꦸꦤ꧀ꦏꦭꦶꦪꦤ꧀ꦕꦤ꧀ꦝꦶꦯꦶꦮꦃꦲꦶꦁꦦꦿꦩ꧀ꦧꦤ꧀ꦤꦤ꧀‌꧈ꦪꦺꦤ꧀ꦩꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_15.png,ꦠꦺꦭꦢꦢꦩꦼꦭ꧀ꦭꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦒꦩꦶꦨꦸꦢ꧀ꦝ꧈ꦏꦛꦃ,ꦠꦺꦭꦢꦢꦩꦼꦭ꧀ꦭꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦠꦶꦠꦶꦪꦁꦲꦒꦩꦶꦨꦸꦢ꧀ꦝ꧈ꦏꦛꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_16.png,꧋ꦩꦤꦮꦶꦤꦶꦠꦶꦏ꧀ꦮꦔꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦕꦤ꧀ꦝꦶꦱꦺꦮꦸ꧈ꦠꦺ,꧋ꦩꦤꦮꦶꦤꦶꦠꦶꦏ꧀ꦮꦔꦸꦤ꧀ꦤꦶꦥꦸꦤ꧀ꦕꦤ꧀ꦝꦶꦱꦺꦮꦸ꧈ꦠꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_17.png,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,꧋ꦠꦸꦠꦸꦒ꧀ꦒꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_18.png,ꦏꦫꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ,ꦏꦫꦔꦤ꧀꧇ꦫꦢꦺꦤ꧀ꦩꦱ꧀‌ꦩꦁꦑꦸꦢꦶꦩꦺꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_19.png,ꦲꦤꦼꦣꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,ꦲꦤꦼꦣꦏ꧀ꦱꦏꦶꦁꦱꦼꦫꦠ꧀ꦦꦫꦫꦡꦺꦴꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_20.png,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧓꧕꧇,ꦱꦼꦗꦫꦃꦦꦫꦫꦡꦺꦴꦤ꧀꧇꧓꧕꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_86_21.png,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ꧉,꧋ꦏꦠꦸꦠꦸꦂꦫꦤ꧀ꦤꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_0.png,ꦱꦁꦒꦂꦆꦐꦿꦲꦤꦕꦫꦏ,ꦱꦁꦒꦂꦆꦐꦿꦲꦤꦕꦫꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_1.png,ꦧ꧀ꦧ,ꦧ꧀ꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_2.png,ꦒ꧀ꦒ,ꦒ꧀ꦒ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_3.png,ꦩ꧀ꦩ,ꦩ꧀ꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_4.png,ꦔ꧀ꦔ,ꦔ꧀ꦔ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_5.png,ꦥ꧀ꦥ,ꦥ꧀ꦥ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_6.png,ꦪ,ꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_7.png,ꦚ꧀ꦚ,ꦚ꧀ꦚ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_8.png,ꦝ꧀ꦝ,ꦝ꧀ꦝ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_9.png,ꦗ꧀ꦗ,ꦗ꧀ꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_10.png,ꦢ꧀ꦢ,ꦢ꧀ꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_11.png,ꦠ꧀ꦠ,ꦠ꧀ꦠ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_12.png,ꦮ꧀ꦮ,ꦮ꧀ꦮ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_13.png,ꦭ꧀ꦭ,ꦭ꧀ꦭ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_14.png,ꦱ꧀ꦱ,ꦱ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_15.png,ꦫ,ꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_16.png,ꦕ꧀ꦕ,ꦕ꧀ꦕ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_17.png,ꦤ꧀ꦤ,ꦤ꧀ꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_18.png,ꦏ꧀ꦏ,ꦏ꧀ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_19.png,꧇꧑꧇,꧇꧑꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_20.png,ꦪꦺꦤ꧀ꦮꦤꦶꦲꦗꦮꦼꦢꦶꦮꦼꦢꦶ,ꦪꦺꦤ꧀ꦮꦤꦶꦲꦗꦮꦼꦢꦶꦮꦼꦢꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_21.png,ꦪꦺꦤ꧀ꦮꦼꦢꦶꦲꦗꦮꦤꦶꦮꦤꦶ,ꦪꦺꦤ꧀ꦮꦼꦢꦶꦲꦗꦮꦤꦶꦮꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_22.png,ꦲ꧀ꦲ,ꦲ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_87_23.png,ꦛ꧀ꦛ,ꦛ꧀ꦛ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_0.png,ꦓ꧀ꦓ,ꦓ꧀ꦓ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_1.png,ꦨ꧀ꦨ,ꦨ꧀ꦨ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_2.png,ꦦ꧀ꦦ,ꦦ꧀ꦦ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_3.png,ꦯ꧀ꦯ,ꦯ꧀ꦯ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_4.png,ꦟ꧀ꦟ,ꦟ꧀ꦟ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_5.png,ꦑ꧀ꦑ,ꦑ꧀ꦑ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_6.png,ꦬ꧀ꦬ,ꦬ꧀ꦬ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_7.png,꧇꧓꧇,꧇꧓꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_88_8.png,ꦡ꧀ꦡ,ꦡ꧀ꦡ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_0.png,ꦉꦴ,ꦉꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_1.png,ꦊ,ꦊ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_2.png,ꦉ,ꦉ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_3.png,ꦋ,ꦋ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_4.png,ꦄꦴ,ꦄꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_5.png,ꦍ,ꦍ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_6.png,ꦇ,ꦇ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_7.png,ꦎꦴ,ꦎꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_8.png,ꦌ,ꦌ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_9.png,ꦆ,ꦆ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_10.png,ꦎ,ꦎ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_11.png,ꦈ,ꦈ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_12.png,ꦄ,ꦄ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_13.png,꧇꧑꧔꧇,꧇꧑꧔꧇,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_89_14.png,ꦈꦴ,ꦈꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_0.png,ꦔꦤ꧀ꦢꦼꦭ꧀ꦩꦫꦁꦲꦏꦸ꧈ꦲꦮꦺꦃꦲꦺꦴꦫ,ꦔꦤ꧀ꦢꦼꦭ꧀ꦩꦫꦁꦲꦏꦸ꧈ꦲꦮꦺꦃꦲꦺꦴꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_1.png,ꦱꦸꦭ꧀ꦭꦶ꧇ꦲꦥꦏꦺꦴꦮꦺꦲꦺꦴꦫ,ꦱꦸꦭ꧀ꦭꦶ꧇ꦲꦥꦏꦺꦴꦮꦺꦲꦺꦴꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_2.png,ꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴ꧉ꦢꦺꦴꦫꦩꦁ,ꦮꦺꦴꦁꦭꦺꦴꦫꦺꦴ꧉ꦢꦺꦴꦫꦩꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_3.png,ꦏꦚ꧀ꦕꦤ꧀‌ꦲꦪꦺꦴꦥꦝꦱꦺꦧ,ꦏꦚ꧀ꦕꦤ꧀‌ꦲꦪꦺꦴꦥꦝꦱꦺꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_4.png,ꦮꦢꦺꦤꦺꦱꦫꦺꦃꦤꦺꦥꦝꦏ,ꦮꦢꦺꦤꦺꦱꦫꦺꦃꦤꦺꦥꦝꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_5.png,ꦢꦶꦏꦺꦴꦮꦺꦲꦶꦏꦸꦤꦿꦗꦁꦧꦼꦤꦼꦂ꧉ꦲꦺ,ꦢꦶꦏꦺꦴꦮꦺꦲꦶꦏꦸꦤꦿꦗꦁꦧꦼꦤꦼꦂ꧉ꦲꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_6.png,ꦩꦁꦏꦏꦺꦴꦏ꧀ꦗꦭꦸꦏ꧀ꦝꦺꦮꦺ꧈ꦢ,ꦩꦁꦏꦏꦺꦴꦏ꧀ꦗꦭꦸꦏ꧀ꦝꦺꦮꦺ꧈ꦢ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_7.png,ꦏꦸꦏꦫꦺꦴꦏꦺꦴꦮꦺꦥꦝꦔꦿꦸꦔꦸ꧉,ꦏꦸꦏꦫꦺꦴꦏꦺꦴꦮꦺꦥꦝꦔꦿꦸꦔꦸ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_8.png,ꦏꦺꦴꦤꦺꦴꦠꦶꦩ꧀ꦧꦭ꧀ꦭꦤ꧀ꦤꦺꦒꦸꦱ꧀ꦠꦶ꧉ꦲ,ꦏꦺꦴꦤꦺꦴꦠꦶꦩ꧀ꦧꦭ꧀ꦭꦤ꧀ꦤꦺꦒꦸꦱ꧀ꦠꦶ꧉ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_9.png,ꦏꦺ꧈ꦪꦺꦤ꧀ꦢꦸꦢꦸꦲꦏꦸꦝꦺꦮꦺ꧈ꦩꦼꦁ,ꦏꦺ꧈ꦪꦺꦤ꧀ꦢꦸꦢꦸꦲꦏꦸꦝꦺꦮꦺ꧈ꦩꦼꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_10.png,ꦏ꧀ꦱꦤ꧀ꦩꦸ꧈ꦲꦗꦏꦺꦴꦏ꧀ꦲꦸꦭꦸꦔ,ꦏ꧀ꦱꦤ꧀ꦩꦸ꧈ꦲꦗꦏꦺꦴꦏ꧀ꦲꦸꦭꦸꦔ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_11.png,ꦤꦺꦒꦸꦱ꧀ꦠꦶ꧈ꦱꦥꦱꦥꦩꦸꦤ꧀ꦝꦸꦠ꧀ꦉꦉ,ꦤꦺꦒꦸꦱ꧀ꦠꦶ꧈ꦱꦥꦱꦥꦩꦸꦤ꧀ꦝꦸꦠ꧀ꦉꦉ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_12.png,ꦱꦸꦢꦸꦏ꧀ꦏꦤ꧀‌ꦥꦼꦗꦃꦏꦭꦶꦃꦥꦶꦱꦤ꧀꧈,ꦱꦸꦢꦸꦏ꧀ꦏꦤ꧀‌ꦥꦼꦗꦃꦏꦭꦶꦃꦥꦶꦱꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_13.png,ꦤ꧀ꦲꦶꦪꦔꦿꦸꦔꦸꦝꦺꦮꦺꦥꦔꦤ꧀ꦢꦶꦏ,ꦤ꧀ꦲꦶꦪꦔꦿꦸꦔꦸꦝꦺꦮꦺꦥꦔꦤ꧀ꦢꦶꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_14.png,ꦤ꧀ꦠꦁ꧈ꦮꦸꦱꦤꦱꦩꦶꦏꦼꦏꦼꦉꦁꦔꦤ꧀,ꦤ꧀ꦠꦁ꧈ꦮꦸꦱꦤꦱꦩꦶꦏꦼꦏꦼꦉꦁꦔꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_15.png,ꦭ꧀ꦭ꧇ꦏꦼꦥꦿꦶꦪꦺ꧈ꦏꦺꦴꦮꦺꦧꦶꦪꦺ,ꦭ꧀ꦭ꧇ꦏꦼꦥꦿꦶꦪꦺ꧈ꦏꦺꦴꦮꦺꦧꦶꦪꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_16.png,ꦥꦸꦤ꧀ꦲꦶꦁꦥꦧꦼꦤ꧀ꦱꦩꦶꦠꦤ꧀ꦠꦁꦠꦶꦤ,ꦥꦸꦤ꧀ꦲꦶꦁꦥꦧꦼꦤ꧀ꦱꦩꦶꦠꦤ꧀ꦠꦁꦠꦶꦤ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_17.png,ꦏ꧀ꦥꦤ꧀ꦩꦸꦏꦧꦺꦃ꧉ꦯꦼꦩ꧀ꦧꦢꦩꦁꦱꦸ,ꦏ꧀ꦥꦤ꧀ꦩꦸꦏꦧꦺꦃ꧉ꦯꦼꦩ꧀ꦧꦢꦩꦁꦱꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_18.png,ꦮꦸꦭꦒꦸꦱ꧀ꦠꦶꦭꦶꦪꦤꦺ꧉ꦱꦭꦗꦼꦁꦔꦶ,ꦮꦸꦭꦒꦸꦱ꧀ꦠꦶꦭꦶꦪꦤꦺ꧉ꦱꦭꦗꦼꦁꦔꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_19.png,ꦭ꧀ꦭꦶꦏꦺꦴꦮꦺ꧈ꦏꦺꦫꦶꦢ꧀ꦢꦱꦉꦉ,ꦭ꧀ꦭꦶꦏꦺꦴꦮꦺ꧈ꦏꦺꦫꦶꦢ꧀ꦢꦱꦉꦉ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_20.png,ꦤꦮꦏꦺꦴꦮꦺꦔꦩꦤ꧀ꦢꦏ꧈ꦮꦶꦱ꧀ꦔ,ꦤꦮꦏꦺꦴꦮꦺꦔꦩꦤ꧀ꦢꦏ꧈ꦮꦶꦱ꧀ꦔ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_21.png,ꦩꦺꦴꦭꦤ꧀‌꧈ꦲꦏꦸꦢꦶꦲꦸꦠꦸꦱ꧀ꦤꦶꦩ꧀ꦧ,ꦩꦺꦴꦭꦤ꧀‌꧈ꦲꦏꦸꦢꦶꦲꦸꦠꦸꦱ꧀ꦤꦶꦩ꧀ꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_22.png,ꦏꦸꦢꦸꦭꦸꦩꦏꦸꦒꦶꦤꦸꦒꦸ꧉ꦧꦺꦴꦏ꧀ꦩ,ꦏꦸꦢꦸꦭꦸꦩꦏꦸꦒꦶꦤꦸꦒꦸ꧉ꦧꦺꦴꦏ꧀ꦩ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_23.png,ꦤꦼꦁꦫꦠꦸꦲꦤꦤꦒꦫꦲꦶꦁꦩꦼꦤ꧀ꦝꦁꦏ,ꦤꦼꦁꦫꦠꦸꦲꦤꦤꦒꦫꦲꦶꦁꦩꦼꦤ꧀ꦝꦁꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_24.png,ꦫꦲꦺꦤꦏ꧀ꦢꦶꦫꦸꦔꦺꦴꦏ꧀ꦲꦏꦺ,ꦫꦲꦺꦤꦏ꧀ꦢꦶꦫꦸꦔꦺꦴꦏ꧀ꦲꦏꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_25.png,ꦲ꧀ꦒꦸ ꦱ꧀ꦠꦶ꧉ꦒꦸꦱ꧀ꦠꦶꦲꦶꦁꦱꦏꦶꦮꦶꦱ꧀ꦗꦸꦩꦼ,ꦲ꧀ꦒꦸ ꦱ꧀ꦠꦶ꧉ꦒꦸꦱ꧀ꦠꦶꦲꦶꦁꦱꦏꦶꦮꦶꦱ꧀ꦗꦸꦩꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_26.png,꧋ꦯꦼꦩ꧀ꦧꦢꦱꦸꦩꦲꦸꦂ꧇ꦧꦱꦩꦸꦲꦺꦴ,꧋ꦯꦼꦩ꧀ꦧꦢꦱꦸꦩꦲꦸꦂ꧇ꦧꦱꦩꦸꦲꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_27.png,ꦫ꧉ꦢꦺꦴꦫꦱꦸꦩꦲꦸꦂ꧇ꦲꦏꦸꦤꦸꦱꦸ,ꦫ꧉ꦢꦺꦴꦫꦱꦸꦩꦲꦸꦂ꧇ꦲꦏꦸꦤꦸꦱꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_28.png,ꦤ꧀꧇ꦱꦏꦔꦼꦤ꧀ꦢꦶꦏꦺꦴꦮꦺꦢꦺꦴ,ꦤ꧀꧇ꦱꦏꦔꦼꦤ꧀ꦢꦶꦏꦺꦴꦮꦺꦢꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_29.png,ꦧꦼꦕꦶꦏ꧀꧈,ꦧꦼꦕꦶꦏ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_30.png,ꦪꦤ꧀ꦥꦸꦤ꧀ꦯꦼꦩ꧀ꦧꦢ꧉ꦯꦼꦩ꧀ꦧꦢꦠꦏꦺꦴ,ꦪꦤ꧀ꦥꦸꦤ꧀ꦯꦼꦩ꧀ꦧꦢ꧉ꦯꦼꦩ꧀ꦧꦢꦠꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_31.png,ꦭꦸꦁꦤ꧉ꦲꦗꦔꦤ꧀ꦠꦶꦤꦼꦩꦸꦏꦁꦲꦺꦴꦫ,ꦭꦸꦁꦤ꧉ꦲꦗꦔꦤ꧀ꦠꦶꦤꦼꦩꦸꦏꦁꦲꦺꦴꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_32.png,ꦥꦸꦭꦺꦴꦩꦗꦼꦛꦶ꧈ꦏꦥꦁꦒꦶꦃꦏꦭꦶ,ꦥꦸꦭꦺꦴꦩꦗꦼꦛꦶ꧈ꦏꦥꦁꦒꦶꦃꦏꦭꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_33.png,ꦮꦺꦧꦭꦺꦭꦲꦶꦁꦒꦸꦱ꧀ꦠꦶ꧉ꦲꦔꦸꦂꦲꦸ,ꦮꦺꦧꦭꦺꦭꦲꦶꦁꦒꦸꦱ꧀ꦠꦶ꧉ꦲꦔꦸꦂꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_34.png,ꦭꦩ꧀ꦥꦲꦶꦥꦸꦤ꧀ꦢꦺꦴꦫꦢꦸꦩꦸꦒꦶꦲꦶꦁ,ꦭꦩ꧀ꦥꦲꦶꦥꦸꦤ꧀ꦢꦺꦴꦫꦢꦸꦩꦸꦒꦶꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_35.png,ꦥꦿꦶꦪꦺꦲꦸꦗꦂꦩꦸꦲꦶꦏꦸ꧉ꦲꦥꦏꦺꦴ,ꦥꦿꦶꦪꦺꦲꦸꦗꦂꦩꦸꦲꦶꦏꦸ꧉ꦲꦥꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_36.png,ꦮꦺ꧉ꦢꦺꦴꦫꦩꦁꦱꦸꦭ꧀ꦭꦶꦱꦼꦫꦸ꧇ꦏ,ꦮꦺ꧉ꦢꦺꦴꦫꦩꦁꦱꦸꦭ꧀ꦭꦶꦱꦼꦫꦸ꧇ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_37.png,ꦗꦂꦏꦁꦧꦼꦤꦼꦂ꧉ꦤꦸꦫꦸꦠ꧀ꦥꦶꦏꦶꦂꦩꦸꦝꦺ,ꦗꦂꦏꦁꦧꦼꦤꦼꦂ꧉ꦤꦸꦫꦸꦠ꧀ꦥꦶꦏꦶꦂꦩꦸꦝꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_38.png,ꦮꦺꦲꦺꦴꦫꦔꦿꦸꦔꦺꦴꦏ꧀ꦲꦏꦺꦲꦸ,ꦮꦺꦲꦺꦴꦫꦔꦿꦸꦔꦺꦴꦏ꧀ꦲꦏꦺꦲꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_39.png,ꦲꦏꦸꦲꦺꦴꦫꦲꦮꦺꦃ꧈ꦲꦮꦶꦠ꧀ꦏꦺꦴ,ꦲꦏꦸꦲꦺꦴꦫꦲꦮꦺꦃ꧈ꦲꦮꦶꦠ꧀ꦏꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_40.png,ꦪꦺꦤ꧀ꦏꦺꦴꦏ꧀ꦗꦭꦸꦏ꧀ꦝꦺꦮꦺ꧈ꦪꦩꦼꦱ꧀ꦛꦶ,ꦪꦺꦤ꧀ꦏꦺꦴꦏ꧀ꦗꦭꦸꦏ꧀ꦝꦺꦮꦺ꧈ꦪꦩꦼꦱ꧀ꦛꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_41.png,ꦲꦶꦏꦸꦠꦶꦁꦒꦭ꧀ꦠꦠ꧈ꦲꦩ꧀ꦧꦸꦮꦁꦧꦼꦤꦼꦂ꧉,ꦲꦶꦏꦸꦠꦶꦁꦒꦭ꧀ꦠꦠ꧈ꦲꦩ꧀ꦧꦸꦮꦁꦧꦼꦤꦼꦂ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_42.png,ꦲꦮꦺꦃꦲ꧈ꦉꦉꦏ꧀ꦱꦤ꧀ꦩꦸꦢꦏ꧀ꦗꦭꦸ,ꦲꦮꦺꦃꦲ꧈ꦉꦉꦏ꧀ꦱꦤ꧀ꦩꦸꦢꦏ꧀ꦗꦭꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_90_43.png,ꦏ꧀꧈ꦯꦼꦩ꧀ꦧꦢꦩꦁꦱꦸꦭ꧀ꦭꦶ꧇ꦏꦺꦴꦮꦺ,ꦏ꧀꧈ꦯꦼꦩ꧀ꦧꦢꦩꦁꦱꦸꦭ꧀ꦭꦶ꧇ꦏꦺꦴꦮꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_0.png,ꦤ꧀ꦧꦠꦭ꧀ꦪꦺꦴꦤ꧀ꦧꦮꦃꦲꦤ꧀ꦤꦺꦲꦶꦁꦗꦡꦶꦩ꧀꧈,ꦤ꧀ꦧꦠꦭ꧀ꦪꦺꦴꦤ꧀ꦧꦮꦃꦲꦤ꧀ꦤꦺꦲꦶꦁꦗꦡꦶꦩ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_1.png,ꦚ꧀ꦗꦸꦂꦧꦶꦱꦱꦸꦁꦠꦸꦭꦝꦩꦫꦁꦧꦠꦭꦾꦺꦴ,ꦚ꧀ꦗꦸꦂꦧꦶꦱꦱꦸꦁꦠꦸꦭꦝꦩꦫꦁꦧꦠꦭꦾꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_2.png,ꦥꦾꦤ꧀ꦩꦲꦸ꧈ꦠꦼꦩꦃꦲꦤ꧀ꦑꦺꦴꦝꦩ꧀ꦗꦡꦶꦩ꧀ꦧ,ꦥꦾꦤ꧀ꦩꦲꦸ꧈ꦠꦼꦩꦃꦲꦤ꧀ꦑꦺꦴꦝꦩ꧀ꦗꦡꦶꦩ꧀ꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_3.png, ꧋ꦱꦫꦤꦚꦸꦢꦥꦿꦧꦺꦪꦫꦺꦴꦫꦺꦴ, ꧋ꦱꦫꦤꦚꦸꦢꦥꦿꦧꦺꦪꦫꦺꦴꦫꦺꦴ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_4.png,ꦱꦔꦉꦥ꧀ꦥꦶꦁꦏꦮꦸꦭꦏꦱꦁꦱꦪ꧉,ꦱꦔꦉꦥ꧀ꦥꦶꦁꦏꦮꦸꦭꦏꦱꦁꦱꦪ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_5.png,ꦔꦼꦤ꧀ꦤꦏꦺꦫꦺꦴꦫꦺꦴꦥꦾꦤ꧀ꦩꦮꦸꦫꦃꦲꦤ꧀ꦲꦶꦁ,ꦔꦼꦤ꧀ꦤꦏꦺꦫꦺꦴꦫꦺꦴꦥꦾꦤ꧀ꦩꦮꦸꦫꦃꦲꦤ꧀ꦲꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_6.png,ꦱꦺꦴꦂ꧉ꦲꦚꦼꦢꦺꦴꦃꦲꦶꦥꦏꦸꦭꦶꦤ꧀ꦤꦼ,ꦱꦺꦴꦂ꧉ꦲꦚꦼꦢꦺꦴꦃꦲꦶꦥꦏꦸꦭꦶꦤ꧀ꦤꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_7.png,ꦲꦠꦶꦤ꧀ꦏꦤ꧀ꦛꦶ꧇ꦄꦤꦺꦴꦂꦫꦒ꧈ꦲꦤ꧀ꦝꦥ꧀ꦲ,ꦲꦠꦶꦤ꧀ꦏꦤ꧀ꦛꦶ꧇ꦄꦤꦺꦴꦂꦫꦒ꧈ꦲꦤ꧀ꦝꦥ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_8.png,ꦱꦚꦠꦧꦶꦱꦤꦸꦢꦸꦲꦏꦺꦫꦱꦥꦿꦶ,ꦱꦚꦠꦧꦶꦱꦤꦸꦢꦸꦲꦏꦺꦫꦱꦥꦿꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_9.png,ꦥꦿꦕꦪꦤ꧀ꦱꦲꦶꦏꦶꦲꦶꦏꦶ꧈ꦨꦿꦮꦶꦗꦪ,ꦥꦿꦕꦪꦤ꧀ꦱꦲꦶꦏꦶꦲꦶꦏꦶ꧈ꦨꦿꦮꦶꦗꦪ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_10.png,ꦱꦶꦱ꧀ꦌꦏꦺꦴꦤꦺꦴꦩꦶꦏꦶꦤꦫꦸꦁꦏꦿꦶꦱꦶꦱ꧀ꦏ,ꦱꦶꦱ꧀ꦌꦏꦺꦴꦤꦺꦴꦩꦶꦏꦶꦤꦫꦸꦁꦏꦿꦶꦱꦶꦱ꧀ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_11.png,ꦱꦾꦃꦭꦒꦶꦥꦿꦶꦲꦠꦶꦤ꧀ꦗꦭꦂꦫꦤ꧀ꦔꦭꦩ꧀ꦩꦶꦏꦿꦶ,ꦱꦾꦃꦭꦒꦶꦥꦿꦶꦲꦠꦶꦤ꧀ꦗꦭꦂꦫꦤ꧀ꦔꦭꦩ꧀ꦩꦶꦏꦿꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_12.png,4. ꧋ꦠꦼꦁꦏꦭꦤꦺꦧꦺꦴꦁꦱꦆꦤ꧀ꦝꦺꦴꦟꦺ,4. ꧋ꦠꦼꦁꦏꦭꦤꦺꦧꦺꦴꦁꦱꦆꦤ꧀ꦝꦺꦴꦟꦺ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_13.png,ꦒꦒꦤ꧉,ꦒꦒꦤ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_14.png,ꦥꦼꦱꦮꦠ꧀ꦥꦼꦱꦮꦠ꧀ꦠꦼꦩ꧀ꦥꦸꦂꦏꦁꦔꦽꦁꦒꦤ꧀ꦤꦶ,ꦥꦼꦱꦮꦠ꧀ꦥꦼꦱꦮꦠ꧀ꦠꦼꦩ꧀ꦥꦸꦂꦏꦁꦔꦽꦁꦒꦤ꧀ꦤꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_15.png,ꦔꦼꦤ꧀ꦤꦺꦧꦶꦱꦚꦮꦁꦒꦒꦃꦥꦿꦏꦺꦴꦱꦤꦶꦁ,ꦔꦼꦤ꧀ꦤꦺꦧꦶꦱꦚꦮꦁꦒꦒꦃꦥꦿꦏꦺꦴꦱꦤꦶꦁ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_16.png,ꦮꦂꦒꦏꦸꦛꦯꦸꦫꦧꦪꦭꦤ꧀ꦱꦏꦶꦮꦠꦼ,ꦮꦂꦒꦏꦸꦛꦯꦸꦫꦧꦪꦭꦤ꧀ꦱꦏꦶꦮꦠꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_17.png,ꦩ꧀ꦠꦼꦠꦼꦥ꧀ꦉꦒꦼꦁꦉꦒꦼꦁꦲꦶꦏ꧀ꦩꦠ꧀‌ꦩꦿꦧꦮꦤ꧀ꦤꦶ꧉,ꦩ꧀ꦠꦼꦠꦼꦥ꧀ꦉꦒꦼꦁꦉꦒꦼꦁꦲꦶꦏ꧀ꦩꦠ꧀‌ꦩꦿꦧꦮꦤ꧀ꦤꦶ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_18.png,3. ꧋ꦲꦸꦥꦕꦫꦲꦶꦁꦥꦭꦠꦂꦫꦤ꧀ꦩꦑꦺꦴꦝ,3. ꧋ꦲꦸꦥꦕꦫꦲꦶꦁꦥꦭꦠꦂꦫꦤ꧀ꦩꦑꦺꦴꦝ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_19.png,ꦭ꧀ꦭꦺꦝꦺꦮꦺꦝꦺꦮꦺ꧉,ꦭ꧀ꦭꦺꦝꦺꦮꦺꦝꦺꦮꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_20.png,ꦪ꧈ꦥꦿꦚꦠꦲꦺꦴꦫ,ꦪ꧈ꦥꦿꦚꦠꦲꦺꦴꦫ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_21.png,ꦏꦺ꧈ꦒꦸꦩꦤ꧀ꦠꦸꦁꦩꦫꦁꦱꦶꦱꦶꦏꦼꦥ꧀ꦥꦶꦪꦤ꧀ꦢꦼ,ꦏꦺ꧈ꦒꦸꦩꦤ꧀ꦠꦸꦁꦩꦫꦁꦱꦶꦱꦶꦏꦼꦥ꧀ꦥꦶꦪꦤ꧀ꦢꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_22.png,ꦭꦂꦫꦶꦫꦱꦏꦸꦫꦁ꧇ꦧꦶꦫꦮ꧇ꦤꦺꦨꦿꦮꦶꦗ,ꦭꦂꦫꦶꦫꦱꦏꦸꦫꦁ꧇ꦧꦶꦫꦮ꧇ꦤꦺꦨꦿꦮꦶꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_23.png,ꦠꦼꦫꦸꦱ꧀ꦱꦺ꧈ꦢꦸꦫꦸꦁꦏꦼꦤꦢꦶꦥꦼꦱ꧀ꦛꦺꦏ꧀ꦲ,ꦠꦼꦫꦸꦱ꧀ꦱꦺ꧈ꦢꦸꦫꦸꦁꦏꦼꦤꦢꦶꦥꦼꦱ꧀ꦛꦺꦏ꧀ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_24.png,ꦱ꧀‌꧈ꦲꦥꦏꦸꦫꦁꦩꦮꦸꦫꦃꦲꦤ꧀ꦩꦲꦸꦲꦚ꧀ꦗ,ꦱ꧀‌꧈ꦲꦥꦏꦸꦫꦁꦩꦮꦸꦫꦃꦲꦤ꧀ꦩꦲꦸꦲꦚ꧀ꦗ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_25.png,ꦉꦥ꧀꧈ꦤꦔꦶꦁꦲꦥꦧꦶꦱꦭꦸꦩꦏꦸꦲꦶꦁꦱ,ꦉꦥ꧀꧈ꦤꦔꦶꦁꦲꦥꦧꦶꦱꦭꦸꦩꦏꦸꦲꦶꦁꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_26.png,ꦪꦏꦁꦧꦏꦭ꧀ꦏꦕꦫꦶꦠꦲꦶꦁꦮꦕꦤ꧀ꦩꦶꦁꦒꦸꦔ,ꦪꦏꦁꦧꦏꦭ꧀ꦏꦕꦫꦶꦠꦲꦶꦁꦮꦕꦤ꧀ꦩꦶꦁꦒꦸꦔ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_27.png,ꦢ꧀‌ꦩꦸꦁꦮꦠꦫꦱꦥꦿꦠꦼꦭꦺꦴꦤ꧀ꦤꦺꦥꦿ,ꦢ꧀‌ꦩꦸꦁꦮꦠꦫꦱꦥꦿꦠꦼꦭꦺꦴꦤ꧀ꦤꦺꦥꦿ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_28.png,ꦧꦗ꦳ꦶꦂꦫꦤ꧀ꦲꦶꦏꦸꦭꦒꦶ꧇ꦔꦼꦠꦿꦺꦤ꧀꧈ꦏ,ꦧꦗ꦳ꦶꦂꦫꦤ꧀ꦲꦶꦏꦸꦭꦒꦶ꧇ꦔꦼꦠꦿꦺꦤ꧀꧈ꦏ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_29.png,2. ꧋ꦱꦧꦧ꧀ꦥꦿꦧꦺꦪꦤꦺꦢꦶꦲꦸꦁꦏꦽ,2. ꧋ꦱꦧꦧ꧀ꦥꦿꦧꦺꦪꦤꦺꦢꦶꦲꦸꦁꦏꦽ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_30.png,ꦏꦿꦺꦤꦃꦔꦼꦢꦺꦴꦃꦲꦶꦥꦏꦸꦭꦶꦤꦤ꧀ꦏꦩꦸ,ꦏꦿꦺꦤꦃꦔꦼꦢꦺꦴꦃꦲꦶꦥꦏꦸꦭꦶꦤꦤ꧀ꦏꦩꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_31.png,ꦥꦱꦧꦧ꧀ꦧꦺ꧉,ꦥꦱꦧꦧ꧀ꦧꦺ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_32.png,ꦲꦶꦁꦗꦠꦶꦩ꧀‌ꦢꦶꦤꦤꦺꦲꦶꦏꦶꦏꦿꦺꦤꦃ,ꦲꦶꦁꦗꦠꦶꦩ꧀‌ꦢꦶꦤꦤꦺꦲꦶꦏꦶꦏꦿꦺꦤꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_33.png,ꦫꦃꦲꦤ꧀ꦏꦪꦠꦲꦸꦤ꧀ꦠꦲꦸꦤ꧀ꦏꦼꦥꦸꦁꦏꦸꦂ꧉ꦲ,ꦫꦃꦲꦤ꧀ꦏꦪꦠꦲꦸꦤ꧀ꦠꦲꦸꦤ꧀ꦏꦼꦥꦸꦁꦏꦸꦂ꧉ꦲ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_34.png,ꦧꦿꦪꦤ꧀꧈,ꦧꦿꦪꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_35.png,ꦤ꧀ꦠꦱ꧀ꦲꦶꦏꦶꦲꦺꦴꦫꦥꦠꦼꦉꦒꦼꦁꦩꦮꦸ,ꦤ꧀ꦠꦱ꧀ꦲꦶꦏꦶꦲꦺꦴꦫꦥꦠꦼꦉꦒꦼꦁꦩꦮꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_36.png,ꦲꦤ꧀ꦲꦶꦁꦒꦿꦺꦴꦒꦺꦴꦠ꧀ꦠꦶꦏꦠꦼꦤ꧀ꦠꦽꦩ꧀ꦩꦤ꧀ꦤꦶꦁꦧ,ꦲꦤ꧀ꦲꦶꦁꦒꦿꦺꦴꦒꦺꦴꦠ꧀ꦠꦶꦏꦠꦼꦤ꧀ꦠꦽꦩ꧀ꦩꦤ꧀ꦤꦶꦁꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_37.png,ꦱꦤꦺꦑꦺꦴꦝꦩ꧀ V ꦨꦿꦮꦶꦗꦪꦩꦼ,ꦱꦤꦺꦑꦺꦴꦝꦩ꧀ V ꦨꦿꦮꦶꦗꦪꦩꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_38.png,ꦮꦃꦲꦤ꧀ꦤꦺ꧈ꦩꦸꦭꦥꦿꦱꦱꦠ꧀ꦔꦸꦗꦧꦮꦃ,ꦮꦃꦲꦤ꧀ꦤꦺ꧈ꦩꦸꦭꦥꦿꦱꦱꦠ꧀ꦔꦸꦗꦧꦮꦃ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_39.png,1. ꧋ꦏꦕꦫꦶꦠ꧈ ꦥꦲꦂꦒꦾꦤ꧀ꦢꦶꦤꦠꦁꦒꦥ꧀ꦮꦂ,1. ꧋ꦏꦕꦫꦶꦠ꧈ ꦥꦲꦂꦒꦾꦤ꧀ꦢꦶꦤꦠꦁꦒꦥ꧀ꦮꦂ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_40.png,ꦩ꧀ꦩꦤ꧀ꦤꦒꦶꦃꦥꦶꦱꦸꦁꦱꦸꦁꦱꦏꦌꦱꦼꦭꦺꦴꦤ꧀ꦧ,ꦩ꧀ꦩꦤ꧀ꦤꦒꦶꦃꦥꦶꦱꦸꦁꦱꦸꦁꦱꦏꦌꦱꦼꦭꦺꦴꦤ꧀ꦧ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_41.png,ꦮꦼꦤꦺꦃꦆꦤ꧀ꦱ꧀ꦠꦤ꧀ꦱꦶꦏꦁꦏꦤ꧀ꦛꦶꦱꦶꦱꦶꦝꦼ,ꦮꦼꦤꦺꦃꦆꦤ꧀ꦱ꧀ꦠꦤ꧀ꦱꦶꦏꦁꦏꦤ꧀ꦛꦶꦱꦶꦱꦶꦝꦼ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_42.png,6. ꧋ꦠꦸꦲꦸꦏꦺꦴꦱꦺꦴꦏ꧀ꦧꦭꦺꦤ꧀ꦏꦫꦺꦴꦱ,6. ꧋ꦠꦸꦲꦸꦏꦺꦴꦱꦺꦴꦏ꧀ꦧꦭꦺꦤ꧀ꦏꦫꦺꦴꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_43.png,ꦥꦸꦭꦸꦃꦪꦸꦠꦲꦺꦝꦁ꧉,ꦥꦸꦭꦸꦃꦪꦸꦠꦲꦺꦝꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_44.png,ꦧꦺꦪꦥꦲꦂꦒꦾꦤ꧀ꦱꦶꦁꦲꦸꦮꦶꦱ꧀ꦲꦸꦮꦶ,ꦧꦺꦪꦥꦲꦂꦒꦾꦤ꧀ꦱꦶꦁꦲꦸꦮꦶꦱ꧀ꦲꦸꦮꦶ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_45.png,ꦥꦝꦢꦶꦥꦿꦺꦤ꧀ꦠꦲꦶꦲꦢꦼꦒ꧀ꦏꦺꦴꦥꦿꦱꦶ꧈,ꦥꦝꦢꦶꦥꦿꦺꦤ꧀ꦠꦲꦶꦲꦢꦼꦒ꧀ꦏꦺꦴꦥꦿꦱꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_91_46.png,ꦲꦶꦁꦱꦮꦶꦱ꧀ꦱꦺꦥꦝꦢꦶꦱꦸꦩ꧀ꦧꦁꦝꦸꦮꦶꦠ꧀ꦱ,ꦲꦶꦁꦱꦮꦶꦱ꧀ꦱꦺꦥꦝꦢꦶꦱꦸꦩ꧀ꦧꦁꦝꦸꦮꦶꦠ꧀ꦱ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_0.png,ꦭꦸꦁꦒꦸꦃꦲꦺꦩꦸꦁꦔꦮꦸꦭ꧉,ꦭꦸꦁꦒꦸꦃꦲꦺꦩꦸꦁꦔꦮꦸꦭ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_1.png,ꦪ꧀ꦮꦭꦭꦶꦭꦧꦼꦠ꧀ꦠꦤ꧀ꦧꦶꦪꦺꦤ꧀,ꦪ꧀ꦮꦭꦭꦶꦭꦧꦼꦠ꧀ꦠꦤ꧀ꦧꦶꦪꦺꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_2.png,ꦭꦸꦒꦸꦭꦩꦸꦤ꧀ꦱꦧꦫꦁꦠꦶꦤ꧀ꦢꦏ꧀ꦥꦏꦺꦴꦭꦶꦃ꧈,ꦭꦸꦒꦸꦭꦩꦸꦤ꧀ꦱꦧꦫꦁꦠꦶꦤ꧀ꦢꦏ꧀ꦥꦏꦺꦴꦭꦶꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_3.png,ꦭꦩ꧀ꦭꦩ꧀ꦩꦶꦁꦢꦿꦶꦪꦥꦿꦠꦺꦭ꧈,ꦭꦩ꧀ꦭꦩ꧀ꦩꦶꦁꦢꦿꦶꦪꦥꦿꦠꦺꦭ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_4.png,ꦪꦺꦤ꧀ꦱꦸꦩꦼꦁꦏꦲꦏꦂꦪꦱꦤ꧀ꦢꦺꦪ꧈,ꦪꦺꦤ꧀ꦱꦸꦩꦼꦁꦏꦲꦏꦂꦪꦱꦤ꧀ꦢꦺꦪ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_5.png,ꦭꦸꦏꦶꦠꦒꦶꦤꦸꦭꦸꦁ꧈,ꦭꦸꦏꦶꦠꦒꦶꦤꦸꦭꦸꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_6.png,ꦪ꧇꧅ꦪꦺꦴꦒꦾꦤꦶꦫꦭꦶꦤꦠꦶꦃꦫꦸꦩꦶꦪꦶꦤ꧀,ꦪ꧇꧅ꦪꦺꦴꦒꦾꦤꦶꦫꦭꦶꦤꦠꦶꦃꦫꦸꦩꦶꦪꦶꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_7.png,ꦭꦲꦶꦂꦫꦺꦔꦶꦏꦭ꧀ꦤꦭꦂ꧈,ꦭꦲꦶꦂꦫꦺꦔꦶꦏꦭ꧀ꦤꦭꦂ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_8.png,ꦗꦼꦤꦏ꧀ꦤꦺꦁꦗꦿꦺꦴꦥꦿꦤꦗ꧉,ꦗꦼꦤꦏ꧀ꦤꦺꦁꦗꦿꦺꦴꦥꦿꦤꦗ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_9.png,ꦭꦩꦸꦤ꧀ꦩꦁꦱꦃꦱꦧꦫꦁꦏꦭꦶꦂ꧈,ꦭꦩꦸꦤ꧀ꦩꦁꦱꦃꦱꦧꦫꦁꦏꦭꦶꦂ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_10.png,ꦗꦶꦮꦗꦸꦩ꧀ꦧꦸꦃꦏꦁꦥꦶꦤꦸꦗꦭꦤ꧀ꦏꦁꦩꦸꦗꦶ꧈,ꦗꦶꦮꦗꦸꦩ꧀ꦧꦸꦃꦏꦁꦥꦶꦤꦸꦗꦭꦤ꧀ꦏꦁꦩꦸꦗꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_11.png,ꦭꦶꦭꦊꦒꦒꦸꦁꦭꦸꦭꦸꦃ꧈,ꦭꦶꦭꦊꦒꦒꦸꦁꦭꦸꦭꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_12.png,ꦗꦶꦤꦼꦗꦼꦭ꧀ꦭꦤ꧀ꦲꦶꦁꦥꦸꦥꦸꦗ꧈,ꦗꦶꦤꦼꦗꦼꦭ꧀ꦭꦤ꧀ꦲꦶꦁꦥꦸꦥꦸꦗ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_13.png,ꦭꦶꦪꦼꦥ꧀ꦥꦶꦁꦠꦾꦱ꧀ ꦪ꧀ꦮꦏꦭꦭꦺꦤ꧀,ꦭꦶꦪꦼꦥ꧀ꦥꦶꦁꦠꦾꦱ꧀ ꦪ꧀ꦮꦏꦭꦭꦺꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_14.png,ꦭꦶꦂꦚꦲꦺꦭꦶꦁꦲꦁꦒꦸꦁꦏꦸꦩꦮꦸꦭ꧈,ꦭꦶꦂꦚꦲꦺꦭꦶꦁꦲꦁꦒꦸꦁꦏꦸꦩꦮꦸꦭ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_15.png,ꦭ꧇ ꧅ꦭꦏ꧀ꦱꦶꦠꦚꦲꦪ꧀ꦮꦠꦶꦁꦒꦭ꧀ꦲꦺꦭꦶꦁ꧈,ꦭ꧇ ꧅ꦭꦏ꧀ꦱꦶꦠꦚꦲꦪ꧀ꦮꦠꦶꦁꦒꦭ꧀ꦲꦺꦭꦶꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_16.png,ꦗꦗꦤꦺꦗꦶꦤꦸꦗꦸ꧈,ꦗꦗꦤꦺꦗꦶꦤꦸꦗꦸ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_17.png,ꦮꦶꦤꦱꦸꦃꦩꦼꦱꦸꦗꦶꦮ꧉,ꦮꦶꦤꦱꦸꦃꦩꦼꦱꦸꦗꦶꦮ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_18.png,ꦗꦶꦤꦗꦭ꧀ꦢꦸꦏ꧀ꦤꦺꦁꦥꦿꦗ꧈,ꦗꦶꦤꦗꦭ꧀ꦢꦸꦏ꧀ꦤꦺꦁꦥꦿꦗ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_19.png,ꦮꦶꦫꦁꦭꦩꦸꦤ꧀ꦥꦔꦸꦁꦏꦶꦃꦲꦺꦠꦤ꧀ꦏꦸꦮꦮꦶ꧈,ꦮꦶꦫꦁꦭꦩꦸꦤ꧀ꦥꦔꦸꦁꦏꦶꦃꦲꦺꦠꦤ꧀ꦏꦸꦮꦮꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_20.png,ꦗꦸꦩꦼꦤꦼꦁꦔꦏꦭꦶꦃꦚꦮꦶꦗꦶ꧈,ꦗꦸꦩꦼꦤꦼꦁꦔꦏꦭꦶꦃꦚꦮꦶꦗꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_21.png,ꦮꦔꦼꦤ꧀ꦤꦤ꧀ꦲꦸꦏꦸꦂꦏꦸꦮꦮ꧈,ꦮꦔꦼꦤ꧀ꦤꦤ꧀ꦲꦸꦏꦸꦂꦏꦸꦮꦮ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_22.png,ꦮꦤꦶꦤꦼꦩ꧀ꦥꦸꦃꦏꦺꦮꦸꦃ꧈,ꦮꦤꦶꦤꦼꦩ꧀ꦥꦸꦃꦏꦺꦮꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_23.png,ꦮꦼꦤꦁꦪꦺꦤ꧀ꦢꦺꦤ꧀ꦲꦁꦱꦸꦮ꧈,ꦮꦼꦤꦁꦪꦺꦤ꧀ꦢꦺꦤ꧀ꦲꦁꦱꦸꦮ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_24.png,ꦗꦺꦴꦁꦏꦲꦶꦁꦏꦁꦠꦶꦤꦸꦗꦸ꧈,ꦗꦺꦴꦁꦏꦲꦶꦁꦏꦁꦠꦶꦤꦸꦗꦸ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_25.png,ꦮꦶꦂꦪ꧈ꦲꦂꦠꦩꦶꦮꦃꦭꦶꦤꦸꦮꦶꦃ꧈,ꦮꦶꦂꦪ꧈ꦲꦂꦠꦩꦶꦮꦃꦭꦶꦤꦸꦮꦶꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_26.png,ꦗꦸꦩ꧀ꦧꦸꦃꦏ꧀ꦭꦮꦤ꧀ꦏꦁꦥꦶꦤꦸꦗꦺꦁ꧈,ꦗꦸꦩ꧀ꦧꦸꦃꦏ꧀ꦭꦮꦤ꧀ꦏꦁꦥꦶꦤꦸꦗꦺꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_27.png,ꦮꦗꦶꦧ꧀ꦧꦶꦫꦺꦁꦠꦸꦩꦸꦮꦸꦃ꧈,ꦮꦗꦶꦧ꧀ꦧꦶꦫꦺꦁꦠꦸꦩꦸꦮꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_28.png,ꦗꦚ꧀ꦗꦶꦗꦁꦏꦼꦥ꧀ꦏꦺꦴꦁꦱꦶꦥꦿꦥ꧀ꦠꦺꦁꦧꦺꦚ꧀ꦗꦶꦁ꧈,ꦗꦚ꧀ꦗꦶꦗꦁꦏꦼꦥ꧀ꦏꦺꦴꦁꦱꦶꦥꦿꦥ꧀ꦠꦺꦁꦧꦺꦚ꧀ꦗꦶꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_29.png,ꦮꦠꦏ꧀ꦮꦤ꧀ꦠꦸꦲꦪ꧀ꦮꦕꦺꦮꦺꦠ꧀,ꦮꦠꦏ꧀ꦮꦤ꧀ꦠꦸꦲꦪ꧀ꦮꦕꦺꦮꦺꦠ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_30.png,ꦗ꧇ ꧅ ꦗꦤ꧀ꦩꦭꦸꦮꦶꦃꦏꦁꦮꦸꦱ꧀ꦧꦁꦏꦶꦠ꧀ꦩꦸꦗꦶ꧈,ꦗ꧇ ꧅ ꦗꦤ꧀ꦩꦭꦸꦮꦶꦃꦏꦁꦮꦸꦱ꧀ꦧꦁꦏꦶꦠ꧀ꦩꦸꦗꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_31.png,ꦮꦺꦃꦮꦂꦱꦶꦠꦪꦺꦴꦒꦾꦒꦶꦤꦸꦒꦸꦮ꧈,ꦮꦺꦃꦮꦂꦱꦶꦠꦪꦺꦴꦒꦾꦒꦶꦤꦸꦒꦸꦮ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_32.png,ꦝꦶꦤꦥꦸꦏ꧀ꦭꦶꦂꦥꦶꦥꦶꦤ꧀ꦝꦤ꧀꧈,ꦝꦶꦤꦥꦸꦏ꧀ꦭꦶꦂꦥꦶꦥꦶꦤ꧀ꦝꦤ꧀꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_33.png,ꦮ꧇꧅ꦮꦤ꧀ꦠꦶꦮꦤ꧀ꦠꦶꦥꦿꦯꦸꦗꦟꦗꦮꦶ꧈,ꦮ꧇꧅ꦮꦤ꧀ꦠꦶꦮꦤ꧀ꦠꦶꦥꦿꦯꦸꦗꦟꦗꦮꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_34.png,ꦝꦝꦥꦸꦏ꧀ꦏꦤ꧀ꦮꦫꦤꦤ꧀ꦤꦶꦫꦲꦾꦁꦮꦶꦝꦶ꧈,ꦝꦝꦥꦸꦏ꧀ꦏꦤ꧀ꦮꦫꦤꦤ꧀ꦤꦶꦫꦲꦾꦁꦮꦶꦝꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_35.png,ꦱꦶꦁꦒꦃꦮꦗꦶꦧ꧀ꦧꦶꦁꦒꦼꦱꦁ꧉,ꦱꦶꦁꦒꦃꦮꦗꦶꦧ꧀ꦧꦶꦁꦒꦼꦱꦁ꧉,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_36.png,ꦝꦱꦂꦠꦸꦲꦸꦤꦺꦩꦸꦁꦏꦽꦤ꧀ꦝ꧈,ꦝꦱꦂꦠꦸꦲꦸꦤꦺꦩꦸꦁꦏꦽꦤ꧀ꦝ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_37.png,ꦱꦒꦢꦸꦏ꧀ꦏꦺꦥꦩ꧀ꦧꦸꦢꦶꦢꦪꦪ꧀ꦮꦏꦺꦴꦁꦱꦶ꧈,ꦱꦒꦢꦸꦏ꧀ꦏꦺꦥꦩ꧀ꦧꦸꦢꦶꦢꦪꦪ꧀ꦮꦏꦺꦴꦁꦱꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_38.png,ꦝꦺꦥꦺꦴꦏ꧀ꦩꦺꦏ꧀ꦱꦶꦏꦼꦝꦸꦁ꧈,ꦝꦺꦥꦺꦴꦏ꧀ꦩꦺꦏ꧀ꦱꦶꦏꦼꦝꦸꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_39.png,ꦱꦫꦶꦫꦏꦸꦢꦸꦭꦸꦩꦏ꧀ꦱ꧈,ꦱꦫꦶꦫꦏꦸꦢꦸꦭꦸꦩꦏ꧀ꦱ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_40.png,ꦝꦶꦫꦶꦩꦶꦤꦺꦴꦁꦏꦮꦝꦃ꧈,ꦝꦶꦫꦶꦩꦶꦤꦺꦴꦁꦏꦮꦝꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_41.png,ꦱꦫꦤꦩꦩꦱꦸꦃ꧈,ꦱꦫꦤꦩꦩꦱꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_42.png,ꦱꦶꦃꦲꦶꦁꦑꦁꦩꦸꦂꦧꦺꦁꦓꦼꦯꦁ꧈,ꦱꦶꦃꦲꦶꦁꦑꦁꦩꦸꦂꦧꦺꦁꦓꦼꦯꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_43.png,ꦝꦤꦩꦂꦠꦥꦂꦩꦤꦶꦁꦮꦶꦝꦶ꧈,ꦝꦤꦩꦂꦠꦥꦂꦩꦤꦶꦁꦮꦶꦝꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_44.png,ꦝꦝꦒ꧀ꦪꦺꦤ꧀ꦮꦸꦱ꧀ꦲꦁꦒꦝꦸꦃ꧈,ꦝꦝꦒ꧀ꦪꦺꦤ꧀ꦮꦸꦱ꧀ꦲꦁꦒꦝꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_45.png,ꦱꦠꦸꦲꦸꦤꦺꦲꦩꦸꦁꦱꦏꦶꦁꦱꦶꦃ꧈,ꦱꦠꦸꦲꦸꦤꦺꦲꦩꦸꦁꦱꦏꦶꦁꦱꦶꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_46.png,ꦱꦧꦫꦁꦏꦁꦫꦶꦤꦱꦸꦏ꧀,ꦱꦧꦫꦁꦏꦁꦫꦶꦤꦱꦸꦏ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_47.png,ꦱꦶꦤꦸꦁꦮꦶꦏꦤ꧀ꦭꦤ꧀ꦥꦱꦏ꧀ꦱꦺꦤ꧀,ꦱꦶꦤꦸꦁꦮꦶꦏꦤ꧀ꦭꦤ꧀ꦥꦱꦏ꧀ꦱꦺꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_48.png,ꦱꦱꦩꦤꦺꦢꦸꦩꦢꦶꦩꦤꦸꦁꦱ꧈,ꦱꦱꦩꦤꦺꦢꦸꦩꦢꦶꦩꦤꦸꦁꦱ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_49.png,ꦝꦩ꧀ꦥꦂꦥꦱꦼꦤꦼꦠ꧀ꦠꦤ꧀ꦒꦼꦝꦺ꧈,ꦝꦩ꧀ꦥꦂꦥꦱꦼꦤꦼꦠ꧀ꦠꦤ꧀ꦒꦼꦝꦺ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_50.png,ꦱ꧇꧅ꦱꦤꦶꦱ꧀ꦏꦫꦥꦩꦂꦢꦶꦩꦫꦶꦁꦱꦶꦃ꧈,ꦱ꧇꧅ꦱꦤꦶꦱ꧀ꦏꦫꦥꦩꦂꦢꦶꦩꦫꦶꦁꦱꦶꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_51.png,ꦝꦶꦤꦏꦸꦩꦿꦶꦁꦱꦱꦤꦤꦺꦁꦝꦝ꧈,ꦝꦶꦤꦏꦸꦩꦿꦶꦁꦱꦱꦤꦤꦺꦁꦝꦝ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_52.png,ꦠꦶꦝꦼꦩ꧀ꦱꦁꦥꦿꦩꦸꦤ꧀ꦝꦶꦠ꧈,ꦠꦶꦝꦼꦩ꧀ꦱꦁꦥꦿꦩꦸꦤ꧀ꦝꦶꦠ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_53.png,ꦝ꧇ ꧅ꦝꦸꦩꦮꦃꦲꦶꦁꦫꦺꦴꦃꦩꦠ꧀ꦏꦁꦏꦥꦸꦤ꧀ꦝꦶ꧈,ꦝ꧇ ꧅ꦝꦸꦩꦮꦃꦲꦶꦁꦫꦺꦴꦃꦩꦠ꧀ꦏꦁꦏꦥꦸꦤ꧀ꦝꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_54.png,ꦠꦠꦠꦼꦤ꧀ꦠꦽꦩ꧀ꦲꦶꦁꦗꦒꦢ꧀ꦠꦤ꧀ꦲꦤꦗꦸꦠꦶ꧈,ꦠꦠꦠꦼꦤ꧀ꦠꦽꦩ꧀ꦲꦶꦁꦗꦒꦢ꧀ꦠꦤ꧀ꦲꦤꦗꦸꦠꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_55.png,ꦥꦶꦤꦱ꧀ꦛꦶꦧꦁꦏꦶꦠ꧀ꦤꦺꦴꦩ꧀ꦥ꧈,ꦥꦶꦤꦱ꧀ꦛꦶꦧꦁꦏꦶꦠ꧀ꦤꦺꦴꦩ꧀ꦥ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_56.png,ꦠꦺꦏꦢ꧀ꦢꦺꦠꦸꦲꦸꦲꦩꦶꦤ꧀ꦠ꧈,ꦠꦺꦏꦢ꧀ꦢꦺꦠꦸꦲꦸꦲꦩꦶꦤ꧀ꦠ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_57.png,ꦥꦶꦤꦺꦠ꧀ꦥꦤꦥꦩꦸꦤꦃꦲꦤꦺꦁꦔꦱꦼꦥꦶ꧈,ꦥꦶꦤꦺꦠ꧀ꦥꦤꦥꦩꦸꦤꦃꦲꦤꦺꦁꦔꦱꦼꦥꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_58.png,ꦠꦾꦱ꧀ꦱꦶꦫꦒꦸꦁꦩꦸꦤ꧀ꦠꦸ,ꦠꦾꦱ꧀ꦱꦶꦫꦒꦸꦁꦩꦸꦤ꧀ꦠꦸ,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_59.png,ꦥꦶꦤꦼꦱꦸꦢꦢꦾꦱꦫꦸꦥ꧈,ꦥꦶꦤꦼꦱꦸꦢꦢꦾꦱꦫꦸꦥ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_60.png,ꦠꦸꦩꦼꦩꦼꦤ꧀ꦠꦫꦏ꧀ꦧꦿꦠ꧈,ꦠꦸꦩꦼꦩꦼꦤ꧀ꦠꦫꦏ꧀ꦧꦿꦠ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_61.png,ꦥꦛꦶꦤꦶꦁꦏꦁꦫꦸꦫꦸꦥꦤ꧀,ꦥꦛꦶꦤꦶꦁꦏꦁꦫꦸꦫꦸꦥꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_62.png,ꦠꦸꦩꦸꦠꦸꦂꦠꦾꦱ꧀ꦭꦸꦩꦶꦤ꧀ꦠꦸ꧈,ꦠꦸꦩꦸꦠꦸꦂꦠꦾꦱ꧀ꦭꦸꦩꦶꦤ꧀ꦠꦸ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_63.png,ꦥꦫꦶꦏꦼꦢꦃꦲꦪꦸꦤ꧀ꦤꦁꦒꦥ꧀ꦥꦶ꧈,ꦥꦫꦶꦏꦼꦢꦃꦲꦪꦸꦤ꧀ꦤꦁꦒꦥ꧀ꦥꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_64.png,ꦠꦺꦠꦺꦏꦶꦱꦂꦮꦠꦭꦠꦺꦤ꧀,ꦠꦺꦠꦺꦏꦶꦱꦂꦮꦠꦭꦠꦺꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_65.png,ꦠꦂꦭꦺꦤ꧀ꦩꦸꦲꦸꦁꦏꦁꦥꦫꦦꦤ꧀ꦝꦶꦠ꧈,ꦠꦂꦭꦺꦤ꧀ꦩꦸꦲꦸꦁꦏꦁꦥꦫꦦꦤ꧀ꦝꦶꦠ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_66.png,ꦠꦠꦒ꧀ꦠꦠꦩꦼꦊꦁꦲꦶꦁꦏꦥ꧀ꦠꦶ꧈,ꦠꦠꦒ꧀ꦠꦠꦩꦼꦊꦁꦲꦶꦁꦏꦥ꧀ꦠꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_67.png,ꦥꦠꦿꦥ꧀ꦥꦶꦁꦥꦸꦢꦾꦤ꧀ꦤꦶꦥꦸꦤ꧀,ꦥꦠꦿꦥ꧀ꦥꦶꦁꦥꦸꦢꦾꦤ꧀ꦤꦶꦥꦸꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_68.png,ꦥꦩꦺꦴꦂꦱꦗꦿꦺꦴꦤꦶꦁꦥꦚꦼꦥꦺꦤ꧀,ꦥꦩꦺꦴꦂꦱꦗꦿꦺꦴꦤꦶꦁꦥꦚꦼꦥꦺꦤ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_69.png,ꦠꦸꦠꦸꦭꦢ꧀ꦢꦤ꧀ꦭꦏ꧀ꦱꦶꦠꦏꦁꦠꦶꦠꦶꦱ꧀,ꦠꦸꦠꦸꦭꦢ꧀ꦢꦤ꧀ꦭꦏ꧀ꦱꦶꦠꦏꦁꦠꦶꦠꦶꦱ꧀,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_70.png,ꦥꦶꦤꦂꦱꦸꦢꦶꦲꦩꦿꦶꦃꦱꦸꦩꦸꦫꦸꦥ꧀ꦥ꧈,ꦥꦶꦤꦂꦱꦸꦢꦶꦲꦩꦿꦶꦃꦱꦸꦩꦸꦫꦸꦥ꧀ꦥ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_71.png,꧅ꦏꦿꦶꦝꦲꦏ꧀ꦱꦫ꧄,꧅ꦏꦿꦶꦝꦲꦏ꧀ꦱꦫ꧄,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_72.png,"ꦥ꧇ ꧅ꦥꦔꦫꦃꦏꦺꦩꦺꦠ꧀ꦠꦼꦥꦥꦭꦸꦥꦶ,","ꦥ꧇ ꧅ꦥꦔꦫꦃꦏꦺꦩꦺꦠ꧀ꦠꦼꦥꦥꦭꦸꦥꦶ,",jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_73.png,ꦪꦸꦮꦤꦤꦶꦁꦥꦁꦒꦪꦸꦃ꧈,ꦪꦸꦮꦤꦤꦶꦁꦥꦁꦒꦪꦸꦃ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_74.png,ꦪꦪꦃꦩꦂꦢꦶꦱꦸꦠꦧꦧꦪꦶ꧈,ꦪꦪꦃꦩꦂꦢꦶꦱꦸꦠꦧꦧꦪꦶ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_75.png,ꦪꦶꦠ꧀ꦤꦩꦢꦾꦺꦁꦲꦂꦱꦪ꧈,ꦪꦶꦠ꧀ꦤꦩꦢꦾꦺꦁꦲꦂꦱꦪ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_76.png,ꦪꦼꦏ꧀ꦠꦶꦏꦁꦏꦶꦤꦪꦸꦤ꧈,ꦪꦼꦏ꧀ꦠꦶꦏꦁꦏꦶꦤꦪꦸꦤ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_77.png,ꦪꦩ꧀ꦪꦩ꧀ꦩꦶꦁꦢꦿꦶꦪꦥꦿꦕꦪ꧈,ꦪꦩ꧀ꦪꦩ꧀ꦩꦶꦁꦢꦿꦶꦪꦥꦿꦕꦪ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_78.png,ꦪꦺꦤ꧀ꦏꦢꦾꦺꦏꦸꦥꦏꦂꦠꦶꦏꦁꦪꦼꦏ꧀ꦠꦶꦒꦺꦪꦶꦁ꧈,ꦪꦺꦤ꧀ꦏꦢꦾꦺꦏꦸꦥꦏꦂꦠꦶꦏꦁꦪꦼꦏ꧀ꦠꦶꦒꦺꦪꦶꦁ꧈,jawa
+https://indo-aksara-image-data.s3.us-east-1.amazonaws.com/Jawa_92_79.png,ꦪ꧀ꦮꦏꦺꦴꦁꦱꦶꦩꦶꦤ꧀ꦝꦺꦴꦏꦂꦪ꧉,ꦪ꧀ꦮꦏꦺꦴꦁꦱꦶꦩꦶꦤ꧀ꦝꦺꦴꦏꦂꦪ꧉,jawa

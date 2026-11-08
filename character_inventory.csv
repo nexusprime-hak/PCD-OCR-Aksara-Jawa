@@ -1,0 +1,113 @@
+﻿character,codepoint,unicode_name,unicode_general_category,combining_class,frequency,is_whitespace,functional_category
+꧀,U+A9C0,JAVANESE PANGKON,Mc,9,2202,False,pangkon
+ꦶ,U+A9B6,JAVANESE VOWEL SIGN WULU,Mn,0,1713,False,sandhangan_vokal
+ꦤ,U+A9A4,JAVANESE LETTER NA,Lo,0,1607,False,aksara_dasar
+ꦸ,U+A9B8,JAVANESE VOWEL SIGN SUKU,Mn,0,1346,False,sandhangan_vokal
+ꦺ,U+A9BA,JAVANESE VOWEL SIGN TALING,Mc,0,1341,False,sandhangan_vokal
+ꦏ,U+A98F,JAVANESE LETTER KA,Lo,0,1210,False,aksara_dasar
+ꦱ,U+A9B1,JAVANESE LETTER SA,Lo,0,945,False,aksara_dasar
+ꦁ,U+A981,JAVANESE SIGN CECAK,Mn,0,936,False,tanda_aksara
+ꦲ,U+A9B2,JAVANESE LETTER HA,Lo,0,860,False,aksara_dasar
+ꦠ,U+A9A0,JAVANESE LETTER TA,Lo,0,851,False,aksara_dasar
+ꦩ,U+A9A9,JAVANESE LETTER MA,Lo,0,801,False,aksara_dasar
+ꦼ,U+A9BC,JAVANESE VOWEL SIGN PEPET,Mn,0,729,False,sandhangan_vokal
+ꦥ,U+A9A5,JAVANESE LETTER PA,Lo,0,671,False,aksara_dasar
+ꦭ,U+A9AD,JAVANESE LETTER LA,Lo,0,649,False,aksara_dasar
+ꦴ,U+A9B4,JAVANESE VOWEL SIGN TARUNG,Mc,0,551,False,sandhangan_vokal
+ꦮ,U+A9AE,JAVANESE LETTER WA,Lo,0,549,False,aksara_dasar
+ꦫ,U+A9AB,JAVANESE LETTER RA,Lo,0,545,False,aksara_dasar
+ꦢ,U+A9A2,JAVANESE LETTER DA,Lo,0,435,False,aksara_dasar
+ꦧ,U+A9A7,JAVANESE LETTER BA,Lo,0,415,False,aksara_dasar
+ꦒ,U+A992,JAVANESE LETTER GA,Lo,0,381,False,aksara_dasar
+ꦔ,U+A994,JAVANESE LETTER NGA,Lo,0,333,False,aksara_dasar
+꧈,U+A9C8,JAVANESE PADA LINGSA,Po,0,319,False,tanda_baca_jawa
+ꦃ,U+A983,JAVANESE SIGN WIGNYAN,Mc,0,304,False,tanda_aksara
+ꦗ,U+A997,JAVANESE LETTER JA,Lo,0,289,False,aksara_dasar
+ꦂ,U+A982,JAVANESE SIGN LAYAR,Mn,0,288,False,tanda_aksara
+ ,U+0020,SPACE,Zs,0,249,True,whitespace
+ꦪ,U+A9AA,JAVANESE LETTER YA,Lo,0,241,False,aksara_dasar
+ꦝ,U+A99D,JAVANESE LETTER DDA,Lo,0,225,False,aksara_dasar
+꧉,U+A9C9,JAVANESE PADA LUNGSI,Po,0,206,False,tanda_baca_jawa
+ꦿ,U+A9BF,JAVANESE CONSONANT SIGN CAKRA,Mc,0,172,False,sandhangan_medial
+ꦚ,U+A99A,JAVANESE LETTER NYA,Lo,0,132,False,aksara_dasar
+꧋,U+A9CB,JAVANESE PADA ADEG ADEG,Po,0,123,False,tanda_baca_jawa
+ꦕ,U+A995,JAVANESE LETTER CA,Lo,0,123,False,aksara_dasar
+‌,U+200C,ZERO WIDTH NON-JOINER,Cf,0,82,False,format_control
+ꦛ,U+A99B,JAVANESE LETTER TTA,Lo,0,75,False,aksara_dasar
+꧇,U+A9C7,JAVANESE PADA PANGKAT,Po,0,66,False,tanda_baca_jawa
+ꦯ,U+A9AF,JAVANESE LETTER SA MURDA,Lo,0,66,False,aksara_murda
+.,U+002E,FULL STOP,Po,0,51,False,tanda_baca_non_jawa
+ꦉ,U+A989,JAVANESE LETTER PA CEREK,Lo,0,49,False,aksara_vokal
+a,U+0061,LATIN SMALL LETTER A,Ll,0,42,False,karakter_non_jawa
+-,U+002D,HYPHEN-MINUS,Pd,0,40,False,tanda_baca_non_jawa
+ꦟ,U+A99F,JAVANESE LETTER NA MURDA,Lo,0,38,False,aksara_murda
+ꦡ,U+A9A1,JAVANESE LETTER TA MURDA,Lo,0,34,False,aksara_murda
+ꦑ,U+A991,JAVANESE LETTER KA MURDA,Lo,0,33,False,aksara_murda
+ꦣ,U+A9A3,JAVANESE LETTER DA MAHAPRANA,Lo,0,33,False,aksara_mahaprana
+ꦾ,U+A9BE,JAVANESE CONSONANT SIGN PENGKAL,Mc,0,31,False,sandhangan_medial
+ꦦ,U+A9A6,JAVANESE LETTER PA MURDA,Lo,0,30,False,aksara_murda
+n,U+006E,LATIN SMALL LETTER N,Ll,0,29,False,karakter_non_jawa
+ꦊ,U+A98A,JAVANESE LETTER NGA LELET,Lo,0,28,False,aksara_vokal
+ꦽ,U+A9BD,JAVANESE CONSONANT SIGN KERET,Mn,0,27,False,sandhangan_medial
+u,U+0075,LATIN SMALL LETTER U,Ll,0,24,False,karakter_non_jawa
+i,U+0069,LATIN SMALL LETTER I,Ll,0,24,False,karakter_non_jawa
+g,U+0067,LATIN SMALL LETTER G,Ll,0,22,False,karakter_non_jawa
+ꦨ,U+A9A8,JAVANESE LETTER BA MURDA,Lo,0,17,False,aksara_murda
+ꦄ,U+A984,JAVANESE LETTER A,Lo,0,15,False,aksara_swara_independen
+r,U+0072,LATIN SMALL LETTER R,Ll,0,14,False,karakter_non_jawa
+k,U+006B,LATIN SMALL LETTER K,Ll,0,14,False,karakter_non_jawa
+d,U+0064,LATIN SMALL LETTER D,Ll,0,11,False,karakter_non_jawa
+꧑,U+A9D1,JAVANESE DIGIT ONE,Nd,0,10,False,angka_jawa
+",",U+002C,COMMA,Po,0,10,False,tanda_baca_non_jawa
+s,U+0073,LATIN SMALL LETTER S,Ll,0,10,False,karakter_non_jawa
+t,U+0074,LATIN SMALL LETTER T,Ll,0,9,False,karakter_non_jawa
+m,U+006D,LATIN SMALL LETTER M,Ll,0,8,False,karakter_non_jawa
+꧅,U+A9C5,JAVANESE PADA LUHUR,Po,0,8,False,tanda_baca_jawa
+ꦓ,U+A993,JAVANESE LETTER GA MURDA,Lo,0,8,False,aksara_murda
+ꦆ,U+A986,JAVANESE LETTER I,Lo,0,7,False,aksara_swara_independen
+h,U+0068,LATIN SMALL LETTER H,Ll,0,7,False,karakter_non_jawa
+w,U+0077,LATIN SMALL LETTER W,Ll,0,7,False,karakter_non_jawa
+p,U+0070,LATIN SMALL LETTER P,Ll,0,7,False,karakter_non_jawa
+o,U+006F,LATIN SMALL LETTER O,Ll,0,6,False,karakter_non_jawa
+ꦎ,U+A98E,JAVANESE LETTER O,Lo,0,5,False,aksara_swara_independen
+ê,U+00EA,LATIN SMALL LETTER E WITH CIRCUMFLEX,Ll,0,4,False,karakter_non_jawa
+ꦌ,U+A98C,JAVANESE LETTER E,Lo,0,3,False,aksara_swara_independen
+é,U+00E9,LATIN SMALL LETTER E WITH ACUTE,Ll,0,3,False,karakter_non_jawa
+j,U+006A,LATIN SMALL LETTER J,Ll,0,3,False,karakter_non_jawa
+(,U+0028,LEFT PARENTHESIS,Ps,0,3,False,tanda_baca_non_jawa
+​,U+200B,ZERO WIDTH SPACE,Cf,0,3,False,format_control
+),U+0029,RIGHT PARENTHESIS,Pe,0,3,False,tanda_baca_non_jawa
+꦳,U+A9B3,JAVANESE SIGN CECAK TELU,Mn,7,3,False,tanda_aksara
+꧓,U+A9D3,JAVANESE DIGIT THREE,Nd,0,3,False,angka_jawa
+l,U+006C,LATIN SMALL LETTER L,Ll,0,3,False,karakter_non_jawa
+꧕,U+A9D5,JAVANESE DIGIT FIVE,Nd,0,2,False,angka_jawa
+è,U+00E8,LATIN SMALL LETTER E WITH GRAVE,Ll,0,2,False,karakter_non_jawa
+y,U+0079,LATIN SMALL LETTER Y,Ll,0,2,False,karakter_non_jawa
+꧙,U+A9D9,JAVANESE DIGIT NINE,Nd,0,2,False,angka_jawa
+꧖,U+A9D6,JAVANESE DIGIT SIX,Nd,0,2,False,angka_jawa
+꧒,U+A9D2,JAVANESE DIGIT TWO,Nd,0,2,False,angka_jawa
+꧔,U+A9D4,JAVANESE DIGIT FOUR,Nd,0,2,False,angka_jawa
+ꦬ,U+A9AC,JAVANESE LETTER RA AGUNG,Lo,0,2,False,aksara_dasar
+ꦈ,U+A988,JAVANESE LETTER U,Lo,0,2,False,aksara_swara_independen
+꧘,U+A9D8,JAVANESE DIGIT EIGHT,Nd,0,1,False,angka_jawa
+S,U+0053,LATIN CAPITAL LETTER S,Lu,0,1,False,karakter_non_jawa
+N,U+004E,LATIN CAPITAL LETTER N,Lu,0,1,False,karakter_non_jawa
+C,U+0043,LATIN CAPITAL LETTER C,Lu,0,1,False,karakter_non_jawa
+K,U+004B,LATIN CAPITAL LETTER K,Lu,0,1,False,karakter_non_jawa
+B,U+0042,LATIN CAPITAL LETTER B,Lu,0,1,False,karakter_non_jawa
+Y,U+0059,LATIN CAPITAL LETTER Y,Lu,0,1,False,karakter_non_jawa
+T,U+0054,LATIN CAPITAL LETTER T,Lu,0,1,False,karakter_non_jawa
+b,U+0062,LATIN SMALL LETTER B,Ll,0,1,False,karakter_non_jawa
+P,U+0050,LATIN CAPITAL LETTER P,Lu,0,1,False,karakter_non_jawa
+ꦋ,U+A98B,JAVANESE LETTER NGA LELET RASWADI,Lo,0,1,False,aksara_vokal
+ꦐ,U+A990,JAVANESE LETTER KA SASAK,Lo,0,1,False,aksara_dasar
+ꦇ,U+A987,JAVANESE LETTER II,Lo,0,1,False,aksara_swara_independen
+8,U+0038,DIGIT EIGHT,Nd,0,1,False,angka_non_jawa
+ꦍ,U+A98D,JAVANESE LETTER AI,Lo,0,1,False,aksara_swara_independen
+4,U+0034,DIGIT FOUR,Nd,0,1,False,angka_non_jawa
+2,U+0032,DIGIT TWO,Nd,0,1,False,angka_non_jawa
+3,U+0033,DIGIT THREE,Nd,0,1,False,angka_non_jawa
+V,U+0056,LATIN CAPITAL LETTER V,Lu,0,1,False,karakter_non_jawa
+1,U+0031,DIGIT ONE,Nd,0,1,False,angka_non_jawa
+6,U+0036,DIGIT SIX,Nd,0,1,False,angka_non_jawa
+꧄,U+A9C4,JAVANESE PADA MADYA,Po,0,1,False,tanda_baca_jawa
