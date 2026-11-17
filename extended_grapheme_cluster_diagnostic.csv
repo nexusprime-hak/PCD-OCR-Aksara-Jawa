@@ -1,0 +1,1080 @@
+﻿cluster,codepoints,frequency,contains_only_javanese_block,contains_pangkon,contains_format_control
+꧈,U+A9C8,319,True,False,False
+ꦫ,U+A9AB,291,True,False,False
+ꦱ,U+A9B1,261,True,False,False
+ꦏ,U+A98F,250,True,False,False
+ꦲ,U+A9B2,247,True,False,False
+꧉,U+A9C9,206,True,False,False
+ꦤ,U+A9A4,202,True,False,False
+ꦥ,U+A9A5,186,True,False,False
+ꦭ,U+A9AD,172,True,False,False
+ꦮꦶ,U+A9AE U+A9B6,153,True,False,False
+ꦩ,U+A9A9,147,True,False,False
+ꦪ,U+A9AA,134,True,False,False
+ꦮ,U+A9AE,128,True,False,False
+ꦠ,U+A9A0,127,True,False,False
+ꦥꦸ,U+A9A5 U+A9B8,124,True,False,False
+꧋,U+A9CB,123,True,False,False
+ꦏꦸ,U+A98F U+A9B8,119,True,False,False
+ꦔ,U+A994,103,True,False,False
+ꦗ,U+A997,100,True,False,False
+ꦤ꧀,U+A9A4 U+A9C0,96,True,True,False
+ꦒ,U+A992,95,True,False,False
+ꦤꦺ,U+A9A4 U+A9BA,94,True,False,False
+ꦲꦶꦁ,U+A9B2 U+A9B6 U+A981,89,True,False,False
+ꦧ,U+A9A7,88,True,False,False
+ꦠꦶ,U+A9A0 U+A9B6,87,True,False,False
+ꦏꦁ,U+A98F U+A981,85,True,False,False
+ꦢꦶ,U+A9A2 U+A9B6,84,True,False,False
+ꦠꦸ,U+A9A0 U+A9B8,82,True,False,False
+ꦲꦸ,U+A9B2 U+A9B8,81,True,False,False
+ꦢ,U+A9A2,77,True,False,False
+ꦲꦶ,U+A9B2 U+A9B6,75,True,False,False
+ꦩꦸ,U+A9A9 U+A9B8,68,True,False,False
+ꦏꦺ,U+A98F U+A9BA,67,True,False,False
+ꦱꦼ,U+A9B1 U+A9BC,67,True,False,False
+ꦱꦸ,U+A9B1 U+A9B8,67,True,False,False
+꧇,U+A9C7,66,True,False,False
+ꦭꦶ,U+A9AD U+A9B6,64,True,False,False
+ꦱꦶ,U+A9B1 U+A9B6,64,True,False,False
+ꦲꦺꦴ,U+A9B2 U+A9BA U+A9B4,63,True,False,False
+ꦮꦺ,U+A9AE U+A9BA,63,True,False,False
+ꦲꦺ,U+A9B2 U+A9BA,62,True,False,False
+ꦏꦼ,U+A98F U+A9BC,62,True,False,False
+ꦫꦸ,U+A9AB U+A9B8,60,True,False,False
+ꦤꦶ,U+A9A4 U+A9B6,59,True,False,False
+ꦠꦼ,U+A9A0 U+A9BC,59,True,False,False
+ꦝ,U+A99D,58,True,False,False
+ꦏꦺꦴ,U+A98F U+A9BA U+A9B4,57,True,False,False
+ꦩꦶ,U+A9A9 U+A9B6,57,True,False,False
+ꦫꦶ,U+A9AB U+A9B6,56,True,False,False
+.,U+002E,51,False,False,False
+ꦭꦸ,U+A9AD U+A9B8,46,True,False,False
+ꦔꦶ,U+A994 U+A9B6,46,True,False,False
+ꦕ,U+A995,45,True,False,False
+ꦏꦶ,U+A98F U+A9B6,44,True,False,False
+a,U+0061,42,False,False,False
+ꦒꦶ,U+A992 U+A9B6,41,True,False,False
+ꦤ꧀ꦠꦼ,U+A9A4 U+A9C0 U+A9A0 U+A9BC,41,True,True,False
+ꦢꦸ,U+A9A2 U+A9B8,41,True,False,False
+-,U+002D,40,False,False,False
+ꦒꦼ,U+A992 U+A9BC,39,True,False,False
+ꦤ꧀ꦤꦶ,U+A9A4 U+A9C0 U+A9A4 U+A9B6,39,True,True,False
+ꦩꦼ,U+A9A9 U+A9BC,39,True,False,False
+ꦤ꧀ꦤꦺ,U+A9A4 U+A9C0 U+A9A4 U+A9BA,39,True,True,False
+ꦧꦸ,U+A9A7 U+A9B8,39,True,False,False
+ꦒꦸ,U+A992 U+A9B8,38,True,False,False
+ꦤ꧀‌,U+A9A4 U+A9C0 U+200C,37,False,True,True
+ꦤꦶꦁ,U+A9A4 U+A9B6 U+A981,37,True,False,False
+ꦫꦁ,U+A9AB U+A981,35,True,False,False
+ꦧꦶ,U+A9A7 U+A9B6,35,True,False,False
+ꦢꦺ,U+A9A2 U+A9BA,35,True,False,False
+ꦥꦶ,U+A9A5 U+A9B6,34,True,False,False
+ꦉ,U+A989,34,True,False,False
+ꦏ꧀ꦏꦺ,U+A98F U+A9C0 U+A98F U+A9BA,32,True,True,False
+ꦥꦿ,U+A9A5 U+A9BF,31,True,False,False
+ꦝꦺ,U+A99D U+A9BA,30,True,False,False
+ꦩꦁ,U+A9A9 U+A981,30,True,False,False
+ꦤ꧀ꦲꦶꦁ,U+A9A4 U+A9C0 U+A9B2 U+A9B6 U+A981,30,True,True,False
+ꦧꦼ,U+A9A7 U+A9BC,30,True,False,False
+ꦫꦺꦴ,U+A9AB U+A9BA U+A9B4,29,True,False,False
+n,U+006E,29,False,False,False
+ꦭꦺꦴ,U+A9AD U+A9BA U+A9B4,28,True,False,False
+ꦮꦺꦴꦁ,U+A9AE U+A9BA U+A9B4 U+A981,28,True,False,False
+ꦤꦸ,U+A9A4 U+A9B8,28,True,False,False
+ꦤꦼ,U+A9A4 U+A9BC,27,True,False,False
+ꦤ꧀ꦤ,U+A9A4 U+A9C0 U+A9A4,27,True,True,False
+ꦔꦼ,U+A994 U+A9BC,27,True,False,False
+ꦔꦺ,U+A994 U+A9BA,27,True,False,False
+ꦊ,U+A98A,27,True,False,False
+ꦱꦶꦁ,U+A9B1 U+A9B6 U+A981,26,True,False,False
+ꦤ꧀ꦲ,U+A9A4 U+A9C0 U+A9B2,26,True,True,False
+ꦤ꧀ꦩ,U+A9A4 U+A9C0 U+A9A9,25,True,True,False
+ꦤ꧀ꦱ,U+A9A4 U+A9C0 U+A9B1,25,True,True,False
+ꦔꦶꦁ,U+A994 U+A9B6 U+A981,24,True,False,False
+ꦠ꧀ꦠ,U+A9A0 U+A9C0 U+A9A0,24,True,True,False
+u,U+0075,24,False,False,False
+i,U+0069,24,False,False,False
+ꦤ꧀ꦝ,U+A9A4 U+A9C0 U+A99D,23,True,True,False
+ꦗꦼꦁ,U+A997 U+A9BC U+A981,23,True,False,False
+ꦪꦸ,U+A9AA U+A9B8,23,True,False,False
+ꦮꦸ,U+A9AE U+A9B8,23,True,False,False
+ꦏ꧀,U+A98F U+A9C0,23,True,True,False
+ꦩꦸꦁ,U+A9A9 U+A9B8 U+A981,22,True,False,False
+ꦒꦺꦴ,U+A992 U+A9BA U+A9B4,22,True,False,False
+ꦚ,U+A99A,22,True,False,False
+ꦱ꧀ꦱ,U+A9B1 U+A9C0 U+A9B1,22,True,True,False
+ꦧꦺꦴ,U+A9A7 U+A9BA U+A9B4,22,True,False,False
+g,U+0067,22,False,False,False
+ꦮꦼ,U+A9AE U+A9BC,21,True,False,False
+ꦭꦶꦃ,U+A9AD U+A9B6 U+A983,21,True,False,False
+ꦤ꧀ꦠꦶ,U+A9A4 U+A9C0 U+A9A0 U+A9B6,21,True,True,False
+ꦏꦂ,U+A98F U+A982,21,True,False,False
+ꦪꦺ,U+A9AA U+A9BA,21,True,False,False
+ꦢꦺꦴ,U+A9A2 U+A9BA U+A9B4,20,True,False,False
+ꦩꦂ,U+A9A9 U+A982,20,True,False,False
+ꦭ꧀ꦭ,U+A9AD U+A9C0 U+A9AD,20,True,True,False
+ꦤ꧀ꦏ,U+A9A4 U+A9C0 U+A98F,20,True,True,False
+ꦤ꧀ꦢ,U+A9A4 U+A9C0 U+A9A2,20,True,True,False
+ꦠꦺꦴ,U+A9A0 U+A9BA U+A9B4,19,True,False,False
+ꦮꦁ,U+A9AE U+A981,19,True,False,False
+ꦏ꧀ꦱ,U+A98F U+A9C0 U+A9B1,19,True,True,False
+ꦗꦶ,U+A997 U+A9B6,18,True,False,False
+ꦣ,U+A9A3,18,True,False,False
+ꦤ꧀ꦭ,U+A9A4 U+A9C0 U+A9AD,18,True,True,False
+ꦩꦺꦴ,U+A9A9 U+A9BA U+A9B4,18,True,False,False
+ꦏꦶꦁ,U+A98F U+A9B6 U+A981,18,True,False,False
+ꦩꦺ,U+A9A9 U+A9BA,18,True,False,False
+ꦩ꧀ꦧ,U+A9A9 U+A9C0 U+A9A7,18,True,True,False
+ꦲꦁ,U+A9B2 U+A981,17,True,False,False
+ꦔꦸ,U+A994 U+A9B8,17,True,False,False
+ꦱ꧀,U+A9B1 U+A9C0,17,True,True,False
+ꦏ꧀ꦲ,U+A98F U+A9C0 U+A9B2,17,True,True,False
+ꦮꦃ,U+A9AE U+A983,17,True,False,False
+ꦠꦺ,U+A9A0 U+A9BA,17,True,False,False
+ꦩ꧀ꦥꦺ,U+A9A9 U+A9C0 U+A9A5 U+A9BA,16,True,True,False
+ꦭꦸꦁ,U+A9AD U+A9B8 U+A981,16,True,False,False
+ꦤ꧀ꦠ,U+A9A4 U+A9C0 U+A9A0,16,True,True,False
+ꦤ꧀ꦥ,U+A9A4 U+A9C0 U+A9A5,16,True,True,False
+ꦫꦺ,U+A9AB U+A9BA,16,True,False,False
+ꦤ꧀ꦢꦶ,U+A9A4 U+A9C0 U+A9A2 U+A9B6,16,True,True,False
+ꦗꦸ,U+A997 U+A9B8,16,True,False,False
+ꦠꦼꦁ,U+A9A0 U+A9BC U+A981,15,True,False,False
+ꦤ꧀ꦠꦸ,U+A9A4 U+A9C0 U+A9A0 U+A9B8,15,True,True,False
+ꦱꦺ,U+A9B1 U+A9BA,15,True,False,False
+ꦱꦂ,U+A9B1 U+A982,15,True,False,False
+ꦥꦁ,U+A9A5 U+A981,15,True,False,False
+ꦚ꧀ꦗꦸꦂ,U+A99A U+A9C0 U+A997 U+A9B8 U+A982,15,True,True,False
+ꦏ꧀ꦏ,U+A98F U+A9C0 U+A98F,15,True,True,False
+ꦤ꧀ꦛꦶ,U+A9A4 U+A9C0 U+A99B U+A9B6,14,True,True,False
+ꦩ꧀,U+A9A9 U+A9C0,14,True,True,False
+ꦤ꧀ꦏꦸ,U+A9A4 U+A9C0 U+A98F U+A9B8,14,True,True,False
+ꦩꦃ,U+A9A9 U+A983,14,True,False,False
+ꦗꦼ,U+A997 U+A9BC,14,True,False,False
+ꦔꦺꦴ,U+A994 U+A9BA U+A9B4,14,True,False,False
+ꦥꦺ,U+A9A5 U+A9BA,14,True,False,False
+ꦕꦶ,U+A995 U+A9B6,14,True,False,False
+r,U+0072,14,False,False,False
+k,U+006B,14,False,False,False
+ꦭ꧀ꦭꦶ,U+A9AD U+A9C0 U+A9AD U+A9B6,13,True,True,False
+ꦥꦼ,U+A9A5 U+A9BC,13,True,False,False
+ꦤꦃ,U+A9A4 U+A983,13,True,False,False
+ꦱ꧀ꦤ,U+A9B1 U+A9C0 U+A9A4,13,True,True,False
+ꦭꦃ,U+A9AD U+A983,13,True,False,False
+ꦫꦸꦁ,U+A9AB U+A9B8 U+A981,13,True,False,False
+ꦱ꧀‌,U+A9B1 U+A9C0 U+200C,13,False,True,True
+ꦡꦺꦴ,U+A9A1 U+A9BA U+A9B4,13,True,False,False
+ꦤ꧀ꦗ,U+A9A4 U+A9C0 U+A997,13,True,True,False
+ꦯꦼ,U+A9AF U+A9BC,13,True,False,False
+ꦮꦺꦴ,U+A9AE U+A9BA U+A9B4,12,True,False,False
+ꦒꦸꦃ,U+A992 U+A9B8 U+A983,12,True,False,False
+ꦩ꧀ꦧꦺ,U+A9A9 U+A9C0 U+A9A7 U+A9BA,12,True,True,False
+ꦭꦶꦁ,U+A9AD U+A9B6 U+A981,12,True,False,False
+ꦱ꧀ꦱꦶ,U+A9B1 U+A9C0 U+A9B1 U+A9B6,12,True,True,False
+ꦩ꧀ꦥꦸ,U+A9A9 U+A9C0 U+A9A5 U+A9B8,12,True,True,False
+ꦝꦶ,U+A99D U+A9B6,12,True,False,False
+ꦏ꧀‌,U+A98F U+A9C0 U+200C,12,False,True,True
+ꦠ꧀,U+A9A0 U+A9C0,12,True,True,False
+ꦏ꧀ꦩ,U+A98F U+A9C0 U+A9A9,11,True,True,False
+ꦤ꧀ꦤꦶꦁ,U+A9A4 U+A9C0 U+A9A4 U+A9B6 U+A981,11,True,True,False
+ꦤꦺꦃ,U+A9A4 U+A9BA U+A983,11,True,False,False
+ꦤ꧀ꦥꦶ,U+A9A4 U+A9C0 U+A9A5 U+A9B6,11,True,True,False
+ꦉꦁ,U+A989 U+A981,11,True,False,False
+ꦏ꧀ꦭ,U+A98F U+A9C0 U+A9AD,11,True,True,False
+ꦤꦺꦴ,U+A9A4 U+A9BA U+A9B4,11,True,False,False
+ꦤꦼꦁ,U+A9A4 U+A9BC U+A981,11,True,False,False
+ꦏ꧀ꦏꦶ,U+A98F U+A9C0 U+A98F U+A9B6,11,True,True,False
+ꦭꦺ,U+A9AD U+A9BA,11,True,False,False
+ꦒꦺ,U+A992 U+A9BA,11,True,False,False
+ꦫꦃ,U+A9AB U+A983,11,True,False,False
+ꦱ꧀ꦱꦺ,U+A9B1 U+A9C0 U+A9B1 U+A9BA,11,True,True,False
+ꦚꦸ,U+A99A U+A9B8,11,True,False,False
+ꦯꦸ,U+A9AF U+A9B8,11,True,False,False
+ꦤ꧀ꦝꦶ,U+A9A4 U+A9C0 U+A99D U+A9B6,11,True,True,False
+d,U+0064,11,False,False,False
+ꦭꦂ,U+A9AD U+A982,10,True,False,False
+ꦤꦸꦁ,U+A9A4 U+A9B8 U+A981,10,True,False,False
+꧑,U+A9D1,10,True,False,False
+ꦯꦶ,U+A9AF U+A9B6,10,True,False,False
+ꦩ꧀ꦧꦸꦁ,U+A9A9 U+A9C0 U+A9A7 U+A9B8 U+A981,10,True,True,False
+ꦤ꧀ꦛ,U+A9A4 U+A9C0 U+A99B,10,True,True,False
+ꦄ,U+A984,10,True,False,False
+ꦪꦁ,U+A9AA U+A981,10,True,False,False
+ꦤ꧀ꦲꦶ,U+A9A4 U+A9C0 U+A9B2 U+A9B6,10,True,True,False
+ꦑꦸ,U+A991 U+A9B8,10,True,False,False
+ꦦ,U+A9A6,10,True,False,False
+ꦚꦁ,U+A99A U+A981,10,True,False,False
+ꦠ꧀ꦲ,U+A9A0 U+A9C0 U+A9B2,10,True,True,False
+ꦒꦶꦃ,U+A992 U+A9B6 U+A983,10,True,False,False
+ꦱꦶꦃ,U+A9B1 U+A9B6 U+A983,10,True,False,False
+s,U+0073,10,False,False,False
+",",U+002C,10,False,False,False
+ꦠ꧀‌,U+A9A0 U+A9C0 U+200C,9,False,True,True
+ꦠꦿ,U+A9A0 U+A9BF,9,True,False,False
+ꦪꦃ,U+A9AA U+A983,9,True,False,False
+ꦤ꧀ꦥꦸ,U+A9A4 U+A9C0 U+A9A5 U+A9B8,9,True,True,False
+ꦧꦺ,U+A9A7 U+A9BA,9,True,False,False
+ꦲꦂ,U+A9B2 U+A982,9,True,False,False
+ꦩꦺꦴꦁ,U+A9A9 U+A9BA U+A9B4 U+A981,9,True,False,False
+ꦫꦶꦁ,U+A9AB U+A9B6 U+A981,9,True,False,False
+ꦛ,U+A99B,9,True,False,False
+ꦒ꧀ꦒꦺ,U+A992 U+A9C0 U+A992 U+A9BA,9,True,True,False
+ꦤ꧀ꦧ,U+A9A4 U+A9C0 U+A9A7,9,True,True,False
+ꦔꦽ,U+A994 U+A9BD,9,True,False,False
+ꦥꦿꦶ,U+A9A5 U+A9BF U+A9B6,9,True,False,False
+ꦡꦶ,U+A9A1 U+A9B6,9,True,False,False
+t,U+0074,9,False,False,False
+ꦪꦺꦴ,U+A9AA U+A9BA U+A9B4,8,True,False,False
+ꦚ꧀ꦗ,U+A99A U+A9C0 U+A997,8,True,True,False
+ꦗꦺꦴ,U+A997 U+A9BA U+A9B4,8,True,False,False
+ꦤ꧀ꦝꦼ,U+A9A4 U+A9C0 U+A99D U+A9BC,8,True,True,False
+ꦭ꧀,U+A9AD U+A9C0,8,True,True,False
+ꦤ꧀ꦲꦸ,U+A9A4 U+A9C0 U+A9B2 U+A9B8,8,True,True,False
+ꦒꦸꦁ,U+A992 U+A9B8 U+A981,8,True,False,False
+ꦚ꧀ꦕꦺ,U+A99A U+A9C0 U+A995 U+A9BA,8,True,True,False
+ꦤ꧀ꦢꦸ,U+A9A4 U+A9C0 U+A9A2 U+A9B8,8,True,True,False
+ꦚꦼ,U+A99A U+A9BC,8,True,False,False
+ꦪꦼ,U+A9AA U+A9BC,8,True,False,False
+ꦭꦺꦃ,U+A9AD U+A9BA U+A983,8,True,False,False
+ꦝꦃ,U+A99D U+A983,8,True,False,False
+ꦤ꧀ꦩꦸ,U+A9A4 U+A9C0 U+A9A9 U+A9B8,8,True,True,False
+ꦭꦁ,U+A9AD U+A981,8,True,False,False
+ꦤ꧀ꦝꦸ,U+A9A4 U+A9C0 U+A99D U+A9B8,8,True,True,False
+ꦢ꧀ꦢ,U+A9A2 U+A9C0 U+A9A2,8,True,True,False
+ꦠ꧀ꦠꦶ,U+A9A0 U+A9C0 U+A9A0 U+A9B6,8,True,True,False
+ꦕꦼ,U+A995 U+A9BC,8,True,False,False
+ꦒꦃ,U+A992 U+A983,8,True,False,False
+ꦩꦸꦂ,U+A9A9 U+A9B8 U+A982,8,True,False,False
+ꦩꦼꦁ,U+A9A9 U+A9BC U+A981,8,True,False,False
+m,U+006D,8,False,False,False
+꧅,U+A9C5,8,True,False,False
+ꦥ꧀,U+A9A5 U+A9C0,7,True,True,False
+ꦤ꧀ꦢꦺ,U+A9A4 U+A9C0 U+A9A2 U+A9BA,7,True,True,False
+ꦪꦶ,U+A9AA U+A9B6,7,True,False,False
+ꦤ꧀ꦮ,U+A9A4 U+A9C0 U+A9AE,7,True,True,False
+ꦩ꧀ꦧꦸ,U+A9A9 U+A9C0 U+A9A7 U+A9B8,7,True,True,False
+ꦥꦺꦴ,U+A9A5 U+A9BA U+A9B4,7,True,False,False
+ꦏꦃ,U+A98F U+A983,7,True,False,False
+ꦚ꧀ꦕ,U+A99A U+A9C0 U+A995,7,True,True,False
+ꦩ꧀ꦭꦼ,U+A9A9 U+A9C0 U+A9AD U+A9BC,7,True,True,False
+ꦥ꧀ꦲ,U+A9A5 U+A9C0 U+A9B2,7,True,True,False
+ꦝꦸ,U+A99D U+A9B8,7,True,False,False
+ꦆ,U+A986,7,True,False,False
+ꦢꦾ,U+A9A2 U+A9BE,7,True,False,False
+ꦱ꧀ꦛꦶ,U+A9B1 U+A9C0 U+A99B U+A9B6,7,True,True,False
+ꦱ꧀ꦠꦶ,U+A9B1 U+A9C0 U+A9A0 U+A9B6,7,True,True,False
+w,U+0077,7,False,False,False
+p,U+0070,7,False,False,False
+h,U+0068,7,False,False,False
+ꦠ꧀ꦠꦺ,U+A9A0 U+A9C0 U+A9A0 U+A9BA,6,True,True,False
+ꦩ꧀ꦧꦺꦴ,U+A9A9 U+A9C0 U+A9A7 U+A9BA U+A9B4,6,True,True,False
+ꦱꦸꦂ,U+A9B1 U+A9B8 U+A982,6,True,False,False
+ꦔꦃ,U+A994 U+A983,6,True,False,False
+ꦤ꧀ꦤꦼ,U+A9A4 U+A9C0 U+A9A4 U+A9BC,6,True,True,False
+ꦭ꧀ꦲꦶꦁ,U+A9AD U+A9C0 U+A9B2 U+A9B6 U+A981,6,True,True,False
+ꦠꦸꦂ,U+A9A0 U+A9B8 U+A982,6,True,False,False
+ꦩ꧀ꦧꦼ,U+A9A9 U+A9C0 U+A9A7 U+A9BC,6,True,True,False
+ꦮꦸꦃ,U+A9AE U+A9B8 U+A983,6,True,False,False
+ꦲꦼ,U+A9B2 U+A9BC,6,True,False,False
+ꦤ꧀ꦕ,U+A9A4 U+A9C0 U+A995,6,True,True,False
+ꦠ꧀ꦲꦶꦁ,U+A9A0 U+A9C0 U+A9B2 U+A9B6 U+A981,6,True,True,False
+ꦥꦶꦁ,U+A9A5 U+A9B6 U+A981,6,True,False,False
+ꦤ꧀ꦔ,U+A9A4 U+A9C0 U+A994,6,True,True,False
+ꦥ꧀ꦥꦶꦁ,U+A9A5 U+A9C0 U+A9A5 U+A9B6 U+A981,6,True,True,False
+ꦏ꧀ꦮ,U+A98F U+A9C0 U+A9AE,6,True,True,False
+ꦟ꧀ꦝꦸ,U+A99F U+A9C0 U+A99D U+A9B8,6,True,True,False
+ꦠ꧀ꦦ,U+A9A0 U+A9C0 U+A9A6,6,True,True,False
+ꦱ꧀ꦮ,U+A9B1 U+A9C0 U+A9AE,6,True,True,False
+ꦤꦁ,U+A9A4 U+A981,6,True,False,False
+ꦱꦺꦴꦂ,U+A9B1 U+A9BA U+A9B4 U+A982,6,True,False,False
+ꦤ꧀ꦧꦺꦴ,U+A9A4 U+A9C0 U+A9A7 U+A9BA U+A9B4,6,True,True,False
+ꦛꦶ,U+A99B U+A9B6,6,True,False,False
+ꦑ,U+A991,6,True,False,False
+ꦗꦂ,U+A997 U+A982,6,True,False,False
+ꦮꦂ,U+A9AE U+A982,6,True,False,False
+ꦩ꧀ꦧꦃ,U+A9A9 U+A9C0 U+A9A7 U+A983,6,True,True,False
+ꦛꦺꦴ,U+A99B U+A9BA U+A9B4,6,True,False,False
+ꦥ꧀ꦥ,U+A9A5 U+A9C0 U+A9A5,6,True,True,False
+ꦩ꧀ꦥꦸꦁ,U+A9A9 U+A9C0 U+A9A5 U+A9B8 U+A981,6,True,True,False
+ꦠꦾ,U+A9A0 U+A9BE,6,True,False,False
+ꦱꦁ,U+A9B1 U+A981,6,True,False,False
+ꦱ꧀ꦲꦶꦁ,U+A9B1 U+A9C0 U+A9B2 U+A9B6 U+A981,6,True,True,False
+ꦤ꧀ꦢꦼ,U+A9A4 U+A9C0 U+A9A2 U+A9BC,6,True,True,False
+o,U+006F,6,False,False,False
+ꦪ꧀ꦮ,U+A9AA U+A9C0 U+A9AE,6,True,True,False
+ꦩ꧀ꦩꦺ,U+A9A9 U+A9C0 U+A9A9 U+A9BA,5,True,True,False
+ꦩꦿꦶ,U+A9A9 U+A9BF U+A9B6,5,True,False,False
+ꦤꦂ,U+A9A4 U+A982,5,True,False,False
+ꦧ꧀ꦱꦶ,U+A9A7 U+A9C0 U+A9B1 U+A9B6,5,True,True,False
+ꦏꦾ,U+A98F U+A9BE,5,True,False,False
+ꦚ꧀ꦗꦶꦁ,U+A99A U+A9C0 U+A997 U+A9B6 U+A981,5,True,True,False
+ꦱꦸꦁ,U+A9B1 U+A9B8 U+A981,5,True,False,False
+ꦢꦼ,U+A9A2 U+A9BC,5,True,False,False
+ꦱ꧀ꦠꦸ,U+A9B1 U+A9C0 U+A9A0 U+A9B8,5,True,True,False
+ꦗꦿꦺꦴ,U+A997 U+A9BF U+A9BA U+A9B4,5,True,False,False
+ꦭ꧀‌,U+A9AD U+A9C0 U+200C,5,False,True,True
+ꦟ,U+A99F,5,True,False,False
+ꦤ꧀ꦠꦺꦴ,U+A9A4 U+A9C0 U+A9A0 U+A9BA U+A9B4,5,True,True,False
+ꦱ꧀ꦗ,U+A9B1 U+A9C0 U+A997,5,True,True,False
+ꦫꦺꦃ,U+A9AB U+A9BA U+A983,5,True,False,False
+ꦣꦶ,U+A9A3 U+A9B6,5,True,False,False
+ꦕꦃ,U+A995 U+A983,5,True,False,False
+ꦝꦺꦴ,U+A99D U+A9BA U+A9B4,5,True,False,False
+ꦠꦿꦶ,U+A9A0 U+A9BF U+A9B6,5,True,False,False
+ꦭ꧀ꦩ,U+A9AD U+A9C0 U+A9A9,5,True,True,False
+ꦯ,U+A9AF,5,True,False,False
+ꦩ꧀ꦩ,U+A9A9 U+A9C0 U+A9A9,5,True,True,False
+ꦠꦁ,U+A9A0 U+A981,5,True,False,False
+ꦱ꧀ꦲ,U+A9B1 U+A9C0 U+A9B2,5,True,True,False
+ꦔꦿ,U+A994 U+A9BF,5,True,False,False
+ꦩ꧀ꦧꦁ,U+A9A9 U+A9C0 U+A9A7 U+A981,5,True,True,False
+ꦦꦿ,U+A9A6 U+A9BF,5,True,False,False
+ꦧꦂ,U+A9A7 U+A982,5,True,False,False
+ꦤ꧀ꦛꦸ,U+A9A4 U+A9C0 U+A99B U+A9B8,5,True,True,False
+ꦩ꧀ꦭ,U+A9A9 U+A9C0 U+A9AD,5,True,True,False
+ꦤ꧀ꦱꦸ,U+A9A4 U+A9C0 U+A9B1 U+A9B8,5,True,True,False
+ꦭ꧀ꦲ,U+A9AD U+A9C0 U+A9B2,5,True,True,False
+ꦱ꧀ꦏ,U+A9B1 U+A9C0 U+A98F,5,True,True,False
+ꦤ꧀ꦝꦺꦴ,U+A9A4 U+A9C0 U+A99D U+A9BA U+A9B4,5,True,True,False
+ꦟ꧀ꦠꦶ,U+A99F U+A9C0 U+A9A0 U+A9B6,5,True,True,False
+ꦤ꧀ꦝꦺ,U+A9A4 U+A9C0 U+A99D U+A9BA,5,True,True,False
+ꦨ,U+A9A8,5,True,False,False
+ꦤ꧀ꦱꦶꦁ,U+A9A4 U+A9C0 U+A9B1 U+A9B6 U+A981,5,True,True,False
+ꦲꦸꦁ,U+A9B2 U+A9B8 U+A981,5,True,False,False
+ꦏꦺꦴꦁ,U+A98F U+A9BA U+A9B4 U+A981,5,True,False,False
+ꦏ꧀ꦠꦸ,U+A98F U+A9C0 U+A9A0 U+A9B8,5,True,True,False
+ꦏ꧀ꦗ,U+A98F U+A9C0 U+A997,5,True,True,False
+ꦏ꧀ꦠꦶ,U+A98F U+A9C0 U+A9A0 U+A9B6,5,True,True,False
+ꦩꦿꦶꦃ,U+A9A9 U+A9BF U+A9B6 U+A983,5,True,False,False
+ꦏ꧀ꦲꦸ,U+A98F U+A9C0 U+A9B2 U+A9B8,5,True,True,False
+ꦢꦃ,U+A9A2 U+A983,4,True,False,False
+ꦔ꧀ꦭ,U+A994 U+A9C0 U+A9AD,4,True,True,False
+ꦠ꧀ꦱ,U+A9A0 U+A9C0 U+A9B1,4,True,True,False
+ꦥꦼꦂ,U+A9A5 U+A9BC U+A982,4,True,False,False
+ꦔꦿꦶ,U+A994 U+A9BF U+A9B6,4,True,False,False
+ꦡ,U+A9A1,4,True,False,False
+ꦏꦸꦂ,U+A98F U+A9B8 U+A982,4,True,False,False
+ꦥ꧀ꦱ,U+A9A5 U+A9C0 U+A9B1,4,True,True,False
+ꦒꦽ,U+A992 U+A9BD,4,True,False,False
+ꦩꦺꦴꦂ,U+A9A9 U+A9BA U+A9B4 U+A982,4,True,False,False
+ꦭ꧀ꦢꦶ,U+A9AD U+A9C0 U+A9A2 U+A9B6,4,True,True,False
+ꦏꦿꦶ,U+A98F U+A9BF U+A9B6,4,True,False,False
+ꦄꦁ,U+A984 U+A981,4,True,False,False
+ꦱ꧀ꦠ,U+A9B1 U+A9C0 U+A9A0,4,True,True,False
+ꦮꦶꦃ,U+A9AE U+A9B6 U+A983,4,True,False,False
+ꦏ꧀ꦱꦶꦃ,U+A98F U+A9C0 U+A9B1 U+A9B6 U+A983,4,True,True,False
+ꦛꦃ,U+A99B U+A983,4,True,False,False
+ꦭꦶꦂ,U+A9AD U+A9B6 U+A982,4,True,False,False
+ꦏ꧀ꦧ,U+A98F U+A9C0 U+A9A7,4,True,True,False
+ꦠ꧀ꦩ,U+A9A0 U+A9C0 U+A9A9,4,True,True,False
+ꦠꦽ,U+A9A0 U+A9BD,4,True,False,False
+ꦏꦶꦂ,U+A98F U+A9B6 U+A982,4,True,False,False
+ꦱ꧀ꦲꦺꦴ,U+A9B1 U+A9C0 U+A9B2 U+A9BA U+A9B4,4,True,True,False
+ꦤ꧀ꦲꦺꦴ,U+A9A4 U+A9C0 U+A9B2 U+A9BA U+A9B4,4,True,True,False
+ꦭ꧀ꦥꦸ,U+A9AD U+A9C0 U+A9A5 U+A9B8,4,True,True,False
+ꦱ꧀ꦥ,U+A9B1 U+A9C0 U+A9A5,4,True,True,False
+ꦤ꧀ꦚ,U+A9A4 U+A9C0 U+A99A,4,True,True,False
+ꦏ꧀ꦱꦶ,U+A98F U+A9C0 U+A9B1 U+A9B6,4,True,True,False
+ꦏ꧀ꦲꦺꦴ,U+A98F U+A9C0 U+A9B2 U+A9BA U+A9B4,4,True,True,False
+ꦱ꧀ꦠꦿ,U+A9B1 U+A9C0 U+A9A0 U+A9BF,4,True,True,False
+ꦭ꧀ꦭꦺ,U+A9AD U+A9C0 U+A9AD U+A9BA,4,True,True,False
+ꦠꦼꦂ,U+A9A0 U+A9BC U+A982,4,True,False,False
+ꦧ꧀ꦧ,U+A9A7 U+A9C0 U+A9A7,4,True,True,False
+ꦑꦺꦴ,U+A991 U+A9BA U+A9B4,4,True,False,False
+ꦏꦸꦁ,U+A98F U+A9B8 U+A981,4,True,False,False
+ꦔꦁ,U+A994 U+A981,4,True,False,False
+ꦤ꧀ꦱꦶ,U+A9A4 U+A9C0 U+A9B1 U+A9B6,4,True,True,False
+ꦝꦼ,U+A99D U+A9BC,4,True,False,False
+ꦝꦁ,U+A99D U+A981,4,True,False,False
+ꦯ꧀ꦠ,U+A9AF U+A9C0 U+A9A0,4,True,True,False
+ꦗꦺ,U+A997 U+A9BA,4,True,False,False
+ꦥ꧀ꦥꦶ,U+A9A5 U+A9C0 U+A9A5 U+A9B6,4,True,True,False
+ꦒ꧀ꦗ,U+A992 U+A9C0 U+A997,4,True,True,False
+ꦏ꧀ꦤ,U+A98F U+A9C0 U+A9A4,4,True,True,False
+ꦧ꧀ꦢ,U+A9A7 U+A9C0 U+A9A2,4,True,True,False
+ꦒ꧀ꦒ,U+A992 U+A9C0 U+A992,4,True,True,False
+ꦠꦶꦁ,U+A9A0 U+A9B6 U+A981,4,True,False,False
+ꦡꦂ,U+A9A1 U+A982,4,True,False,False
+ê,U+00EA,4,False,False,False
+ꦨꦿ,U+A9A8 U+A9BF,4,True,False,False
+ꦒꦼꦁ,U+A992 U+A9BC U+A981,4,True,False,False
+ꦩ꧀ꦧꦸꦃ,U+A9A9 U+A9C0 U+A9A7 U+A9B8 U+A983,4,True,True,False
+ꦮꦺꦃ,U+A9AE U+A9BA U+A983,4,True,False,False
+ꦒꦾ,U+A992 U+A9BE,4,True,False,False
+ꦠ꧀ꦏꦸ,U+A9A0 U+A9C0 U+A98F U+A9B8,3,True,True,False
+ꦏ꧀ꦏꦸ,U+A98F U+A9C0 U+A98F U+A9B8,3,True,True,False
+ꦲꦶꦂ,U+A9B2 U+A9B6 U+A982,3,True,False,False
+ꦤ꧀ꦧꦶ,U+A9A4 U+A9C0 U+A9A7 U+A9B6,3,True,True,False
+ꦱꦺꦴ,U+A9B1 U+A9BA U+A9B4,3,True,False,False
+ꦭꦺꦴꦁ,U+A9AD U+A9BA U+A9B4 U+A981,3,True,False,False
+ꦤ꧀ꦏꦶ,U+A9A4 U+A9C0 U+A98F U+A9B6,3,True,True,False
+ꦕꦸ,U+A995 U+A9B8,3,True,False,False
+ꦏ꧀ꦠ,U+A98F U+A9C0 U+A9A0,3,True,True,False
+ꦧ꧀ꦭꦼ,U+A9A7 U+A9C0 U+A9AD U+A9BC,3,True,True,False
+ꦱ꧀ꦢꦶ,U+A9B1 U+A9C0 U+A9A2 U+A9B6,3,True,True,False
+ꦤꦺꦴꦁ,U+A9A4 U+A9BA U+A9B4 U+A981,3,True,False,False
+ꦠ꧀ꦠꦼ,U+A9A0 U+A9C0 U+A9A0 U+A9BC,3,True,True,False
+ꦏ꧀ꦭꦼ,U+A98F U+A9C0 U+A9AD U+A9BC,3,True,True,False
+ꦤ꧀ꦠꦼꦂ,U+A9A4 U+A9C0 U+A9A0 U+A9BC U+A982,3,True,True,False
+ꦔꦼꦂ,U+A994 U+A9BC U+A982,3,True,False,False
+ꦢꦂ,U+A9A2 U+A982,3,True,False,False
+ꦥꦸꦂ,U+A9A5 U+A9B8 U+A982,3,True,False,False
+ꦗꦃ,U+A997 U+A983,3,True,False,False
+ꦚ꧀ꦕꦶ,U+A99A U+A9C0 U+A995 U+A9B6,3,True,True,False
+(,U+0028,3,False,False,False
+),U+0029,3,False,False,False
+ꦏꦿ,U+A98F U+A9BF,3,True,False,False
+ꦭ꧀ꦩꦼ,U+A9AD U+A9C0 U+A9A9 U+A9BC,3,True,True,False
+ꦏ꧀ꦕꦼ,U+A98F U+A9C0 U+A995 U+A9BC,3,True,True,False
+ꦩ꧀ꦱ,U+A9A9 U+A9C0 U+A9B1,3,True,True,False
+ꦏꦿꦺ,U+A98F U+A9BF U+A9BA,3,True,False,False
+ꦏ꧀ꦠꦼꦂ,U+A98F U+A9C0 U+A9A0 U+A9BC U+A982,3,True,True,False
+ꦤꦺꦁ,U+A9A4 U+A9BA U+A981,3,True,False,False
+ꦤ꧀ꦠꦁ,U+A9A4 U+A9C0 U+A9A0 U+A981,3,True,True,False
+ꦒꦼꦂ,U+A992 U+A9BC U+A982,3,True,False,False
+ꦩ꧀ꦩꦶ,U+A9A9 U+A9C0 U+A9A9 U+A9B6,3,True,True,False
+ꦤ꧀ꦏꦼ,U+A9A4 U+A9C0 U+A98F U+A9BC,3,True,True,False
+ꦫꦶꦃ,U+A9AB U+A9B6 U+A983,3,True,False,False
+ꦱ꧀ꦒꦼ,U+A9B1 U+A9C0 U+A992 U+A9BC,3,True,True,False
+ꦧꦿ,U+A9A7 U+A9BF,3,True,False,False
+ꦩ꧀ꦧꦶ,U+A9A9 U+A9C0 U+A9A7 U+A9B6,3,True,True,False
+ꦤ꧀ꦝꦁ,U+A9A4 U+A9C0 U+A99D U+A981,3,True,True,False
+ꦠ꧀ꦒ,U+A9A0 U+A9C0 U+A992,3,True,True,False
+ꦛꦼ,U+A99B U+A9BC,3,True,False,False
+ꦚ꧀ꦗꦼ,U+A99A U+A9C0 U+A997 U+A9BC,3,True,True,False
+ꦒꦂ,U+A992 U+A982,3,True,False,False
+ꦲꦺꦁ,U+A9B2 U+A9BA U+A981,3,True,False,False
+ꦩꦼꦂ,U+A9A9 U+A9BC U+A982,3,True,False,False
+ꦤ꧀ꦔꦸ,U+A9A4 U+A9C0 U+A994 U+A9B8,3,True,True,False
+ꦕꦿꦶ,U+A995 U+A9BF U+A9B6,3,True,False,False
+ꦒꦁ,U+A992 U+A981,3,True,False,False
+ꦤ꧀ꦩꦂ,U+A9A4 U+A9C0 U+A9A9 U+A982,3,True,True,False
+ꦒꦶꦂ,U+A992 U+A9B6 U+A982,3,True,False,False
+ꦤ꧀ꦩꦼ,U+A9A4 U+A9C0 U+A9A9 U+A9BC,3,True,True,False
+ꦟꦶ,U+A99F U+A9B6,3,True,False,False
+ꦠꦿꦺ,U+A9A0 U+A9BF U+A9BA,3,True,False,False
+ꦤ꧀ꦯꦼ,U+A9A4 U+A9C0 U+A9AF U+A9BC,3,True,True,False
+ꦩ꧀‌,U+A9A9 U+A9C0 U+200C,3,False,True,True
+ꦏ꧀ꦝꦺ,U+A98F U+A9C0 U+A99D U+A9BA,3,True,True,False
+ꦗꦁ,U+A997 U+A981,3,True,False,False
+ꦧ꧀ꦧꦺ,U+A9A7 U+A9C0 U+A9A7 U+A9BA,3,True,True,False
+ꦏ꧀ꦥꦶ,U+A98F U+A9C0 U+A9A5 U+A9B6,3,True,True,False
+ꦠ꧀ꦥ,U+A9A0 U+A9C0 U+A9A5,3,True,True,False
+꧓,U+A9D3,3,True,False,False
+ꦤ꧀ꦫ,U+A9A4 U+A9C0 U+A9AB,3,True,True,False
+ꦤ꧀ꦲꦁ,U+A9A4 U+A9C0 U+A9B2 U+A981,3,True,True,False
+ꦧꦁ,U+A9A7 U+A981,3,True,False,False
+ꦟ꧀ꦠ,U+A99F U+A9C0 U+A9A0,3,True,True,False
+ꦤ꧀ꦮꦶ,U+A9A4 U+A9C0 U+A9AE U+A9B6,3,True,True,False
+ꦤ꧀ꦢꦸꦂ,U+A9A4 U+A9C0 U+A9A2 U+A9B8 U+A982,3,True,True,False
+ꦤ꧀ꦮꦼ,U+A9A4 U+A9C0 U+A9AE U+A9BC,3,True,True,False
+ꦢꦿ,U+A9A2 U+A9BF,3,True,False,False
+ꦝꦸꦃ,U+A99D U+A9B8 U+A983,3,True,False,False
+ꦭꦸꦃ,U+A9AD U+A9B8 U+A983,3,True,False,False
+ꦧꦺꦃ,U+A9A7 U+A9BA U+A983,3,True,False,False
+ꦔꦸꦁ,U+A994 U+A9B8 U+A981,3,True,False,False
+​,U+200B,3,False,False,True
+ꦱ꧀ꦲꦸ,U+A9B1 U+A9C0 U+A9B2 U+A9B8,3,True,True,False
+ꦱꦃ,U+A9B1 U+A983,3,True,False,False
+j,U+006A,3,False,False,False
+l,U+006C,3,False,False,False
+é,U+00E9,3,False,False,False
+ꦨꦿꦃ,U+A9A8 U+A9BF U+A983,3,True,False,False
+ꦮꦿꦸꦃ,U+A9AE U+A9BF U+A9B8 U+A983,3,True,False,False
+ꦏ꧀ꦥ,U+A98F U+A9C0 U+A9A5,3,True,True,False
+ꦢꦺꦴꦃ,U+A9A2 U+A9BA U+A9B4 U+A983,3,True,False,False
+ꦩ꧀ꦥ,U+A9A9 U+A9C0 U+A9A5,3,True,True,False
+ꦥꦼꦁ,U+A9A5 U+A9BC U+A981,3,True,False,False
+ꦌ,U+A98C,3,True,False,False
+ꦤꦼꦂ,U+A9A4 U+A9BC U+A982,3,True,False,False
+ꦔꦿꦸ,U+A994 U+A9BF U+A9B8,3,True,False,False
+ꦱ꧀ꦩ,U+A9B1 U+A9C0 U+A9A9,2,True,True,False
+ꦧ꧀ꦭꦺꦴ,U+A9A7 U+A9C0 U+A9AD U+A9BA U+A9B4,2,True,True,False
+ꦱ꧀ꦝ,U+A9B1 U+A9C0 U+A99D,2,True,True,False
+ꦣꦺ,U+A9A3 U+A9BA,2,True,False,False
+ꦤ꧀ꦏꦺꦁ,U+A9A4 U+A9C0 U+A98F U+A9BA U+A981,2,True,True,False
+ꦤ꧀ꦏꦺ,U+A9A4 U+A9C0 U+A98F U+A9BA,2,True,True,False
+ꦤ꧀ꦮꦺꦴ,U+A9A4 U+A9C0 U+A9AE U+A9BA U+A9B4,2,True,True,False
+ꦎꦁ,U+A98E U+A981,2,True,False,False
+꧕,U+A9D5,2,True,False,False
+ꦒ꧀,U+A992 U+A9C0,2,True,True,False
+ꦩꦿꦃ,U+A9A9 U+A9BF U+A983,2,True,False,False
+ꦱ꧀ꦭꦸ,U+A9B1 U+A9C0 U+A9AD U+A9B8,2,True,True,False
+ꦭ꧀ꦧ,U+A9AD U+A9C0 U+A9A7,2,True,True,False
+ꦑꦂ,U+A991 U+A982,2,True,False,False
+ꦎ,U+A98E,2,True,False,False
+ꦦꦂ,U+A9A6 U+A982,2,True,False,False
+ꦤ꧀ꦔꦺꦴ,U+A9A4 U+A9C0 U+A994 U+A9BA U+A9B4,2,True,True,False
+ꦱꦿ,U+A9B1 U+A9BF,2,True,False,False
+ꦤ꧀ꦮꦶꦁ,U+A9A4 U+A9C0 U+A9AE U+A9B6 U+A981,2,True,True,False
+꧔,U+A9D4,2,True,False,False
+ꦤ꧀ꦲꦺ,U+A9A4 U+A9C0 U+A9B2 U+A9BA,2,True,True,False
+ꦟ꧀ꦢꦿ,U+A99F U+A9C0 U+A9A2 U+A9BF,2,True,True,False
+ꦏ꧀ꦭꦸ,U+A98F U+A9C0 U+A9AD U+A9B8,2,True,True,False
+ꦠ꧀ꦧ,U+A9A0 U+A9C0 U+A9A7,2,True,True,False
+ꦤ꧀ꦱꦂ,U+A9A4 U+A9C0 U+A9B1 U+A982,2,True,True,False
+ꦭꦺꦂ,U+A9AD U+A9BA U+A982,2,True,False,False
+꧙,U+A9D9,2,True,False,False
+ꦏ꧀ꦓꦶ,U+A98F U+A9C0 U+A993 U+A9B6,2,True,True,False
+ꦚ꧀ꦕꦼꦁ,U+A99A U+A9C0 U+A995 U+A9BC U+A981,2,True,True,False
+ꦩ꧀ꦥꦼ,U+A9A9 U+A9C0 U+A9A5 U+A9BC,2,True,True,False
+ꦤ꧀ꦗꦼ,U+A9A4 U+A9C0 U+A997 U+A9BC,2,True,True,False
+ꦠ꧀ꦥꦼ,U+A9A0 U+A9C0 U+A9A5 U+A9BC,2,True,True,False
+ꦧ꧀,U+A9A7 U+A9C0,2,True,True,False
+ꦚꦺꦴ,U+A99A U+A9BA U+A9B4,2,True,False,False
+ꦠ꧀ꦗ,U+A9A0 U+A9C0 U+A997,2,True,True,False
+ꦠꦺꦴꦂ,U+A9A0 U+A9BA U+A9B4 U+A982,2,True,False,False
+ꦩ꧀ꦱꦼ,U+A9A9 U+A9C0 U+A9B1 U+A9BC,2,True,True,False
+ꦩ꧀ꦥꦃ,U+A9A9 U+A9C0 U+A9A5 U+A983,2,True,True,False
+ꦧ꧀ꦲ,U+A9A7 U+A9C0 U+A9B2,2,True,True,False
+ꦩꦿ,U+A9A9 U+A9BF,2,True,False,False
+ꦤ꧀ꦭꦸ,U+A9A4 U+A9C0 U+A9AD U+A9B8,2,True,True,False
+ꦔꦂ,U+A994 U+A982,2,True,False,False
+ꦠ꧀ꦠꦶꦁ,U+A9A0 U+A9C0 U+A9A0 U+A9B6 U+A981,2,True,True,False
+꧖,U+A9D6,2,True,False,False
+ꦥ꧀ꦩꦸ,U+A9A5 U+A9C0 U+A9A9 U+A9B8,2,True,True,False
+ꦏ꧀ꦒ,U+A98F U+A9C0 U+A992,2,True,True,False
+ꦩ꧀ꦥꦶꦁ,U+A9A9 U+A9C0 U+A9A5 U+A9B6 U+A981,2,True,True,False
+ꦩ꧀ꦥꦂ,U+A9A9 U+A9C0 U+A9A5 U+A982,2,True,True,False
+ꦝꦸꦁ,U+A99D U+A9B8 U+A981,2,True,False,False
+ꦱꦿꦺꦴ,U+A9B1 U+A9BF U+A9BA U+A9B4,2,True,False,False
+ꦤ꧀ꦪꦺ,U+A9A4 U+A9C0 U+A9AA U+A9BA,2,True,True,False
+ꦱ꧀ꦏꦺꦴ,U+A9B1 U+A9C0 U+A98F U+A9BA U+A9B4,2,True,True,False
+ꦩ꧀ꦧꦂ,U+A9A9 U+A9C0 U+A9A7 U+A982,2,True,True,False
+ꦤ꧀ꦠꦺ,U+A9A4 U+A9C0 U+A9A0 U+A9BA,2,True,True,False
+ꦱ꧀ꦒ,U+A9B1 U+A9C0 U+A992,2,True,True,False
+ꦤ꧀ꦒꦼ,U+A9A4 U+A9C0 U+A992 U+A9BC,2,True,True,False
+ꦪꦂ,U+A9AA U+A982,2,True,False,False
+ꦥ꧀ꦥꦺ,U+A9A5 U+A9C0 U+A9A5 U+A9BA,2,True,True,False
+ꦠ꧀ꦭ,U+A9A0 U+A9C0 U+A9AD,2,True,True,False
+ꦥ꧀ꦲꦺꦴ,U+A9A5 U+A9C0 U+A9B2 U+A9BA U+A9B4,2,True,True,False
+ꦫꦸꦃ,U+A9AB U+A9B8 U+A983,2,True,False,False
+ꦱ꧀ꦧ,U+A9B1 U+A9C0 U+A9A7,2,True,True,False
+ꦏꦿꦸ,U+A98F U+A9BF U+A9B8,2,True,False,False
+ꦥꦸꦁ,U+A9A5 U+A9B8 U+A981,2,True,False,False
+ꦩ꧀ꦥꦸꦂ,U+A9A9 U+A9C0 U+A9A5 U+A9B8 U+A982,2,True,True,False
+ꦗꦺꦁ,U+A997 U+A9BA U+A981,2,True,False,False
+ꦚꦸꦃ,U+A99A U+A9B8 U+A983,2,True,False,False
+ꦏ꧀ꦏꦶꦁ,U+A98F U+A9C0 U+A98F U+A9B6 U+A981,2,True,True,False
+ꦯꦁ,U+A9AF U+A981,2,True,False,False
+ꦱꦶꦂ,U+A9B1 U+A9B6 U+A982,2,True,False,False
+ꦠ꧀ꦥꦶ,U+A9A0 U+A9C0 U+A9A5 U+A9B6,2,True,True,False
+ꦱ꧀ꦩꦁ,U+A9B1 U+A9C0 U+A9A9 U+A981,2,True,True,False
+ꦤ꧀ꦠꦸꦁ,U+A9A4 U+A9C0 U+A9A0 U+A9B8 U+A981,2,True,True,False
+ꦠ꧀ꦲꦶ,U+A9A0 U+A9C0 U+A9B2 U+A9B6,2,True,True,False
+ꦏ꧀ꦲꦶ,U+A98F U+A9C0 U+A9B2 U+A9B6,2,True,True,False
+ꦠꦺꦁ,U+A9A0 U+A9BA U+A981,2,True,False,False
+ꦏ꧀ꦱꦂ,U+A98F U+A9C0 U+A9B1 U+A982,2,True,True,False
+ꦠ꧀ꦢꦺ,U+A9A0 U+A9C0 U+A9A2 U+A9BA,2,True,True,False
+ꦤ꧀ꦠꦃ,U+A9A4 U+A9C0 U+A9A0 U+A983,2,True,True,False
+ꦤ꧀ꦢꦺꦴ,U+A9A4 U+A9C0 U+A9A2 U+A9BA U+A9B4,2,True,True,False
+ꦤ꧀ꦱ꧀ꦠ,U+A9A4 U+A9C0 U+A9B1 U+A9C0 U+A9A0,2,True,True,False
+ꦥ꧀ꦩ,U+A9A5 U+A9C0 U+A9A9,2,True,True,False
+ꦠꦸꦃ,U+A9A0 U+A9B8 U+A983,2,True,False,False
+ꦏ꧀ꦭꦺ,U+A98F U+A9C0 U+A9AD U+A9BA,2,True,True,False
+ꦦꦸꦂ,U+A9A6 U+A9B8 U+A982,2,True,False,False
+ꦟꦂ,U+A99F U+A982,2,True,False,False
+ꦱꦼꦁ,U+A9B1 U+A9BC U+A981,2,True,False,False
+ꦠ꧀ꦏ,U+A9A0 U+A9C0 U+A98F,2,True,True,False
+ꦢ꧀ꦢꦶ,U+A9A2 U+A9C0 U+A9A2 U+A9B6,2,True,True,False
+ꦱ꧀ꦩꦼ,U+A9B1 U+A9C0 U+A9A9 U+A9BC,2,True,True,False
+ꦩ꧀ꦠꦼ,U+A9A9 U+A9C0 U+A9A0 U+A9BC,2,True,True,False
+ꦏꦺꦴꦃ,U+A98F U+A9BA U+A9B4 U+A983,2,True,False,False
+ꦏ꧀ꦩꦸ,U+A98F U+A9C0 U+A9A9 U+A9B8,2,True,True,False
+ꦢꦸꦃ,U+A9A2 U+A9B8 U+A983,2,True,False,False
+꧒,U+A9D2,2,True,False,False
+ꦯꦂ,U+A9AF U+A982,2,True,False,False
+ꦱ꧀ꦫ,U+A9B1 U+A9C0 U+A9AB,2,True,True,False
+ꦭꦺꦁ,U+A9AD U+A9BA U+A981,2,True,False,False
+ꦕꦺ,U+A995 U+A9BA,2,True,False,False
+ꦤ꧀ꦩꦶ,U+A9A4 U+A9C0 U+A9A9 U+A9B6,2,True,True,False
+ꦝꦂ,U+A99D U+A982,2,True,False,False
+ꦪꦼꦁ,U+A9AA U+A9BC U+A981,2,True,False,False
+ꦤ꧀ꦥꦺ,U+A9A4 U+A9C0 U+A9A5 U+A9BA,2,True,True,False
+ꦠ꧀ꦩꦺꦴ,U+A9A0 U+A9C0 U+A9A9 U+A9BA U+A9B4,2,True,True,False
+ꦏ꧀ꦧꦸ,U+A98F U+A9C0 U+A9A7 U+A9B8,2,True,True,False
+ꦤ꧀ꦱꦼ,U+A9A4 U+A9C0 U+A9B1 U+A9BC,2,True,True,False
+ꦚ꧀ꦗꦶ,U+A99A U+A9C0 U+A997 U+A9B6,2,True,True,False
+y,U+0079,2,False,False,False
+è,U+00E8,2,False,False,False
+ꦠꦶꦃ,U+A9A0 U+A9B6 U+A983,2,True,False,False
+ꦥ꧀ꦭꦼꦁ,U+A9A5 U+A9C0 U+A9AD U+A9BC U+A981,2,True,True,False
+ꦏ꧀ꦢꦶ,U+A98F U+A9C0 U+A9A2 U+A9B6,2,True,True,False
+ꦫꦺꦴꦃ,U+A9AB U+A9BA U+A9B4 U+A983,2,True,False,False
+ꦧ꧀ꦢꦶ,U+A9A7 U+A9C0 U+A9A2 U+A9B6,2,True,True,False
+ꦢ꧀ꦢꦺ,U+A9A2 U+A9C0 U+A9A2 U+A9BA,2,True,True,False
+ꦤ꧀ꦮꦸ,U+A9A4 U+A9C0 U+A9AE U+A9B8,2,True,True,False
+ꦮꦺꦂ,U+A9AE U+A9BA U+A982,2,True,False,False
+ꦤ꧀ꦢꦁ,U+A9A4 U+A9C0 U+A9A2 U+A981,2,True,True,False
+ꦩ꧀ꦲꦶꦁ,U+A9A9 U+A9C0 U+A9B2 U+A9B6 U+A981,2,True,True,False
+ꦤ꧀ꦱꦃ,U+A9A4 U+A9C0 U+A9B1 U+A983,2,True,True,False
+ꦠ꧀ꦤ,U+A9A0 U+A9C0 U+A9A4,2,True,True,False
+ꦲꦸꦂ,U+A9B2 U+A9B8 U+A982,2,True,False,False
+ꦥꦾ,U+A9A5 U+A9BE,2,True,False,False
+ꦠꦂ,U+A9A0 U+A982,2,True,False,False
+ꦏꦽ,U+A98F U+A9BD,2,True,False,False
+ꦤ꧀ꦠꦽ,U+A9A4 U+A9C0 U+A9A0 U+A9BD,2,True,True,False
+ꦩ꧀ꦩꦶꦁ,U+A9A9 U+A9C0 U+A9A9 U+A9B6 U+A981,2,True,True,False
+ꦢꦿꦶ,U+A9A2 U+A9BF U+A9B6,2,True,False,False
+ꦏ꧀ꦤꦺꦁ,U+A98F U+A9C0 U+A9A4 U+A9BA U+A981,2,True,True,False
+ꦤ꧀ꦏꦁ,U+A9A4 U+A9C0 U+A98F U+A981,2,True,True,False
+ꦱꦸꦃ,U+A9B1 U+A9B8 U+A983,2,True,False,False
+ꦏ꧀ꦏ꧀ꦏ,U+A98F U+A9C0 U+A98F U+A9C0 U+A98F,1,True,True,False
+ꦱ꧀ꦏꦸ,U+A9B1 U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦩꦶꦁ,U+A9A9 U+A9B6 U+A981,1,True,False,False
+ꦩ꧀ꦫ,U+A9A9 U+A9C0 U+A9AB,1,True,True,False
+ꦒ꧀ꦥꦸ,U+A992 U+A9C0 U+A9A5 U+A9B8,1,True,True,False
+ꦤ꧀ꦢꦼꦁ,U+A9A4 U+A9C0 U+A9A2 U+A9BC U+A981,1,True,True,False
+ꦭ꧀ꦲꦺꦴ,U+A9AD U+A9C0 U+A9B2 U+A9BA U+A9B4,1,True,True,False
+ꦢ꧀ꦲ,U+A9A2 U+A9C0 U+A9B2,1,True,True,False
+ꦥ꧀ꦧꦶ,U+A9A5 U+A9C0 U+A9A7 U+A9B6,1,True,True,False
+ꦤ꧀ꦤ꧀ꦤ,U+A9A4 U+A9C0 U+A9A4 U+A9C0 U+A9A4,1,True,True,False
+ꦗꦿꦶꦃ,U+A997 U+A9BF U+A9B6 U+A983,1,True,False,False
+ꦠ꧀ꦪ,U+A9A0 U+A9C0 U+A9AA,1,True,True,False
+ꦔꦺꦁ,U+A994 U+A9BA U+A981,1,True,False,False
+ꦱ꧀ꦩꦶ,U+A9B1 U+A9C0 U+A9A9 U+A9B6,1,True,True,False
+ꦠ꧀ꦱꦼ,U+A9A0 U+A9C0 U+A9B1 U+A9BC,1,True,True,False
+ꦫꦺꦴꦁ,U+A9AB U+A9BA U+A9B4 U+A981,1,True,False,False
+ꦥ꧀ꦏꦼ,U+A9A5 U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦒ꧀ꦭꦼ,U+A992 U+A9C0 U+A9AD U+A9BC,1,True,True,False
+ꦔꦿꦁ,U+A994 U+A9BF U+A981,1,True,False,False
+ꦩ꧀ꦮꦶ,U+A9A9 U+A9C0 U+A9AE U+A9B6,1,True,True,False
+ꦤ꧀ꦢꦶꦂ,U+A9A4 U+A9C0 U+A9A2 U+A9B6 U+A982,1,True,True,False
+ꦥ꧀ꦢꦶ,U+A9A5 U+A9C0 U+A9A2 U+A9B6,1,True,True,False
+ꦏ꧀ꦢꦺꦴ,U+A98F U+A9C0 U+A9A2 U+A9BA U+A9B4,1,True,True,False
+ꦏ꧀ꦮꦁ,U+A98F U+A9C0 U+A9AE U+A981,1,True,True,False
+ꦤ꧀ꦱꦼꦁ,U+A9A4 U+A9C0 U+A9B1 U+A9BC U+A981,1,True,True,False
+ꦕꦺꦴ,U+A995 U+A9BA U+A9B4,1,True,False,False
+ꦤ꧀ꦥꦿ,U+A9A4 U+A9C0 U+A9A5 U+A9BF,1,True,True,False
+ꦩ꧀ꦠꦸ,U+A9A9 U+A9C0 U+A9A0 U+A9B8,1,True,True,False
+ꦢ꧀ꦩꦶ,U+A9A2 U+A9C0 U+A9A9 U+A9B6,1,True,True,False
+ꦤ꧀ꦕꦼ,U+A9A4 U+A9C0 U+A995 U+A9BC,1,True,True,False
+ꦤ꧀ꦣꦼ,U+A9A4 U+A9C0 U+A9A3 U+A9BC,1,True,True,False
+ꦧꦿꦺꦴ,U+A9A7 U+A9BF U+A9BA U+A9B4,1,True,False,False
+ꦤ꧀ꦯꦸ,U+A9A4 U+A9C0 U+A9AF U+A9B8,1,True,True,False
+ꦛꦸ,U+A99B U+A9B8,1,True,False,False
+ꦣ꧀ꦔꦼ,U+A9A3 U+A9C0 U+A994 U+A9BC,1,True,True,False
+ꦭ꧀ꦮꦺ,U+A9AD U+A9C0 U+A9AE U+A9BA,1,True,True,False
+ꦥ꧀ꦲꦶꦁ,U+A9A5 U+A9C0 U+A9B2 U+A9B6 U+A981,1,True,True,False
+ꦟ꧀ꦣꦸ,U+A99F U+A9C0 U+A9A3 U+A9B8,1,True,True,False
+ꦟ꧀ꦢꦶ,U+A99F U+A9C0 U+A9A2 U+A9B6,1,True,True,False
+ꦠ꧀ꦥꦺ,U+A9A0 U+A9C0 U+A9A5 U+A9BA,1,True,True,False
+ꦢ꧀ꦤ,U+A9A2 U+A9C0 U+A9A4,1,True,True,False
+ꦏ꧀ꦕ,U+A98F U+A9C0 U+A995,1,True,True,False
+ꦭ꧀ꦏꦼ,U+A9AD U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦏ꧀ꦕꦺꦴ,U+A98F U+A9C0 U+A995 U+A9BA U+A9B4,1,True,True,False
+ꦕ꧀ꦭ,U+A995 U+A9C0 U+A9AD,1,True,True,False
+ꦥ꦳,U+A9A5 U+A9B3,1,True,False,False
+ꦔ꧀ꦒꦸ,U+A994 U+A9C0 U+A992 U+A9B8,1,True,True,False
+ꦏ꧀ꦭꦼꦼ,U+A98F U+A9C0 U+A9AD U+A9BC U+A9BC,1,True,True,False
+ꦠ꧀ꦮꦺ,U+A9A0 U+A9C0 U+A9AE U+A9BA,1,True,True,False
+ꦢꦁ,U+A9A2 U+A981,1,True,False,False
+ꦢ꧀ꦫꦺꦴ,U+A9A2 U+A9C0 U+A9AB U+A9BA U+A9B4,1,True,True,False
+ꦚꦿꦸ,U+A99A U+A9BF U+A9B8,1,True,False,False
+ꦩ꧀ꦱꦶꦁ,U+A9A9 U+A9C0 U+A9B1 U+A9B6 U+A981,1,True,True,False
+ꦤ꧀ꦱꦶꦃ,U+A9A4 U+A9C0 U+A9B1 U+A9B6 U+A983,1,True,True,False
+ꦏ꧀ꦥꦂ,U+A98F U+A9C0 U+A9A5 U+A982,1,True,True,False
+ꦱ꧀ꦠꦼ,U+A9B1 U+A9C0 U+A9A0 U+A9BC,1,True,True,False
+ꦤ꧀ꦥꦁ,U+A9A4 U+A9C0 U+A9A5 U+A981,1,True,True,False
+ꦏꦸꦃ,U+A98F U+A9B8 U+A983,1,True,False,False
+ꦭ꧀ꦗ,U+A9AD U+A9C0 U+A997,1,True,True,False
+ꦤ꧀ꦠꦂ,U+A9A4 U+A9C0 U+A9A0 U+A982,1,True,True,False
+ꦢ꧀ꦢꦶꦁ,U+A9A2 U+A9C0 U+A9A2 U+A9B6 U+A981,1,True,True,False
+ꦢ꧀ꦧꦸ,U+A9A2 U+A9C0 U+A9A7 U+A9B8,1,True,True,False
+ꦱ꧀ꦥꦸ,U+A9B1 U+A9C0 U+A9A5 U+A9B8,1,True,True,False
+ꦧꦿꦸ,U+A9A7 U+A9BF U+A9B8,1,True,False,False
+ꦒ꧀ꦗꦸ,U+A992 U+A9C0 U+A997 U+A9B8,1,True,True,False
+ꦒ꧀ꦢ,U+A992 U+A9C0 U+A9A2,1,True,True,False
+ꦕꦶꦁ,U+A995 U+A9B6 U+A981,1,True,False,False
+ꦏꦿꦁ,U+A98F U+A9BF U+A981,1,True,False,False
+ꦏ꧀ꦗꦺꦴ,U+A98F U+A9C0 U+A997 U+A9BA U+A9B4,1,True,True,False
+ꦓꦸ,U+A993 U+A9B8,1,True,False,False
+ꦭ꧀ꦩꦺ,U+A9AD U+A9C0 U+A9A9 U+A9BA,1,True,True,False
+ꦏ꧀ꦠꦽ,U+A98F U+A9C0 U+A9A0 U+A9BD,1,True,True,False
+ꦏ꧀ꦮꦶ,U+A98F U+A9C0 U+A9AE U+A9B6,1,True,True,False
+ꦧ꧀ꦭ,U+A9A7 U+A9C0 U+A9AD,1,True,True,False
+ꦱ꧀ꦚꦁ,U+A9B1 U+A9C0 U+A99A U+A981,1,True,True,False
+ꦠ꧀ꦔꦁ,U+A9A0 U+A9C0 U+A994 U+A981,1,True,True,False
+ꦩꦺꦃ,U+A9A9 U+A9BA U+A983,1,True,False,False
+ꦱ꧀ꦕꦸ,U+A9B1 U+A9C0 U+A995 U+A9B8,1,True,True,False
+ꦩ꧀ꦲꦶ,U+A9A9 U+A9C0 U+A9B2 U+A9B6,1,True,True,False
+ꦱ꧀ꦝꦸ,U+A9B1 U+A9C0 U+A99D U+A9B8,1,True,True,False
+ꦩ꧀ꦒ,U+A9A9 U+A9C0 U+A992,1,True,True,False
+ꦒꦿ,U+A992 U+A9BF,1,True,False,False
+ꦏ꧀ꦭꦺꦴ,U+A98F U+A9C0 U+A9AD U+A9BA U+A9B4,1,True,True,False
+ꦱ꧀ꦲꦂ,U+A9B1 U+A9C0 U+A9B2 U+A982,1,True,True,False
+ꦤ꧀ꦝꦼꦁ,U+A9A4 U+A9C0 U+A99D U+A9BC U+A981,1,True,True,False
+ꦩ꧀ꦏꦼ,U+A9A9 U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦱ꧀ꦔꦼ,U+A9B1 U+A9C0 U+A994 U+A9BC,1,True,True,False
+ꦏ꧀ꦯ,U+A98F U+A9C0 U+A9AF,1,True,True,False
+ꦤ꧀ꦯꦂ,U+A9A4 U+A9C0 U+A9AF U+A982,1,True,True,False
+ꦯꦺꦴ,U+A9AF U+A9BA U+A9B4,1,True,False,False
+ꦢꦶꦂ,U+A9A2 U+A9B6 U+A982,1,True,False,False
+ꦩ꧀ꦲꦺꦴ,U+A9A9 U+A9C0 U+A9B2 U+A9BA U+A9B4,1,True,True,False
+ꦩ꧀ꦲꦁ,U+A9A9 U+A9C0 U+A9B2 U+A981,1,True,True,False
+ꦏ꧀ꦠꦸꦁ,U+A98F U+A9C0 U+A9A0 U+A9B8 U+A981,1,True,True,False
+ꦤ꧀ꦮꦂ,U+A9A4 U+A9C0 U+A9AE U+A982,1,True,True,False
+ꦱ꧀ꦮꦂ,U+A9B1 U+A9C0 U+A9AE U+A982,1,True,True,False
+ꦩ꧀ꦏꦸ,U+A9A9 U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦏ꧀ꦛꦺꦴ,U+A98F U+A9C0 U+A99B U+A9BA U+A9B4,1,True,True,False
+ꦒ꧀ꦭ,U+A992 U+A9C0 U+A9AD,1,True,True,False
+ꦱ꧀ꦠꦺ,U+A9B1 U+A9C0 U+A9A0 U+A9BA,1,True,True,False
+ꦩꦽ,U+A9A9 U+A9BD,1,True,False,False
+ꦭ꧀ꦱ,U+A9AD U+A9C0 U+A9B1,1,True,True,False
+ꦭ꧀ꦮꦁ,U+A9AD U+A9C0 U+A9AE U+A981,1,True,True,False
+ꦏ꧀ꦱꦼꦁ,U+A98F U+A9C0 U+A9B1 U+A9BC U+A981,1,True,True,False
+ꦏꦿꦶꦁ,U+A98F U+A9BF U+A9B6 U+A981,1,True,False,False
+ꦑ꧀ꦭꦼ,U+A991 U+A9C0 U+A9AD U+A9BC,1,True,True,False
+ꦤ꧀ꦔꦁ,U+A9A4 U+A9C0 U+A994 U+A981,1,True,True,False
+ꦝꦶꦃ,U+A99D U+A9B6 U+A983,1,True,False,False
+ꦱ꧀ꦔꦿꦸ,U+A9B1 U+A9C0 U+A994 U+A9BF U+A9B8,1,True,True,False
+ꦭꦺꦴꦂ,U+A9AD U+A9BA U+A9B4 U+A982,1,True,False,False
+ꦟ꧀ꦝꦺꦴꦂ,U+A99F U+A9C0 U+A99D U+A9BA U+A9B4 U+A982,1,True,True,False
+ꦚ꧀ꦗꦂ,U+A99A U+A9C0 U+A997 U+A982,1,True,True,False
+ꦚ꧀ꦗꦁ,U+A99A U+A9C0 U+A997 U+A981,1,True,True,False
+ꦠ꧀ꦥꦶꦁ,U+A9A0 U+A9C0 U+A9A5 U+A9B6 U+A981,1,True,True,False
+ꦟ꧀ꦝ,U+A99F U+A9C0 U+A99D,1,True,True,False
+ꦭ꧀ꦑ,U+A9AD U+A9C0 U+A991,1,True,True,False
+ꦠ꧀ꦠ꧀ꦠ,U+A9A0 U+A9C0 U+A9A0 U+A9C0 U+A9A0,1,True,True,False
+ꦟ꧀ꦛ,U+A99F U+A9C0 U+A99B,1,True,True,False
+ꦭ꧀ꦏꦸ,U+A9AD U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦤ꧀ꦠꦿ,U+A9A4 U+A9C0 U+A9A0 U+A9BF,1,True,True,False
+ꦤ꧀ꦥꦺꦴ,U+A9A4 U+A9C0 U+A9A5 U+A9BA U+A9B4,1,True,True,False
+ꦠ꧀ꦱꦶꦁ,U+A9A0 U+A9C0 U+A9B1 U+A9B6 U+A981,1,True,True,False
+ꦪꦺꦁ,U+A9AA U+A9BA U+A981,1,True,False,False
+ꦔꦿꦺ,U+A994 U+A9BF U+A9BA,1,True,False,False
+ꦠ꧀ꦏꦶ,U+A9A0 U+A9C0 U+A98F U+A9B6,1,True,True,False
+ꦩ꧀ꦭꦶ,U+A9A9 U+A9C0 U+A9AD U+A9B6,1,True,True,False
+꧘,U+A9D8,1,True,False,False
+ꦒ꧀ꦝꦼ,U+A992 U+A9C0 U+A99D U+A9BC,1,True,True,False
+ꦒ꧀ꦲ,U+A992 U+A9C0 U+A9B2,1,True,True,False
+ꦱ꧀ꦩꦸ,U+A9B1 U+A9C0 U+A9A9 U+A9B8,1,True,True,False
+ꦔ꧀ꦭꦶ,U+A994 U+A9C0 U+A9AD U+A9B6,1,True,True,False
+ꦝꦸꦂ,U+A99D U+A9B8 U+A982,1,True,False,False
+ꦣꦼꦁ,U+A9A3 U+A9BC U+A981,1,True,False,False
+ꦩ꧀ꦭꦼꦁ,U+A9A9 U+A9C0 U+A9AD U+A9BC U+A981,1,True,True,False
+ꦢꦼꦂ,U+A9A2 U+A9BC U+A982,1,True,False,False
+ꦱ꧀ꦫꦸ,U+A9B1 U+A9C0 U+A9AB U+A9B8,1,True,True,False
+ꦏꦼꦃ,U+A98F U+A9BC U+A983,1,True,False,False
+ꦚꦂ,U+A99A U+A982,1,True,False,False
+ꦏ꧀ꦑꦸ,U+A98F U+A9C0 U+A991 U+A9B8,1,True,True,False
+ꦱ꧀ꦭ,U+A9B1 U+A9C0 U+A9AD,1,True,True,False
+ꦠ꧀ꦝꦶ,U+A9A0 U+A9C0 U+A99D U+A9B6,1,True,True,False
+ꦧ꧀ꦏꦼ,U+A9A7 U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦱ꧀ꦏꦼ,U+A9B1 U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦝꦶꦁ,U+A99D U+A9B6 U+A981,1,True,False,False
+ꦚ꧀ꦕꦸꦂ,U+A99A U+A9C0 U+A995 U+A9B8 U+A982,1,True,True,False
+ꦢ꧀ꦧ,U+A9A2 U+A9C0 U+A9A7,1,True,True,False
+ꦤ꧀ꦫꦸ,U+A9A4 U+A9C0 U+A9AB U+A9B8,1,True,True,False
+ꦯ꧀ꦩꦶ,U+A9AF U+A9C0 U+A9A9 U+A9B6,1,True,True,False
+ꦱ꧀ꦩꦺꦴ,U+A9B1 U+A9C0 U+A9A9 U+A9BA U+A9B4,1,True,True,False
+ꦤ꧀ꦝꦺꦴꦁ,U+A9A4 U+A9C0 U+A99D U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦓ,U+A993,1,True,False,False
+ꦥ꧀ꦠꦂ,U+A9A5 U+A9C0 U+A9A0 U+A982,1,True,True,False
+ꦏ꧀ꦪꦺ,U+A98F U+A9C0 U+A9AA U+A9BA,1,True,True,False
+ꦢꦿꦸ,U+A9A2 U+A9BF U+A9B8,1,True,False,False
+ꦱ꧀ꦏꦁ,U+A9B1 U+A9C0 U+A98F U+A981,1,True,True,False
+ꦏ꧀ꦦꦂ,U+A98F U+A9C0 U+A9A6 U+A982,1,True,True,False
+ꦥ꧀ꦱꦶ,U+A9A5 U+A9C0 U+A9B1 U+A9B6,1,True,True,False
+ꦡꦸ,U+A9A1 U+A9B8,1,True,False,False
+ꦠꦃ,U+A9A0 U+A983,1,True,False,False
+ꦱ꧀ꦥꦶ,U+A9B1 U+A9C0 U+A9A5 U+A9B6,1,True,True,False
+ꦤ꧀ꦩꦼꦂ,U+A9A4 U+A9C0 U+A9A9 U+A9BC U+A982,1,True,True,False
+ꦯ꧀ꦠꦶ,U+A9AF U+A9C0 U+A9A0 U+A9B6,1,True,True,False
+ꦩ꧀ꦒꦸ,U+A9A9 U+A9C0 U+A992 U+A9B8,1,True,True,False
+ꦩꦿꦺ,U+A9A9 U+A9BF U+A9BA,1,True,False,False
+ꦠ꧀ꦲꦺꦴ,U+A9A0 U+A9C0 U+A9B2 U+A9BA U+A9B4,1,True,True,False
+ꦱ꧀ꦩꦺ,U+A9B1 U+A9C0 U+A9A9 U+A9BA,1,True,True,False
+ꦯꦿ,U+A9AF U+A9BF,1,True,False,False
+ꦩꦿꦸ,U+A9A9 U+A9BF U+A9B8,1,True,False,False
+ꦠ꧀ꦩꦼ,U+A9A0 U+A9C0 U+A9A9 U+A9BC,1,True,True,False
+ꦣ꧀ꦮꦸ,U+A9A3 U+A9C0 U+A9AE U+A9B8,1,True,True,False
+ꦩ꧀ꦤ,U+A9A9 U+A9C0 U+A9A4,1,True,True,False
+ꦥ꧀ꦩꦁ,U+A9A5 U+A9C0 U+A9A9 U+A981,1,True,True,False
+ꦩ꧀ꦥꦶ,U+A9A9 U+A9C0 U+A9A5 U+A9B6,1,True,True,False
+ꦏ꧀ꦫꦼ,U+A98F U+A9C0 U+A9AB U+A9BC,1,True,True,False
+ꦭ꧀ꦏꦺꦴꦁ,U+A9AD U+A9C0 U+A98F U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦤ꧀ꦭꦼꦁ,U+A9A4 U+A9C0 U+A9AD U+A9BC U+A981,1,True,True,False
+ꦢ꧀ꦱ,U+A9A2 U+A9C0 U+A9B1,1,True,True,False
+ꦧ꧀ꦏ,U+A9A7 U+A9C0 U+A98F,1,True,True,False
+ꦚ꧀ꦗꦺꦴꦁ,U+A99A U+A9C0 U+A997 U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦨꦺꦴ,U+A9A8 U+A9BA U+A9B4,1,True,False,False
+ꦒꦺꦴꦂ,U+A992 U+A9BA U+A9B4 U+A982,1,True,False,False
+ꦱ꧀ꦱꦸ,U+A9B1 U+A9C0 U+A9B1 U+A9B8,1,True,True,False
+ꦭ꧀ꦚꦸ,U+A9AD U+A9C0 U+A99A U+A9B8,1,True,True,False
+ꦭ꧀ꦮꦼ,U+A9AD U+A9C0 U+A9AE U+A9BC,1,True,True,False
+ꦏꦺ꧀,U+A98F U+A9BA U+A9C0,1,True,True,False
+ꦧ꧀ꦭꦸ,U+A9A7 U+A9C0 U+A9AD U+A9B8,1,True,True,False
+ꦱ꧀ꦱꦶꦁ,U+A9B1 U+A9C0 U+A9B1 U+A9B6 U+A981,1,True,True,False
+ꦥ꦳꧀ꦱꦶꦂ,U+A9A5 U+A9B3 U+A9C0 U+A9B1 U+A9B6 U+A982,1,True,True,False
+ꦠ꧀ꦗꦼ,U+A9A0 U+A9C0 U+A997 U+A9BC,1,True,True,False
+ꦏ꧀ꦮꦂ,U+A98F U+A9C0 U+A9AE U+A982,1,True,True,False
+ꦱ꧀ꦩꦺꦃ,U+A9B1 U+A9C0 U+A9A9 U+A9BA U+A983,1,True,True,False
+ꦏ꧀ꦫ,U+A98F U+A9C0 U+A9AB,1,True,True,False
+ꦔ꧀ꦭꦸ,U+A994 U+A9C0 U+A9AD U+A9B8,1,True,True,False
+ꦤ꧀ꦝꦸꦁ,U+A9A4 U+A9C0 U+A99D U+A9B8 U+A981,1,True,True,False
+ꦦꦿꦶ,U+A9A6 U+A9BF U+A9B6,1,True,False,False
+ꦏ꧀ꦏꦸꦂ,U+A98F U+A9C0 U+A98F U+A9B8 U+A982,1,True,True,False
+ꦠ꧀ꦲꦺ,U+A9A0 U+A9C0 U+A9B2 U+A9BA,1,True,True,False
+ꦏ꧀ꦲꦺ,U+A98F U+A9C0 U+A9B2 U+A9BA,1,True,True,False
+ꦱꦺꦃ,U+A9B1 U+A9BA U+A983,1,True,False,False
+ꦠ꧀ꦮ,U+A9A0 U+A9C0 U+A9AE,1,True,True,False
+ꦧ꧀‌,U+A9A7 U+A9C0 U+200C,1,False,True,True
+ꦓꦶ,U+A993 U+A9B6,1,True,False,False
+ꦢ꧀ꦥ,U+A9A2 U+A9C0 U+A9A5,1,True,True,False
+ꦚ꧀ꦕꦼ,U+A99A U+A9C0 U+A995 U+A9BC,1,True,True,False
+ꦤ꧀ꦢꦿꦸꦁ,U+A9A4 U+A9C0 U+A9A2 U+A9BF U+A9B8 U+A981,1,True,True,False
+ꦢ꧀,U+A9A2 U+A9C0,1,True,True,False
+ꦠ꧀ꦭꦼ,U+A9A0 U+A9C0 U+A9AD U+A9BC,1,True,True,False
+ꦏ꧀ꦝꦸ,U+A98F U+A9C0 U+A99D U+A9B8,1,True,True,False
+ꦤ꧀ꦚꦺꦴ,U+A9A4 U+A9C0 U+A99A U+A9BA U+A9B4,1,True,True,False
+ꦒ꧀ꦛꦺꦴ,U+A992 U+A9C0 U+A99B U+A9BA U+A9B4,1,True,True,False
+ꦒ꧀ꦒꦺꦴ,U+A992 U+A9C0 U+A992 U+A9BA U+A9B4,1,True,True,False
+ꦭ꧀ꦏꦁ,U+A9AD U+A9C0 U+A98F U+A981,1,True,True,False
+ꦚꦺ,U+A99A U+A9BA,1,True,False,False
+ꦧꦸꦃ,U+A9A7 U+A9B8 U+A983,1,True,False,False
+ꦠ꧀ꦧꦼ,U+A9A0 U+A9C0 U+A9A7 U+A9BC,1,True,True,False
+ꦩꦺꦴꦃ,U+A9A9 U+A9BA U+A9B4 U+A983,1,True,False,False
+ꦥ꧀ꦮ,U+A9A5 U+A9C0 U+A9AE,1,True,True,False
+ꦤ꧀ꦧꦸ,U+A9A4 U+A9C0 U+A9A7 U+A9B8,1,True,True,False
+ꦣꦼꦂ,U+A9A3 U+A9BC U+A982,1,True,False,False
+ꦭ꧀ꦏꦺꦴ,U+A9AD U+A9C0 U+A98F U+A9BA U+A9B4,1,True,True,False
+ꦏ꧀ꦥꦺ,U+A98F U+A9C0 U+A9A5 U+A9BA,1,True,True,False
+ꦢ꧀ꦉ,U+A9A2 U+A9C0 U+A989,1,True,True,False
+ꦥ꧀ꦠ,U+A9A5 U+A9C0 U+A9A0,1,True,True,False
+ꦤ꧀ꦏꦂ,U+A9A4 U+A9C0 U+A98F U+A982,1,True,True,False
+ꦱ꧀ꦛ,U+A9B1 U+A9C0 U+A99B,1,True,True,False
+ꦏ꧀ꦔꦽ,U+A98F U+A9C0 U+A994 U+A9BD,1,True,True,False
+ꦧꦸꦂ,U+A9A7 U+A9B8 U+A982,1,True,False,False
+ꦤ꧀ꦒ,U+A9A4 U+A9C0 U+A992,1,True,True,False
+ꦤ꧀ꦝꦺꦁ,U+A9A4 U+A9C0 U+A99D U+A9BA U+A981,1,True,True,False
+ꦭ꧀ꦱꦼ,U+A9AD U+A9C0 U+A9B1 U+A9BC,1,True,True,False
+ꦢ꧀ꦩ,U+A9A2 U+A9C0 U+A9A9,1,True,True,False
+ꦧ꧀ꦏꦸ,U+A9A7 U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦭ꧀ꦢ,U+A9AD U+A9C0 U+A9A2,1,True,True,False
+ꦱ꧀ꦢꦸ,U+A9B1 U+A9C0 U+A9A2 U+A9B8,1,True,True,False
+ꦥ꧀ꦥꦸ,U+A9A5 U+A9C0 U+A9A5 U+A9B8,1,True,True,False
+N,U+004E,1,False,False,False
+S,U+0053,1,False,False,False
+C,U+0043,1,False,False,False
+K,U+004B,1,False,False,False
+P,U+0050,1,False,False,False
+B,U+0042,1,False,False,False
+b,U+0062,1,False,False,False
+ꦢ꧀ꦏꦸ,U+A9A2 U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦢ꧀ꦠꦸ,U+A9A2 U+A9C0 U+A9A0 U+A9B8,1,True,True,False
+ꦚ꧀ꦕꦺꦁ,U+A99A U+A9C0 U+A995 U+A9BA U+A981,1,True,True,False
+ꦏ꧀ꦱꦽ,U+A98F U+A9C0 U+A9B1 U+A9BD,1,True,True,False
+ꦒ꧀ꦔꦼ,U+A992 U+A9C0 U+A994 U+A9BC,1,True,True,False
+ꦟꦸ,U+A99F U+A9B8,1,True,False,False
+ꦗ꧀ꦚ,U+A997 U+A9C0 U+A99A,1,True,True,False
+ꦭ꧀ꦏ꧀,U+A9AD U+A9C0 U+A98F U+A9C0,1,True,True,False
+ꦤꦺ꧀,U+A9A4 U+A9BA U+A9C0,1,True,True,False
+ꦦꦸ,U+A9A6 U+A9B8,1,True,False,False
+ꦮꦿ,U+A9AE U+A9BF,1,True,False,False
+ꦠ꧀ꦮꦺꦴ,U+A9A0 U+A9C0 U+A9AE U+A9BA U+A9B4,1,True,True,False
+ꦠ꧀ꦲꦂ,U+A9A0 U+A9C0 U+A9B2 U+A982,1,True,True,False
+ꦠ꧀ꦲꦸ,U+A9A0 U+A9C0 U+A9B2 U+A9B8,1,True,True,False
+ꦤ꧀ꦧꦺꦴꦁ,U+A9A4 U+A9C0 U+A9A7 U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦱ꧀ꦥꦺꦴ,U+A9B1 U+A9C0 U+A9A5 U+A9BA U+A9B4,1,True,True,False
+ꦭ꧀ꦥꦺ,U+A9AD U+A9C0 U+A9A5 U+A9BA,1,True,True,False
+ꦥꦃ,U+A9A5 U+A983,1,True,False,False
+ꦒ꧀ꦲꦸ,U+A992 U+A9C0 U+A9B2 U+A9B8,1,True,True,False
+ꦒ꧀ꦧ,U+A992 U+A9C0 U+A9A7,1,True,True,False
+ꦨꦼ,U+A9A8 U+A9BC,1,True,False,False
+ꦤ꧀ꦒꦸ,U+A9A4 U+A9C0 U+A992 U+A9B8,1,True,True,False
+ꦱꦿꦃ,U+A9B1 U+A9BF U+A983,1,True,False,False
+ꦏ꧀ꦏꦺꦴ,U+A98F U+A9C0 U+A98F U+A9BA U+A9B4,1,True,True,False
+ꦟꦸꦁ,U+A99F U+A9B8 U+A981,1,True,False,False
+ꦑ꧀ꦭꦺꦴ,U+A991 U+A9C0 U+A9AD U+A9BA U+A9B4,1,True,True,False
+ꦏ꧀ꦗꦼ,U+A98F U+A9C0 U+A997 U+A9BC,1,True,True,False
+ꦱ꧀ꦯꦸ,U+A9B1 U+A9C0 U+A9AF U+A9B8,1,True,True,False
+ꦑꦿ,U+A991 U+A9BF,1,True,False,False
+ꦩ꧀ꦠꦺꦴ,U+A9A9 U+A9C0 U+A9A0 U+A9BA U+A9B4,1,True,True,False
+ꦥ꧀ꦠꦺꦴ,U+A9A5 U+A9C0 U+A9A0 U+A9BA U+A9B4,1,True,True,False
+ꦤ꧀ꦠ꧀ꦠꦼꦂ,U+A9A4 U+A9C0 U+A9A0 U+A9C0 U+A9A0 U+A9BC U+A982,1,True,True,False
+ꦠ꧀ꦢꦶ,U+A9A0 U+A9C0 U+A9A2 U+A9B6,1,True,True,False
+ꦟꦸꦂ,U+A99F U+A9B8 U+A982,1,True,False,False
+ꦒꦺꦴꦁ,U+A992 U+A9BA U+A9B4 U+A981,1,True,False,False
+T,U+0054,1,False,False,False
+Y,U+0059,1,False,False,False
+ꦣꦁ,U+A9A3 U+A981,1,True,False,False
+ꦥ꧀ꦯꦼ,U+A9A5 U+A9C0 U+A9AF U+A9BC,1,True,True,False
+ꦮꦾ,U+A9AE U+A9BE,1,True,False,False
+ꦛꦼꦁ,U+A99B U+A9BC U+A981,1,True,False,False
+ꦤ꧀ꦛꦼꦁ,U+A9A4 U+A9C0 U+A99B U+A9BC U+A981,1,True,True,False
+ꦢ꧀ꦩꦸ,U+A9A2 U+A9C0 U+A9A9 U+A9B8,1,True,True,False
+ꦱ꧀ꦭꦶ,U+A9B1 U+A9C0 U+A9AD U+A9B6,1,True,True,False
+ꦤ꧀ꦢꦃ,U+A9A4 U+A9C0 U+A9A2 U+A983,1,True,True,False
+ꦤ꧀ꦤꦺꦴ,U+A9A4 U+A9C0 U+A9A4 U+A9BA U+A9B4,1,True,True,False
+ꦏ꧀ꦒꦺꦴ,U+A98F U+A9C0 U+A992 U+A9BA U+A9B4,1,True,True,False
+ꦥ꧀ꦧꦼ,U+A9A5 U+A9C0 U+A9A7 U+A9BC,1,True,True,False
+ꦥ꧀ꦱꦸ,U+A9A5 U+A9C0 U+A9B1 U+A9B8,1,True,True,False
+ꦑ꧀ꦭ,U+A991 U+A9C0 U+A9AD,1,True,True,False
+ꦛꦺ,U+A99B U+A9BA,1,True,False,False
+ꦮꦺꦴꦃ,U+A9AE U+A9BA U+A9B4 U+A983,1,True,False,False
+ꦠ꧀ꦢ,U+A9A0 U+A9C0 U+A9A2,1,True,True,False
+ꦮꦼꦂ,U+A9AE U+A9BC U+A982,1,True,False,False
+ꦗꦿꦁ,U+A997 U+A9BF U+A981,1,True,False,False
+ꦧꦃ,U+A9A7 U+A983,1,True,False,False
+ꦒ꧀‌,U+A992 U+A9C0 U+200C,1,False,True,True
+ꦯ꧀ꦥ,U+A9AF U+A9C0 U+A9A5,1,True,True,False
+ꦏꦺꦃ,U+A98F U+A9BA U+A983,1,True,False,False
+ꦱ꧀ꦏꦿꦺꦴ,U+A9B1 U+A9C0 U+A98F U+A9BF U+A9BA U+A9B4,1,True,True,False
+ꦚ꧀ꦕꦺꦴꦁ,U+A99A U+A9C0 U+A995 U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦣꦺꦴ,U+A9A3 U+A9BA U+A9B4,1,True,False,False
+ꦠ꧀ꦒꦸ,U+A9A0 U+A9C0 U+A992 U+A9B8,1,True,True,False
+ꦤ꧀ꦢꦿ,U+A9A4 U+A9C0 U+A9A2 U+A9BF,1,True,True,False
+ꦚ꧀ꦗꦼꦁ,U+A99A U+A9C0 U+A997 U+A9BC U+A981,1,True,True,False
+ꦚ꧀ꦗꦿ,U+A99A U+A9C0 U+A997 U+A9BF,1,True,True,False
+ꦲꦃ,U+A9B2 U+A983,1,True,False,False
+ꦥ꧀ꦢ,U+A9A5 U+A9C0 U+A9A2,1,True,True,False
+ꦧꦾꦂ,U+A9A7 U+A9BE U+A982,1,True,False,False
+ꦠ꧀ꦧꦶ,U+A9A0 U+A9C0 U+A9A7 U+A9B6,1,True,True,False
+ꦏ꧀ꦏꦼ,U+A98F U+A9C0 U+A98F U+A9BC,1,True,True,False
+ꦩ꧀ꦔꦼꦂ,U+A9A9 U+A9C0 U+A994 U+A9BC U+A982,1,True,True,False
+ꦥ꧀ꦏꦸ,U+A9A5 U+A9C0 U+A98F U+A9B8,1,True,True,False
+ꦩ꧀ꦗꦸ,U+A9A9 U+A9C0 U+A997 U+A9B8,1,True,True,False
+ꦱ꧀ꦥꦺ,U+A9B1 U+A9C0 U+A9A5 U+A9BA,1,True,True,False
+ꦤ꧀ꦯ,U+A9A4 U+A9C0 U+A9AF,1,True,True,False
+ꦠ꧀ꦏꦼꦂ,U+A9A0 U+A9C0 U+A98F U+A9BC U+A982,1,True,True,False
+ꦱ꧀ꦟꦸꦂ,U+A9B1 U+A9C0 U+A99F U+A9B8 U+A982,1,True,True,False
+8,U+0038,1,False,False,False
+ꦏ꧀ꦑꦶ,U+A98F U+A9C0 U+A991 U+A9B6,1,True,True,False
+ꦤ꧀ꦱꦁ,U+A9A4 U+A9C0 U+A9B1 U+A981,1,True,True,False
+ꦩ꧀ꦱꦶ,U+A9A9 U+A9C0 U+A9B1 U+A9B6,1,True,True,False
+ꦩ꧀ꦥꦿ,U+A9A9 U+A9C0 U+A9A5 U+A9BF,1,True,True,False
+ꦩ꧀ꦠ,U+A9A9 U+A9C0 U+A9A0,1,True,True,False
+ꦤ꧀ꦱꦿꦶ,U+A9A4 U+A9C0 U+A9B1 U+A9BF U+A9B6,1,True,True,False
+ꦠꦸꦁ,U+A9A0 U+A9B8 U+A981,1,True,False,False
+ꦏ꧀ꦲꦼ,U+A98F U+A9C0 U+A9B2 U+A9BC,1,True,True,False
+ꦱꦽ,U+A9B1 U+A9BD,1,True,False,False
+ꦥꦿꦶꦃ,U+A9A5 U+A9BF U+A9B6 U+A983,1,True,False,False
+ꦚ꧀ꦗꦼꦂ,U+A99A U+A9C0 U+A997 U+A9BC U+A982,1,True,True,False
+ꦧ꧀ꦪꦺ,U+A9A7 U+A9C0 U+A9AA U+A9BA,1,True,True,False
+ꦤ꧀ꦧꦼ,U+A9A4 U+A9C0 U+A9A7 U+A9BC,1,True,True,False
+ꦱꦿꦶꦁ,U+A9B1 U+A9BF U+A9B6 U+A981,1,True,False,False
+ꦤ꧀ꦥꦼ,U+A9A4 U+A9C0 U+A9A5 U+A9BC,1,True,True,False
+ꦧꦸꦁ,U+A9A7 U+A9B8 U+A981,1,True,False,False
+ꦏ꧀ꦡ,U+A98F U+A9C0 U+A9A1,1,True,True,False
+ꦏ꧀ꦲꦶꦁ,U+A98F U+A9C0 U+A9B2 U+A9B6 U+A981,1,True,True,False
+ꦠ꧀ꦧꦸ,U+A9A0 U+A9C0 U+A9A7 U+A9B8,1,True,True,False
+ꦯꦶꦃ,U+A9AF U+A9B6 U+A983,1,True,False,False
+ꦱ꧀ꦔꦁ,U+A9B1 U+A9C0 U+A994 U+A981,1,True,True,False
+ꦧ꧀ꦮ,U+A9A7 U+A9C0 U+A9AE,1,True,True,False
+ꦲꦺꦂ,U+A9B2 U+A9BA U+A982,1,True,False,False
+ꦢ꧀ꦗꦸ,U+A9A2 U+A9C0 U+A997 U+A9B8,1,True,True,False
+ꦠ꧀ꦗꦺꦴ,U+A9A0 U+A9C0 U+A997 U+A9BA U+A9B4,1,True,True,False
+ꦚ꧀ꦕꦼꦂ,U+A99A U+A9C0 U+A995 U+A9BC U+A982,1,True,True,False
+ꦠ꧀ꦲꦺꦂ,U+A9A0 U+A9C0 U+A9B2 U+A9BA U+A982,1,True,True,False
+ꦯ꧀ꦤꦸ,U+A9AF U+A9C0 U+A9A4 U+A9B8,1,True,True,False
+ꦱ꧀ꦤꦸ,U+A9B1 U+A9C0 U+A9A4 U+A9B8,1,True,True,False
+ꦤ꧀ꦯꦶ,U+A9A4 U+A9C0 U+A9AF U+A9B6,1,True,True,False
+ꦢ꧀ꦲꦸ,U+A9A2 U+A9C0 U+A9B2 U+A9B8,1,True,True,False
+ꦩ꧀ꦥ꧀ꦥꦼꦂ,U+A9A9 U+A9C0 U+A9A5 U+A9C0 U+A9A5 U+A9BC U+A982,1,True,True,False
+ꦨꦸ,U+A9A8 U+A9B8,1,True,False,False
+ꦢ꧀ꦝ,U+A9A2 U+A9C0 U+A99D,1,True,True,False
+ꦐꦿ,U+A990 U+A9BF,1,True,False,False
+ꦔ꧀ꦔ,U+A994 U+A9C0 U+A994,1,True,True,False
+ꦚ꧀ꦚ,U+A99A U+A9C0 U+A99A,1,True,True,False
+ꦝ꧀ꦝ,U+A99D U+A9C0 U+A99D,1,True,True,False
+ꦗ꧀ꦗ,U+A997 U+A9C0 U+A997,1,True,True,False
+ꦮ꧀ꦮ,U+A9AE U+A9C0 U+A9AE,1,True,True,False
+ꦕ꧀ꦕ,U+A995 U+A9C0 U+A995,1,True,True,False
+ꦲ꧀ꦲ,U+A9B2 U+A9C0 U+A9B2,1,True,True,False
+ꦛ꧀ꦛ,U+A99B U+A9C0 U+A99B,1,True,True,False
+ꦓ꧀ꦓ,U+A993 U+A9C0 U+A993,1,True,True,False
+ꦨ꧀ꦨ,U+A9A8 U+A9C0 U+A9A8,1,True,True,False
+ꦦ꧀ꦦ,U+A9A6 U+A9C0 U+A9A6,1,True,True,False
+ꦯ꧀ꦯ,U+A9AF U+A9C0 U+A9AF,1,True,True,False
+ꦟ꧀ꦟ,U+A99F U+A9C0 U+A99F,1,True,True,False
+ꦑ꧀ꦑ,U+A991 U+A9C0 U+A991,1,True,True,False
+ꦬ꧀ꦬ,U+A9AC U+A9C0 U+A9AC,1,True,True,False
+ꦡ꧀ꦡ,U+A9A1 U+A9C0 U+A9A1,1,True,True,False
+ꦉꦴ,U+A989 U+A9B4,1,True,False,False
+ꦋ,U+A98B,1,True,False,False
+ꦄꦴ,U+A984 U+A9B4,1,True,False,False
+ꦍ,U+A98D,1,True,False,False
+ꦇ,U+A987,1,True,False,False
+ꦎꦴ,U+A98E U+A9B4,1,True,False,False
+ꦈ,U+A988,1,True,False,False
+ꦈꦴ,U+A988 U+A9B4,1,True,False,False
+ꦤꦿ,U+A9A4 U+A9BF,1,True,False,False
+ꦠ꧀ꦉ,U+A9A0 U+A9C0 U+A989,1,True,True,False
+ꦱ꧀ꦔ,U+A9B1 U+A9C0 U+A994,1,True,True,False
+ꦱ꧀ꦤꦶ,U+A9B1 U+A9C0 U+A9A4 U+A9B6,1,True,True,False
+ꦲ꧀ꦒꦸ,U+A9B2 U+A9C0 U+A992 U+A9B8,1,True,True,False
+ꦱ꧀ꦗꦸ,U+A9B1 U+A9C0 U+A997 U+A9B8,1,True,True,False
+ꦔꦸꦂ,U+A994 U+A9B8 U+A982,1,True,False,False
+ꦠ꧀ꦏꦺꦴ,U+A9A0 U+A9C0 U+A98F U+A9BA U+A9B4,1,True,True,False
+ꦤ꧀ꦏꦺꦴ,U+A9A4 U+A9C0 U+A98F U+A9BA U+A9B4,1,True,True,False
+ꦭ꧀ꦠ,U+A9AD U+A9C0 U+A9A0,1,True,True,False
+ꦭ꧀ꦪꦺꦴ,U+A9AD U+A9C0 U+A9AA U+A9BA U+A9B4,1,True,True,False
+ꦭꦾꦺꦴ,U+A9AD U+A9BE U+A9BA U+A9B4,1,True,False,False
+ꦤ꧀ꦑꦺꦴ,U+A9A4 U+A9C0 U+A991 U+A9BA U+A9B4,1,True,True,False
+ꦩ꧀ꦗ,U+A9A9 U+A9C0 U+A997,1,True,True,False
+ꦤꦺꦴꦂ,U+A9A4 U+A9BA U+A9B4 U+A982,1,True,False,False
+ꦱꦾꦃ,U+A9B1 U+A9BE U+A983,1,True,False,False
+4,U+0034,1,False,False,False
+ꦧꦺꦴꦁ,U+A9A7 U+A9BA U+A9B4 U+A981,1,True,False,False
+ꦟꦺ,U+A99F U+A9BA,1,True,False,False
+ꦔꦽꦁ,U+A994 U+A9BD U+A981,1,True,False,False
+ꦥ꧀ꦉ,U+A9A5 U+A9C0 U+A989,1,True,True,False
+3,U+0033,1,False,False,False
+ꦱ꧀ꦛꦺ,U+A9B1 U+A9C0 U+A99B U+A9BA,1,True,True,False
+ꦭ꧀ꦏ,U+A9AD U+A9C0 U+A98F,1,True,True,False
+ꦤ꧀ꦩꦶꦁ,U+A9A4 U+A9C0 U+A9A9 U+A9B6 U+A981,1,True,True,False
+ꦢ꧀‌,U+A9A2 U+A9C0 U+200C,1,False,True,True
+ꦗ꦳ꦶꦂ,U+A997 U+A9B3 U+A9B6 U+A982,1,True,False,False
+2,U+0032,1,False,False,False
+ꦧ꧀ꦥꦿ,U+A9A7 U+A9C0 U+A9A5 U+A9BF,1,True,True,False
+ꦱ꧀ꦲꦶ,U+A9B1 U+A9C0 U+A9B2 U+A9B6,1,True,True,False
+ꦒꦿꦺꦴ,U+A992 U+A9BF U+A9BA U+A9B4,1,True,False,False
+V,U+0056,1,False,False,False
+ꦠ꧀ꦔꦸ,U+A9A0 U+A9C0 U+A994 U+A9B8,1,True,True,False
+1,U+0031,1,False,False,False
+ꦥ꧀ꦮꦂ,U+A9A5 U+A9C0 U+A9AE U+A982,1,True,True,False
+6,U+0036,1,False,False,False
+ꦥꦿꦺ,U+A9A5 U+A9BF U+A9BA,1,True,False,False
+ꦒ꧀ꦏꦺꦴ,U+A992 U+A9C0 U+A98F U+A9BA U+A9B4,1,True,True,False
+ꦭ꧀ꦤ,U+A9AD U+A9C0 U+A9A4,1,True,True,False
+ꦤ꧀ꦩꦁ,U+A9A4 U+A9C0 U+A9A9 U+A981,1,True,True,False
+ꦭ꧀ꦲꦺ,U+A9AD U+A9C0 U+A9B2 U+A9BA,1,True,True,False
+ꦭ꧀ꦢꦸ,U+A9AD U+A9C0 U+A9A2 U+A9B8,1,True,True,False
+ꦏꦶꦃ,U+A98F U+A9B6 U+A983,1,True,False,False
+ꦩ꧀ꦥꦸꦃ,U+A9A9 U+A9C0 U+A9A5 U+A9B8 U+A983,1,True,True,False
+ꦗꦺꦴꦁ,U+A997 U+A9BA U+A9B4 U+A981,1,True,False,False
+ꦮꦶꦂ,U+A9AE U+A9B6 U+A982,1,True,False,False
+ꦧ꧀ꦧꦶ,U+A9A7 U+A9C0 U+A9A7 U+A9B6,1,True,True,False
+ꦫꦺꦁ,U+A9AB U+A9BA U+A981,1,True,False,False
+ꦥ꧀ꦏꦺꦴꦁ,U+A9A5 U+A9C0 U+A98F U+A9BA U+A9B4 U+A981,1,True,True,False
+ꦥ꧀ꦠꦺꦁ,U+A9A5 U+A9C0 U+A9A0 U+A9BA U+A981,1,True,True,False
+ꦱ꧀ꦧꦁ,U+A9B1 U+A9C0 U+A9A7 U+A981,1,True,True,False
+ꦠ꧀ꦩꦸ,U+A9A0 U+A9C0 U+A9A9 U+A9B8,1,True,True,False
+ꦏ꧀ꦭꦶꦂ,U+A98F U+A9C0 U+A9AD U+A9B6 U+A982,1,True,True,False
+ꦲꦾꦁ,U+A9B2 U+A9BE U+A981,1,True,False,False
+ꦧ꧀ꦧꦶꦁ,U+A9A7 U+A9C0 U+A9A7 U+A9B6 U+A981,1,True,True,False
+ꦏ꧀ꦩꦺ,U+A98F U+A9C0 U+A9A9 U+A9BA,1,True,True,False
+ꦑꦁ,U+A991 U+A981,1,True,False,False
+ꦧꦺꦁ,U+A9A7 U+A9BA U+A981,1,True,False,False
+ꦓꦼ,U+A993 U+A9BC,1,True,False,False
+ꦥꦂ,U+A9A5 U+A982,1,True,False,False
+ꦒ꧀ꦪꦺ,U+A992 U+A9C0 U+A9AA U+A9BA,1,True,True,False
+ꦱ꧀ꦲꦁ,U+A9B1 U+A9C0 U+A9B2 U+A981,1,True,True,False
+ꦏ꧀ꦱꦺ,U+A98F U+A9C0 U+A9B1 U+A9BA,1,True,True,False
+ꦩꦿꦶꦁ,U+A9A9 U+A9BF U+A9B6 U+A981,1,True,False,False
+ꦩ꧀ꦱꦁ,U+A9A9 U+A9C0 U+A9B1 U+A981,1,True,True,False
+ꦠ꧀ꦏꦁ,U+A9A0 U+A9C0 U+A98F U+A981,1,True,True,False
+ꦢ꧀ꦠ,U+A9A2 U+A9C0 U+A9A0,1,True,True,False
+ꦠ꧀ꦤꦺꦴ,U+A9A0 U+A9C0 U+A9A4 U+A9BA U+A9B4,1,True,True,False
+ꦏ꧀ꦧꦿ,U+A98F U+A9C0 U+A9A7 U+A9BF,1,True,True,False
+ꦤ꧀ꦤꦁ,U+A9A4 U+A9C0 U+A9A4 U+A981,1,True,True,False
+ꦒ꧀ꦠ,U+A992 U+A9C0 U+A9A0,1,True,True,False
+ꦊꦁ,U+A98A U+A981,1,True,False,False
+ꦥ꧀ꦠꦶ,U+A9A5 U+A9C0 U+A9A0 U+A9B6,1,True,True,False
+꧄,U+A9C4,1,True,False,False
+ꦪꦸꦃ,U+A9AA U+A9B8 U+A983,1,True,False,False
+ꦢꦾꦺꦁ,U+A9A2 U+A9BE U+A9BA U+A981,1,True,False,False
+ꦩ꧀ꦪ,U+A9A9 U+A9C0 U+A9AA,1,True,True,False
+ꦢꦾꦺ,U+A9A2 U+A9BE U+A9BA,1,True,False,False
+ꦪꦶꦁ,U+A9AA U+A9B6 U+A981,1,True,False,False
